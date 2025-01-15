@@ -560,10 +560,10 @@
   "FREEZE_ENEMIES_TITLE": "Freeze Enemies",
   "FREEZE_ENEMIES_DESCRIPTION": "Freezes all enemies' animation speed.",
 
-  "GAME_SPEED_TITLE": "Game Speed",
-  "GAME_SPEED_DESCRIPTION": "Allows to customize speed of the game.",
-  "MULTIPLIER_TITLE": "Multiplier",
-  "MULTIPLIER_DESCRIPTION": "Set the game speed multiplier.",
+  "GAME_SPEED_TITLE": "Velocidad del Juego",
+  "GAME_SPEED_DESCRIPTION": "Permite cambiar la velocidad del juego.",
+  "MULTIPLIER_TITLE": "Multiplicador",
+  "MULTIPLIER_DESCRIPTION": "Modifica el multiplicador de la velocidad del juego.",
 
   "KILL_AURA_TITLE": "Kill Aura",
   "KILL_AURA_DESCRIPTION": "Elimina a los enemigos cercanos.",
