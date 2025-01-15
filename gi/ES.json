@@ -625,11 +625,11 @@
   "MUSIC_GAME_COMBO_TITLE": "Combo",
   "MUSIC_GAME_COMBO_DESCRIPTION": "Sets combo during the game.",
 
-  "OPEN_TEAM_IMMEDIATELY_TITLE": "Open Team Immediately",
-  "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "Opens the team menu immediately without waiting for the count down.",
+  "OPEN_TEAM_IMMEDIATELY_TITLE": "Abrir menu de personajes inmediatamente",
+  "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "Abre el menu de personajes inmediatamente sin tener que esperar el tiempo de carga.",
 
-  "SKIP_CUTSCENE_TITLE": "Skip Cutscene",
-  "SKIP_CUTSCENE_DESCRIPTION": "Skips the cutscenes.\nMay break some game mechanics.",
+  "SKIP_CUTSCENE_TITLE": "Saltar Escenas",
+  "SKIP_CUTSCENE_DESCRIPTION": "Saltas las escenas.\nPuede romper algunas mecanicas del juego.",
 
   "ENABLED_TITLE": "Activado",
   "CONFIG_TITLE": "Configuracion",
