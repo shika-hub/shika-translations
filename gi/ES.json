@@ -235,16 +235,16 @@
   "NO_MODIFIER_DAMAGE_TITLE": "Cancelar modificadores de Daño",
   "NO_MODIFIER_DAMAGE_DESCRIPTION": "Te permite no recibir daño de diferentes modificacioes (por ejemplo: Agua electrificada, Agua hirviendo, Liquidos toxicos, etc.).",
 
-  "INFINITE_ENERGY_TITLE": "Infinite Energy",
-  "INFINITE_ENERGY_DESCRIPTION": "Removes energy requirement for elemental bursts.\n(Elemental burst icons may appear incomplete, but they are still usable.)",
+  "INFINITE_ENERGY_TITLE": "Energia Infinita",
+  "INFINITE_ENERGY_DESCRIPTION": "Los ataques definitivos ya no necesitan energia.\n(El icono aparecera como incompleto pero se podra usar sin problemas)",
 
-  "INFINITE_STAMINA_TITLE": "Infinite Stamina",
-  "INFINITE_STAMINA_DESCRIPTION": "Makes player stamina infinite.",
+  "INFINITE_STAMINA_TITLE": "Stamina Ilimitada",
+  "INFINITE_STAMINA_DESCRIPTION": "Hace que la Stamina del jugador sea Ilimitada.\n(Correr, nadar, planear, etc.)",
 
   "MULTI_HIT_TITLE": "Multi Hit",
-  "MULTI_HIT_DESCRIPTION": "Multiplies player attacks by the set amount.",
-  "MULTI_HIT_AMOUNT_TITLE": "Hits Amount",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "Player attack amount multiplier.",
+  "MULTI_HIT_DESCRIPTION": "Permite hacer que un golpe del jugador haga mas daño.",
+  "MULTI_HIT_AMOUNT_TITLE": "Cantidad Hits",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "Cantidad de golpes que hara el jugador.",
 
   "NO_CLIP_TITLE": "No Clip",
   "NO_CLIP_DESCRIPTION": "Disables player collision, and allows to fly in any direction quickly.\nTo move, use WASD, Space (Go Up), and Shift (Go Down).",
