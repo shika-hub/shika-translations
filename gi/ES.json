@@ -282,9 +282,9 @@
   "COOLDOWN_VEHICLE_SKILL_TITLE": "Habilidad de vehiculo sin tiempo de espera",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Elimina el tiempo de espera de las habilidades de vehiculo.",
 
-  "PLAYER_SPEED_TITLE": "Player Speed",
-  "PLAYER_SPEED_DESCRIPTION": "Allows to customize player movement speed.",
-  "PLAYER_SPEED_VALUE_TITLE": "Speed Value",
+  "PLAYER_SPEED_TITLE": "Velocidad del jugador",
+  "PLAYER_SPEED_DESCRIPTION": "Te permite modificar la velocidad del jugador.",
+  "PLAYER_SPEED_VALUE_TITLE": "Valor de velocidad",
 
   "MODULE_SETTINGS": "Settings",
 
