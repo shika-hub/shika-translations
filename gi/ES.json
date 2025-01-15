@@ -557,8 +557,8 @@
   "COMBINE_COUNT_TITLE": "Count",
   "COMBINE_TITLE": "Combine",
 
-  "FREEZE_ENEMIES_TITLE": "Freeze Enemies",
-  "FREEZE_ENEMIES_DESCRIPTION": "Freezes all enemies' animation speed.",
+  "FREEZE_ENEMIES_TITLE": "Congelar Enemiegos",
+  "FREEZE_ENEMIES_DESCRIPTION": "Congela a los enemigos, impidiendo que se muevan.",
 
   "GAME_SPEED_TITLE": "Velocidad del Juego",
   "GAME_SPEED_DESCRIPTION": "Permite cambiar la velocidad del juego.",
