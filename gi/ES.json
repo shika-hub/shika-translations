@@ -373,11 +373,11 @@
   "GM_ICON_TITLE": "GM Icon",
   "GM_ICON_DESCRIPTION": "Shows a GameManager icon.",
 
-  "GRAPHICS_TITLE": "Graphics Changer",
-  "GRAPHICS_DESCRIPTION": "Allows to customize some rendering features.",
-  "GRAPHICS_OUTLINE_WIDTH": "Outline Width",
-  "GRAPHICS_GAMMA_TITLE": "Gamma Scale",
-  "GRAPHICS_DRS_TITLE": "Render Scale",
+  "GRAPHICS_TITLE": "Cambiador grafico",
+  "GRAPHICS_DESCRIPTION": "Permite personalizar algunas características de renderizado.",
+  "GRAPHICS_OUTLINE_WIDTH": "Ancho del contorno",
+  "GRAPHICS_GAMMA_TITLE": "Escala de iluminación",
+  "GRAPHICS_DRS_TITLE": "Escala de resolución dinámica",
 
   "HIDE_DAMAGE_TITLE": "Hide Damage",
   "HIDE_DAMAGE_DESCRIPTION": "Hides the damage numbers.",
