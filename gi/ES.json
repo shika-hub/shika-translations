@@ -537,8 +537,8 @@
   "DUMB_ENEMIES_TITLE": "Enemigos idiotas",
   "DUMB_ENEMIES_DESCRIPTION": "Los enemigos no atacarán ni usarán sus habilidades contra el jugador.\nPuede que no funcione con algunos enemigos o habilidades de enemigos.",
 
-  "ELEMENTAL_SIGHT_TITLE": "Permanent Elemental Sight",
-  "ELEMENTAL_SIGHT_DESCRIPTION": "Elemental sight is kept on even when moving.",
+  "ELEMENTAL_SIGHT_TITLE": "Vista elemental permanente",
+  "ELEMENTAL_SIGHT_DESCRIPTION": "La vista elemental permanece activa incluso mientras te mueves.",
 
   "FAKE_TIME_TITLE": "Fake Time",
   "FAKE_TIME_DESCRIPTION": "Keep game time the same.",
