@@ -361,11 +361,11 @@
   "CENSORSHIP_TITLE": "Sin Censura",
   "CENSORSHIP_DESCRIPTION": "Desactiva el efecto de desvanecimiento de censura de la cámara, que aparece cuando acercas demasiado la cámara al jugador.",
 
-  "WEATHER_TITLE": "Override Weather",
-  "WEATHER_DESCRIPTION": "Allows to override the weather.",
-  "WEATHER_TYPE_TITLE": "Select Weather Type",
-  "WEATHER_CUSTOM_TITLE": "Custom Weather",
-  "WEATHER_CUSTOM_DESCRIPTION": "If you know a weather type that is missing in the list above, you can write its path here.\nE.G. Data/Environment/Weather/BigWorld/Weather_ClearSky",
+  "WEATHER_TITLE": "Sobreescribir Clima",
+  "WEATHER_DESCRIPTION": "Sobreescribe el clima actual con el clima seleccionado.",
+  "WEATHER_TYPE_TITLE": "Selecciona tipo de clima",
+  "WEATHER_CUSTOM_TITLE": "Clima customizado",
+  "WEATHER_CUSTOM_DESCRIPTION": "Si conoces un tipo de clima que falta en la lista anterior, puedes escribir su ruta aquí.\nEjemplo: Data/Environment/Weather/BigWorld/Weather_ClearSky",
 
   "FREE_CAMERA_TITLE": "Free Camera",
   "FREE_CAMERA_DESCRIPTION": "Allows to freely control the camera without any limitations.",
