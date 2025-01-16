@@ -540,11 +540,11 @@
   "ELEMENTAL_SIGHT_TITLE": "Vista elemental permanente",
   "ELEMENTAL_SIGHT_DESCRIPTION": "La vista elemental permanece activa incluso mientras te mueves.",
 
-  "FAKE_TIME_TITLE": "Fake Time",
-  "FAKE_TIME_DESCRIPTION": "Keep game time the same.",
-  "HOUR_TITLE": "Hour",
-  "MINUTE_TITLE": "Minute",
-  "SYNC2SERVER_TITLE": "Sync to server",
+  "FAKE_TIME_TITLE": "Hora falsa",
+  "FAKE_TIME_DESCRIPTION": "Mantiene la hora del juego igual.",
+  "HOUR_TITLE": "Hora",
+  "MINUTE_TITLE": "Minuto",
+  "SYNC2SERVER_TITLE": "Sincronizar con el servidor",
 
   "FAST_COMBINE_TITLE": "Fast Combine",
   "FAST_COMBINE_DESCRIPTION": "Allows you to quickly create an item.",
