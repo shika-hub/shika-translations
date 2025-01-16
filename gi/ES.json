@@ -463,12 +463,12 @@
   "INDICATORS_ALL_STATUS": "Todos",
   "INDICATORS_NONE_STATUS": "Ninguno",
 
-  "FPS_UNLOCK_TITLE": "Unlock FPS",
-  "FPS_UNLOCK_DESCRIPTION": "Allows the game to run at a framerates greater than 60 FPS.",
-  "FPS_VALUE_TITLE": "FPS Value",
-  "FPS_LOCK_TITLE": "Lock FPS",
-  "FPS_LOCK_DESCRIPTION": "Limits game framerate while in the background.\nThis won't work if the cheat menu is open or if you're in a loading screen.",
-  "FPS_LIMIT_TITLE": "FPS Limit",
+  "FPS_UNLOCK_TITLE": "Desbloquear FPS",
+  "FPS_UNLOCK_DESCRIPTION": "Permite que el juego se ejecute a una tasa de fotogramas superior a 60 FPS.",
+  "FPS_VALUE_TITLE": "Valor de FPS",
+  "FPS_LOCK_TITLE": "Bloquear FPS",
+  "FPS_LOCK_DESCRIPTION": "Limita la tasa de fotogramas del juego mientras está en segundo plano.\nEsto no funcionará si el menú de trucos está abierto o si estás en una pantalla de carga.",
+  "FPS_LIMIT_TITLE": "Límite de FPS",
 
   "MODULE_WORLD": "World",
 
