@@ -370,8 +370,8 @@
   "FREE_CAMERA_TITLE": "Camara Libre",
   "FREE_CAMERA_DESCRIPTION": "Permite mover la cámara libremente sin ninguna restricción.",
 
-  "GM_ICON_TITLE": "GM Icon",
-  "GM_ICON_DESCRIPTION": "Shows a GameManager icon.",
+  "GM_ICON_TITLE": "Ícono de GM",
+  "GM_ICON_DESCRIPTION": "Muestra un ícono de GameManager.",
 
   "GRAPHICS_TITLE": "Cambiador grafico",
   "GRAPHICS_DESCRIPTION": "Permite personalizar algunas características de renderizado.",
