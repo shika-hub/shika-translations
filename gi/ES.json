@@ -337,7 +337,7 @@
   "MODULE_TELEPORT": "Teletransporte",
 
   "MAP_TELEPORT_TITLE": "Mapa de Teletransporte",
-  "MAP_TELEPORT_DESCRIPTION": "Habilita la funcionalidad de teletransporte a una marca.\nUso:\n1. Abre el mapa.\n2. Mantén presionada la [Tecla de Teletransporte] y haz clic con el botón izquierdo del ratón (LMB) en cualquier lugar del mapa.\n¡Listo! Te has teletransportado a la ubicación seleccionada.\nEl teletransporte puede fallar si intentas ir a una ubicación extremadamente alta.\nAjusta la Altura de Sobrescritura (Override Height) según sea necesario para evitar problemas.",
+  "MAP_TELEPORT_DESCRIPTION": "Habilita la funcionalidad de teletransporte a una marca.\nUso:\n1. Abre el mapa.\n2. Mantén presionada la [Tecla de Teletransporte] y haz Click con el botón izquierdo del ratón (LMB) en cualquier lugar del mapa.\n¡Listo! Te has teletransportado a la ubicación seleccionada.\nEl teletransporte puede fallar si intentas ir a una ubicación extremadamente alta.\nAjusta la Altura de Sobrescritura (Override Height) según sea necesario para evitar problemas.",
   "MAP_TELEPORT_KEY_TITLE": "Tecla de Teletransporte",
   "MAP_TELEPORT_KEY_DESCRIPTION": "Tecla que se usará para teletransportarse (debe tener una ubicación de marca en el mapa).",
   "MAP_TELEPORT_TRANSPORT_TITLE": "Usar posición de transporte",
@@ -557,7 +557,7 @@
   "COMBINE_COUNT_TITLE": "Cantidad",
   "COMBINE_TITLE": "Combinar",
 
-  "FREEZE_ENEMIES_TITLE": "Congelar Enemiegos",
+  "FREEZE_ENEMIES_TITLE": "Congelar Enemigos",
   "FREEZE_ENEMIES_DESCRIPTION": "Congela a los enemigos, impidiendo que se muevan.",
 
   "GAME_SPEED_TITLE": "Velocidad del Juego",
