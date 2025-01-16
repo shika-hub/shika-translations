@@ -367,8 +367,8 @@
   "WEATHER_CUSTOM_TITLE": "Clima customizado",
   "WEATHER_CUSTOM_DESCRIPTION": "Si conoces un tipo de clima que falta en la lista anterior, puedes escribir su ruta aquí.\nEjemplo: Data/Environment/Weather/BigWorld/Weather_ClearSky",
 
-  "FREE_CAMERA_TITLE": "Free Camera",
-  "FREE_CAMERA_DESCRIPTION": "Allows to freely control the camera without any limitations.",
+  "FREE_CAMERA_TITLE": "Camara Libre",
+  "FREE_CAMERA_DESCRIPTION": "Permite mover la cámara libremente sin ninguna restricción.",
 
   "GM_ICON_TITLE": "GM Icon",
   "GM_ICON_DESCRIPTION": "Shows a GameManager icon.",
