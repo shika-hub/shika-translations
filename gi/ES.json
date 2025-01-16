@@ -219,9 +219,9 @@
 
   "MODULE_MISC": "Misc",
 
-  "GACHA_URL_FETCHER_TITLE": "Gacha Url Fetcher",
-  "GACHA_URL_FETCHER_DESCRIPTION": "Auto get link when opening Wish History.",
-  "URL_TITLE": "Gacha Url",
+  "GACHA_URL_FETCHER_TITLE": "Extractor de URL de Gacha",
+  "GACHA_URL_FETCHER_DESCRIPTION": "Obtiene automáticamente el enlace al abrir el Historial de Deseos.",
+  "URL_TITLE": "URL de Gacha",
   "COPY_TITLE": "Copiar",
 
   "MODULE_PLAYER": "Jugador",
