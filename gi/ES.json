@@ -345,8 +345,8 @@
   "MAP_TELEPORT_OVERRIDE_TITLE": "Sobreescribir altura (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "Si el teletransporte no puede obtener la altura del suelo de la ubicación objetivo,\nte teletransportará a la altura especificada aquí.\nSe recomienda que este valor sea al menos tan alto como una montaña.\nDe lo contrario, podrías caer a través del suelo.",
 
-  "QUEST_TELEPORT_TITLE": "Quest Teleport",
-  "QUEST_TELEPORT_DESCRIPTION": "Teleport to QuestPoint.\n(Does not work for some Quest Areas)\nPress the 'V' key to track the Quest, then press the hotkey to teleport.",
+  "QUEST_TELEPORT_TITLE": "Teletransporte a misión",
+  "QUEST_TELEPORT_DESCRIPTION": "Teletransportarse al punto de misión.\n(No funciona para algunas áreas de misión)\nPresiona la tecla 'V' para rastrear la misión, luego presiona la tecla rápida para teletransportarte.",
 
   "MODULE_VISUALS": "Visuals",
 
