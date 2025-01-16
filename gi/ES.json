@@ -534,8 +534,8 @@
   "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Excluir Katheryne/Tubby/Wagner",
   "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "La selección automática ignora a Katheryne/Tubby/Wagner.",
 
-  "DUMB_ENEMIES_TITLE": "Dumb Enemies",
-  "DUMB_ENEMIES_DESCRIPTION": "Enemies won't attack or use their abilities against the player.\nMay not work with some enemies or enemy abilities.",
+  "DUMB_ENEMIES_TITLE": "Enemigos idiotas",
+  "DUMB_ENEMIES_DESCRIPTION": "Los enemigos no atacarán ni usarán sus habilidades contra el jugador.\nPuede que no funcione con algunos enemigos o habilidades de enemigos.",
 
   "ELEMENTAL_SIGHT_TITLE": "Permanent Elemental Sight",
   "ELEMENTAL_SIGHT_DESCRIPTION": "Elemental sight is kept on even when moving.",
