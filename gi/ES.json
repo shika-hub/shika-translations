@@ -348,15 +348,15 @@
   "QUEST_TELEPORT_TITLE": "Teletransporte a misión",
   "QUEST_TELEPORT_DESCRIPTION": "Teletransportarse al punto de misión.\n(No funciona para algunas áreas de misión)\nPresiona la tecla 'V' para rastrear la misión, luego presiona la tecla rápida para teletransportarte.",
 
-  "MODULE_VISUALS": "Visuals",
+  "MODULE_VISUALS": "Visual",
 
-  "CAMERA_FOV_TITLE": "Fov Changer",
-  "CAMERA_FOV_DESCRIPTION": "Changes the camera field of view.",
-  "CAMERA_FOV_VALUE_TITLE": "Fov Value",
+  "CAMERA_FOV_TITLE": "Editor de FOV",
+  "CAMERA_FOV_DESCRIPTION": "Permite personalizar el campo de visión de la cámara.",
+  "CAMERA_FOV_VALUE_TITLE": "Valor FOV",
 
-  "CAMERA_ZOOM_TITLE": "Camera Zoom",
-  "CAMERA_ZOOM_DESCRIPTION": "Enables the camera zoom customization.",
-  "CAMERA_ZOOM_VALUE_TITLE": "Zoom Value",
+  "CAMERA_ZOOM_TITLE": "Zoom de Camara",
+  "CAMERA_ZOOM_DESCRIPTION": "Permite personalizar el zoom de la cámara.",
+  "CAMERA_ZOOM_VALUE_TITLE": "Valor Zoom",
 
   "CENSORSHIP_TITLE": "No Censorship",
   "CENSORSHIP_DESCRIPTION": "Disables the camera censorship fade effect, which shows up when you move camera too close to the player.",
