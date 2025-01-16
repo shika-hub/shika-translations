@@ -410,17 +410,17 @@
   "HIDE_UI_TOP_TITLE": "Ocultar botones superiores",
   "HIDE_UI_TOP_DESCRIPTION": "Oculta los botones en la parte superior derecha del juego.",
 
-  "NO_FOG_TITLE": "No Fog",
-  "NO_FOG_DESCRIPTION": "Removes the fog.",
+  "NO_FOG_TITLE": "Ocultar Niebla",
+  "NO_FOG_DESCRIPTION": "Oculta la niebla del juego.",
 
-  "NO_GRASS_TITLE": "No Grass",
-  "NO_GRASS_DESCRIPTION": "Removes the grass.",
+  "NO_GRASS_TITLE": "Ocultar Hierba",
+  "NO_GRASS_DESCRIPTION": "Oculta la hierba del juego.",
 
-  "NO_MAP_FOG_TITLE": "No Map Fog",
-  "NO_MAP_FOG_DESCRIPTION": "Removes the map fog.",
+  "NO_MAP_FOG_TITLE": "Ocultar niebla del mapa",
+  "NO_MAP_FOG_DESCRIPTION": "Oculta la niebla del mapa.",
 
-  "PAIMON_FOLLOW_TITLE": "Paimon Follow",
-  "PAIMON_FOLLOW_DESCRIPTION": "To display paimon, turn on the function, open the paimon menu (ESC) and then close it.\nIf the paimon disappeared after teleportation, do not disable the function, open and close the profile.",
+  "PAIMON_FOLLOW_TITLE": "Seguimiento de Paimon",
+  "PAIMON_FOLLOW_DESCRIPTION": "Para mostrar a Paimon, activa la función, abre el menú de Paimon (ESC) y luego ciérralo.\nSi Paimon desaparece después de teletransportarte, no desactives la función, solo abre y cierra el perfil.",
 
   "PROFILE_TITLE": "Profile Changer",
   "PROFILE_DESCRIPTION": "Changes the profile appearance.",
