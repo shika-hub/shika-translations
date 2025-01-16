@@ -358,8 +358,8 @@
   "CAMERA_ZOOM_DESCRIPTION": "Permite personalizar el zoom de la cámara.",
   "CAMERA_ZOOM_VALUE_TITLE": "Valor Zoom",
 
-  "CENSORSHIP_TITLE": "No Censorship",
-  "CENSORSHIP_DESCRIPTION": "Disables the camera censorship fade effect, which shows up when you move camera too close to the player.",
+  "CENSORSHIP_TITLE": "Sin Censura",
+  "CENSORSHIP_DESCRIPTION": "Desactiva el efecto de desvanecimiento de censura de la cámara, que aparece cuando acercas demasiado la cámara al jugador.",
 
   "WEATHER_TITLE": "Override Weather",
   "WEATHER_DESCRIPTION": "Allows to override the weather.",
