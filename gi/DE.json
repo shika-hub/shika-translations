@@ -175,7 +175,7 @@
   "ESP_PHANTASMAL_GATE_TITLE": "Tor der Fantasie",
   "ESP_PLUME_OF_PURIFYING_LIGHT_TITLE": "Feder reinigenden Lichts",
   "ESP_PNEUMOUSIA_MECHANISM_TITLE": "Pneumousia-Relais",
-  "ESP_PLESSURE_PLATE_TITLE": "Druckplatte", // check for better translation, 1:1 auf Gewicht reagierende Vorrichtung //
+  "ESP_PLESSURE_PLATE_TITLE": "Druckplatte",
   "ESP_PRIMAL_EMBER_TITLE": "Urglut",
   "ESP_PRIMAL_OBELISK_TITLE": "Urobelisk",
   "ESP_PRIMAL_SANDGLASS_TITLE": "Ursanduhr",
@@ -217,7 +217,7 @@
   "EXECUTE_TITLE": "Ausführen",
   "LUA_EXAMPLES_TITLE": "LUA Beispiele",
 
-  "MODULE_MISC": "Misc",  // offen //
+  "MODULE_MISC": "Verschiedenes",  
 
   "GACHA_URL_FETCHER_TITLE": "Gacha Url Fetcher",  // offen //
   "GACHA_URL_FETCHER_DESCRIPTION": "Auto get link when opening Wish History.",  // offen //
@@ -291,10 +291,10 @@
   "SETTINGS_LANGUAGE": "Sprache",
   "LANGUAGE_CURRENT": "Ausgewählte Sprache",
   "SETTINGS_GENERAL": "Allgemein",
-  "MENU_HOTKEY_TITLE": "Toggle Menu", // offen //
+  "MENU_HOTKEY_TITLE": "Menü anzeigen",
   "INJECT_AFTER_LOGIN_TITLE": "Inject After Login", // offen //
   "INJECT_AFTER_LOGIN_DESCRIPTION": "The injection will only be executed after the first login to the game world.\n(Changes will take effect after a relaunch.)", // offen //
-  "PROTECTION_TITLE": "Disable Protection", // offen //
+  "PROTECTION_TITLE": "Schutz deaktivieren",
   "PROTECTION_DESCRIPTION": "Closes the anticheat handle.\n(Changes will take effect after a relaunch.)", // offen //
   "ANALYTICS_TITLE": "Disable Analytic Log",
   "ANALYTICS_DESCRIPTION": "Prevents game telemetry and analytics from spamming the console.\n(Changes will take effect after a relaunch.)", // offen //
@@ -306,8 +306,8 @@
   "SHOW_STATUS_WINDOW_DESCRIPTION": "Shows a window with statements of enabled functions.", // offen //
   "MOVE_STATUS_TITLE": "Movable Status Window", // offen //
   "MOVE_STATUS_DESCRIPTION": "Allows 'Status' window to be moved by dragging it.", // offen //
-  "SHOW_FPS_TITLE": "Show Current FPS", // offen //
-  "SHOW_FPS_DESCRIPTION": "Shows current in-game framerate.", // offen //
+  "SHOW_FPS_TITLE": "Aktuelle FPS anzeigen", 
+  "SHOW_FPS_DESCRIPTION": "Zeigt die derzeitigen FPS an",
   "MOVE_FPS_TITLE": "Movable FPS Window", // offen //
   "MOVE_FPS_DESCRIPTION": "Allows 'FPS' window to be moved by dragging it.", // offen //
   "INIT_DELAY_TITLE": "Initialization Delay (MS)", // offen //
@@ -328,7 +328,7 @@
   "SETTINGS_STYLE": "Style",
   "STYLE_COZY_TITLE": "Cozy",
   "STYLE_COZY_SQUARED_TITLE": "Cozy (Squared)",
-  "SETTINGS_CUSTOMIZE": "Customize", // offen //
+  "SETTINGS_CUSTOMIZE": "Anpassen",
   "FADE_DURATION_TITLE": "Fade Duration (S)", // offen //
   "FADE_DURATION_DESCRIPTION": "Changes duration of the window fade in/out animations.", // offen //
   "DEVELOPER_MODE_TITLE": "Entwicklermodus",
@@ -336,9 +336,9 @@
 
   "MODULE_TELEPORT": "Teleport",
 
-  "MAP_TELEPORT_TITLE": "Map Teleport", // offen //
+  "MAP_TELEPORT_TITLE": "Map Teleport",
   "MAP_TELEPORT_DESCRIPTION": "Enable teleport-to-mark functionality.\nUsage:\n1. Open map.\n2. Hold [Teleport Key] and click with the LMB anywhere in the map.\nDone. You have been teleported to selected location.\nTeleport might glitch if teleporting to an extremely high location.\nAdjust Override Height accordingly to help avoid.", // offen //
-  "MAP_TELEPORT_KEY_TITLE": "Teleport Key", // offen //
+  "MAP_TELEPORT_KEY_TITLE": "Teleport-Taste",
   "MAP_TELEPORT_KEY_DESCRIPTION": "Key to hold down before clicking on target location.", // offen //
   "MAP_TELEPORT_TRANSPORT_TITLE": "Use transport position", // offen //
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Use system default transport position instead of mark absolute position when teleport to building and transport mark.", // offen //
@@ -361,13 +361,13 @@
   "CENSORSHIP_TITLE": "No Censorship", // offen //
   "CENSORSHIP_DESCRIPTION": "Disables the camera censorship fade effect, which shows up when you move camera too close to the player.", // offen //
  
-  "WEATHER_TITLE": "Override Weather", // offen //
+  "WEATHER_TITLE": "Wetter überschreiben",
   "WEATHER_DESCRIPTION": "Allows to override the weather.", // offen //
   "WEATHER_TYPE_TITLE": "Select Weather Type", // offen //
   "WEATHER_CUSTOM_TITLE": "Custom Weather", // offen //
   "WEATHER_CUSTOM_DESCRIPTION": "If you know a weather type that is missing in the list above, you can write its path here.\nE.G. Data/Environment/Weather/BigWorld/Weather_ClearSky", // offen //
 
-  "FREE_CAMERA_TITLE": "Free Camera", // offen //
+  "FREE_CAMERA_TITLE": "Freie Kamera",
   "FREE_CAMERA_DESCRIPTION": "Allows to freely control the camera without any limitations.", // offen //
 
   "GM_ICON_TITLE": "GM Icon",
@@ -376,14 +376,13 @@
   "GRAPHICS_TITLE": "Graphics Changer", // offen // 
   "GRAPHICS_DESCRIPTION": "Allows to customize some rendering features.", // offen //
   "GRAPHICS_OUTLINE_WIDTH": "Outline Width", // offen //
-  "GRAPHICS_GAMMA_TITLE": "Gamma Scale", // offen //
-  "GRAPHICS_DRS_TITLE": "Render Scale", // offen //
+  "GRAPHICS_GAMMA_TITLE": "Gamma-Wert", 
+  "GRAPHICS_DRS_TITLE": "Render-Wert",
 
-  "HIDE_DAMAGE_TITLE": "Hide Damage", // offen //
-  "HIDE_DAMAGE_DESCRIPTION": "Hides the damage numbers.", // offen //
-
-  "HIDE_REACTION_TITLE": "Hide Reaction", // offen //
-  "HIDE_REACTION_DESCRIPTION": "Hides the elemental reactions.", // offen //
+  "HIDE_DAMAGE_TITLE": "Schaden ausblenden",
+  "HIDE_DAMAGE_DESCRIPTION": "Blendet Schadenszahlen aus.",
+  "HIDE_REACTION_TITLE": "Elementarreaktionen ausblenden",
+  "HIDE_REACTION_DESCRIPTION": "Blendet Elementarreaktionen aus.",
 
   "HIDE_UI_TITLE": "UI ausblenden",
   "HIDE_UI_DESCRIPTION": "Blendet das UI vollständig oder teilweise aus.",
@@ -413,8 +412,8 @@
   "NO_FOG_TITLE": "Kein Nebel",
   "NO_FOG_DESCRIPTION": "Entfernt Nebel.",
 
-  "NO_GRASS_TITLE": "No Grass", // offen //
-  "NO_GRASS_DESCRIPTION": "Removes the grass.", // offen //
+  "NO_GRASS_TITLE": "Kein Gras",
+  "NO_GRASS_DESCRIPTION": "Entfernt Gras.",
 
   "NO_MAP_FOG_TITLE": "No Map Fog", // offen //
   "NO_MAP_FOG_DESCRIPTION": "Removes the map fog.", // offen //
@@ -465,14 +464,14 @@
 
   "FPS_UNLOCK_TITLE": "Unlock FPS", // offen //
   "FPS_UNLOCK_DESCRIPTION": "Allows the game to run at a framerates greater than 60 FPS.", // offen //
-  "FPS_VALUE_TITLE": "FPS Value", // offen //
-  "FPS_LOCK_TITLE": "Lock FPS", // offen //
+  "FPS_VALUE_TITLE": "FPS-Wert",
+  "FPS_LOCK_TITLE": "FPS festlegen",
   "FPS_LOCK_DESCRIPTION": "Limits game framerate while in the background.\nThis won't work if the cheat menu is open or if you're in a loading screen.", // offen //
   "FPS_LIMIT_TITLE": "FPS Limit",
 
   "MODULE_WORLD": "Welt",
 
-  "AUTO_DESTROY_TITLE": "Auto Destroy", // offen //
+  "AUTO_DESTROY_TITLE": "Auto-Zerstören",
   "AUTO_DESTROY_DESCRIPTION": "Instantly destroys non-living objects within a range.", // offen //
   "AUTO_DESTROY_ORES_TITLE": "Erze",
   "AUTO_DESTROY_ORES_DESCRIPTION": "Ores and variants, e.g. Electro Crystals, Marrows, etc.",
@@ -480,7 +479,7 @@
   "AUTO_DESTROY_SHIELDS_DESCRIPTION": "Abyss Mage/Churl/Slime shields.", // offen // Schilde von Abgrundmagiern, Hili- & Mitachurl, Schleimen
   "AUTO_DESTROY_DOODADS_TITLE": "Doodads", // offen //
   "AUTO_DESTROY_DOODADS_DESCRIPTION": "Barrels, Boxes, Vases, etc.", // offen //
-  "AUTO_DESTROY_PLANTS_TITLE": "Plants", // offen //
+  "AUTO_DESTROY_PLANTS_TITLE": "Pflanzen",
   "AUTO_DESTROY_PLANTS_DESCRIPTION": "Löwenzahnsamen, Sakura-Blüte, etc.",
   "AUTO_DESTROY_SPECIAL_OBJECTS_TITLE": "Besondere Objekte",
   "AUTO_DESTROY_SPECIAL_OBJECTS_DESCRIPTION": "Destroy Ancient Rime, Large and Small Rock Piles.", // offen //
@@ -516,19 +515,19 @@
   "AUTO_LOOT_PICKUP_FILTER_TITLE": "Pickup Filter", // offen //
   "AUTO_LOOT_PICKUP_FILTER_DESCRIPTION": "Enables the pickup filter.", // offen //
   "AUTO_LOOT_ANIMALS_TITLE": "Tiere",
-  "AUTO_LOOT_ANIMALS_DESCRIPTION": "Fish, Lizard, Frog, Flying animals.", // offen //
+  "AUTO_LOOT_ANIMALS_DESCRIPTION": "Fische, Eidechsen, Frösche, fliegende Tiere, ... ", 
   "AUTO_LOOT_DROPPED_ITEMS_TITLE": "Dropped Items", // offen //
-  "AUTO_LOOT_DROPPED_ITEMS_DESCRIPTION": "Materials, Minerals, Artifacts.", // offen //
+  "AUTO_LOOT_DROPPED_ITEMS_DESCRIPTION": "Materialien, Mineralien, Artefakte",
   "AUTO_LOOT_RESOURCES_TITLE": "Resources", // offen //
   "AUTO_LOOT_RESOURCES_DESCRIPTION": "Everythings beside Animals and Drop Items (Plants, Books, etc.).", // offen //
-  "AUTO_LOOT_OCULUSES_TITLE": "Oculuses", // offen //
-  "AUTO_LOOT_OCULUSES_DESCRIPTION": "Regional oculuses.", // offen //
+  "AUTO_LOOT_OCULUSES_TITLE": "Oculi", 
+  "AUTO_LOOT_OCULUSES_DESCRIPTION": "Regionale Oculi (z.B. Anemoculus, Geoculus, ...)", 
  
   "AUTO_TALK_TITLE": "Auto Talk", // offen //
   "AUTO_TALK_DESCRIPTION": "Automatically goes through the dialogues.\nNote: Using values greater than 5.0 is not recommended, as they may break some game mechanics.", // offen //
   "AUTO_TALK_AUTO_CLICK_TITLE": "Auto Click", // offen //
   "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "Automatically continue the dialog.", // offen //
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "Dialog Speed", // offen //
+  "AUTO_TALK_DIALOG_SPEED_TITLE": "Dialoggeschwindigkeit",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "Auto Select Dialog", // offen //
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Automatically selects dialog choices.", // offen //
   "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Exclude Katheryne/Tubby/Wagner", // offen //
@@ -548,13 +547,13 @@
 
   "FAST_COMBINE_TITLE": "Fast Combine", // offen //
   "FAST_COMBINE_DESCRIPTION": "Allows you to quickly create an item.", // offen //
-  "FAST_COMBINE_RESIN_TITLE": "Condensed Resin", // offen //
-  "FAST_COMBINE_WAYPOINT_TITLE": "Portable Waypoint", // offen //
+  "FAST_COMBINE_RESIN_TITLE": "Angereichertes Harz",
+  "FAST_COMBINE_WAYPOINT_TITLE": "Tragbarer Teleportationspunkt",
   "CUSTOM_COMBINE_TITLE": "Custom Combine", // offen //
   "COMBINE_ITEM_TITLE": "Item", // offen //
-  "COMBINE_ID_TITLE": "ID", // offen //
+  "COMBINE_ID_TITLE": "ID",
   "LIST_COMBINES_ID_TITLE": "List of Combines id", // offen //
-  "COMBINE_COUNT_TITLE": "Count", // offen //
+  "COMBINE_COUNT_TITLE": "Menge",
   "COMBINE_TITLE": "Combine", // offen //
 
   "FREEZE_ENEMIES_TITLE": "Freeze Enemies", // offen //
@@ -590,9 +589,9 @@
   "MOB_VACUUM_INCLUDE_MONSTERS_DESCRIPTION": "Includes monsters in the vacuum.", // offen //
   "MOB_VACUUM_COMMON_TITLE": "Common", // offen //
   "MOB_VACUUM_COMMON_DESCRIPTION": "Common enemies.", // offen //
-  "MOB_VACUUM_ELITE_TITLE": "Elite", // offen //
-  "MOB_VACUUM_ELITE_DESCRIPTION": "Elite enemies.", // offen //
-  "MOB_VACUUM_BOSS_TITLE": "Boss", // offen //
+  "MOB_VACUUM_ELITE_TITLE": "Elite",
+  "MOB_VACUUM_ELITE_DESCRIPTION": "Elitegegner.",
+  "MOB_VACUUM_BOSS_TITLE": "Boss",
   "MOB_VACUUM_BOSS_DESCRIPTION": "World and Trounce boss enemies.", // offen //
   "MOB_VACUUM_INCLUDE_ANIMALS_TITLE": "Include Animals", // offen //
   "MOB_VACUUM_INCLUDE_ANIMALS_DESCRIPTION": "Include animals in the vacuum.", // offen //
@@ -623,7 +622,7 @@
   "MUSIC_GAME_HIT_TITLE": "Treffer",
   "MUSIC_GAME_HIT_DESCRIPTION": "The number of points per tap.", // offen //
   "MUSIC_GAME_COMBO_TITLE": "Kombo",
-  "MUSIC_GAME_COMBO_DESCRIPTION": "Sets combo during the game.", // offen //
+  "MUSIC_GAME_COMBO_DESCRIPTION": "Legt die Kombo während des Spielens fest.",
  
   "OPEN_TEAM_IMMEDIATELY_TITLE": "Truppmenü sofort öffnen",
   "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "Öffnet das Truppmenü ohne Wartezeit.",
@@ -635,8 +634,8 @@
   "CONFIG_TITLE": "Config", // offen //
   "FONT_SIZE_TITLE": "Schriftgröße",
   "COLORS_TITLE": "Colors", // offen //
-  "TRANSPARENCY_TITLE": "Transparency", // offen //
-  "FILTERS_TITLE": "Filters", // offen //
+  "TRANSPARENCY_TITLE": "Transparenz",
+  "FILTERS_TITLE": "Filter",
   "RANGE_TITLE": "Range (M)", // offen //
   "DISTANCE_TITLE": "Distance (M)", // offen //
   "COLLIDER_TITLE": "Collider (M)", // offen //
