@@ -570,6 +570,7 @@
   "GAME_SPEED_DESCRIPTION": "ゲーム内速度を上昇させる",
   "MULTIPLIER_TITLE": "倍率",
   "MULTIPLIER_DESCRIPTION": "ゲーム速度の倍率を設定する",
+  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "キルオーラ",
   "KILL_AURA_DESCRIPTION": "キルオーラを有効にする",

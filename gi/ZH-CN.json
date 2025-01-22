@@ -565,6 +565,7 @@
   "GAME_SPEED_DESCRIPTION": "加快游戏速度.",
   "MULTIPLIER_TITLE": "倍数",
   "MULTIPLIER_DESCRIPTION": "设置游戏速度倍数.",
+  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "杀戮光环",
   "KILL_AURA_DESCRIPTION": "启动杀戮光环.",

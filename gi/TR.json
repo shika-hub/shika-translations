@@ -564,6 +564,7 @@
   "GAME_SPEED_DESCRIPTION": "Oyun hızının özelleştirilmesine izin verir.",
   "MULTIPLIER_TITLE": "Çarpan",
   "MULTIPLIER_DESCRIPTION": "Oyun hızının çarpanını ayarlar.",
+  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "Kill Aura",
   "KILL_AURA_DESCRIPTION": "Ayarlanmış uzaklıktaki bütün canavarları öldürür.",

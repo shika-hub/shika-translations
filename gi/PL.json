@@ -564,6 +564,7 @@
   "GAME_SPEED_DESCRIPTION": "Umożliwia ustawienie niestandardowej prędkości gry.",
   "MULTIPLIER_TITLE": "Multiplier",
   "MULTIPLIER_DESCRIPTION": "Mnożnik prędkości gry.",
+  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "Kill Aura",
   "KILL_AURA_DESCRIPTION": "Zabija wszystkich wrogów w zasięgu.",

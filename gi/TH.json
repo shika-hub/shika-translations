@@ -564,6 +564,7 @@
   "GAME_SPEED_DESCRIPTION": "ตั้งค่าความเร็วของเกม",
   "MULTIPLIER_TITLE": "ตัวคูณค่า",
   "MULTIPLIER_DESCRIPTION": "ตั้งค่าตัวคูณความเร็วของเกม",
+  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "ออร่าฆ่า",
   "KILL_AURA_DESCRIPTION": "ฆ่าศัตรูทั้งหมดในรัศมีที่กำหนด",

@@ -564,6 +564,7 @@
   "GAME_SPEED_DESCRIPTION": "Permite customizar a velocidade do jogo.",
   "MULTIPLIER_TITLE": "Multiplicador",
   "MULTIPLIER_DESCRIPTION": "Define um multiplicador da velocidade do jogo.",
+  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "Kill Aura",
   "KILL_AURA_DESCRIPTION": "Executa todos os inimigos ao redor do jogador.",
