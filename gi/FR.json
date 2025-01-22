@@ -97,7 +97,7 @@
   "ESP_CANDLECAL_MUSHROOM_TITLE": "Candélapignon",
   "ESP_CARROT_TITLE": "Carotte",
   "ESP_CECILIA_TITLE": "Cécilia",
-  "ESP_DANDELION_SEED_TITLE": "Graine de pissenlit"
+  "ESP_DANDELION_SEED_TITLE": "Graine de pissenlit",
   "ESP_DENDROBIUM_TITLE": "Dendrobium sanglant",
   "ESP_EMBERCORE_FLOWER_TITLE": "Fleur braisée",
   "ESP_FLAMING_FLOWER_STAMEN_TITLE": "Pistil de fleur enflammée",
@@ -212,7 +212,7 @@
   "ESP_ALLOCHROMATIC_ANEMONE_TITLE": "Fleurs pulchrisonores et anémones allochromatiques",
   "ESP_MONETOO_TITLE": "Monetoo",
   "ESP_ORE_TITLE": "Minerai",
-  "ESP_MONSTERS_TITLE": "Monstres"
+  "ESP_MONSTERS_TITLE": "Monstres",
 
   "EXECUTE_TITLE": "Exécuter",
   "LUA_EXAMPLES_TITLE": "Exemples Lua",
@@ -294,14 +294,10 @@
   "MENU_HOTKEY_TITLE": "Basculer le menu",
   "INJECT_AFTER_LOGIN_TITLE": "Injecter après la connexion",
   "INJECT_AFTER_LOGIN_DESCRIPTION": "L'injection ne sera effectuée qu'après la première connexion au monde du jeu.\n(Les changements prendront effet après un redémarrage.)",
-  "PROTECTION_TITLE": "Désactiver la protection",
-  "PROTECTION_DESCRIPTION": "Ferme la gestion de l'anticheat.\n(Les changements prendront effet après un redémarrage.)",
   "ANALYTICS_TITLE": "Désactiver le journal analytique",
   "ANALYTICS_DESCRIPTION": "Empêche la télémétrie et les analyses du jeu d'encombrer la console.\n(Les changements prendront effet après un redémarrage.)",
   "SPOOF_ANTICHEAT_TITLE": "Spoofer le résultat AntiCheat",
   "SPOOF_ANTICHEAT_DESCRIPTION": "Spoof/block les rapports anticheat générés par WindSeedClientNotify.\n(Les changements prendront effet après un redémarrage.)",
-  "USE_FILE_SIGNATURE_TITLE": "Utiliser la signature de fichier prédéfinie",
-  "USE_FILE_SIGNATURE_DESCRIPTION": "Utilise la valeur de signature 'hardcodée' pour la vérification de l'intégrité du fichier.\nPeut être utile si vous placez des fichiers exécutables supplémentaires dans le répertoire du jeu.\nEt que vous ne pouvez pas passer la 'vérification d'intégrité' lors de la connexion.\n(Les changements prendront effet après un redémarrage.)",
   "SHOW_STATUS_WINDOW_TITLE": "Afficher la fenêtre d'état",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "Affiche une fenêtre avec les informations des fonctions activées.",
   "MOVE_STATUS_TITLE": "Fenêtre d'état déplaçable",
@@ -383,7 +379,7 @@
   "HIDE_DAMAGE_DESCRIPTION": "Masque les chiffres de dégâts.",
 
   "HIDE_REACTION_TITLE": "Masquer la réaction",
-  "HIDE_REACTION_DESCRIPTION": "Masque les réactions élémentaires."
+  "HIDE_REACTION_DESCRIPTION": "Masque les réactions élémentaires.",
 
   "HIDE_UI_TITLE": "Cacher l'interface",
   "HIDE_UI_DESCRIPTION": "Cache l'interface du jeu, ou certaines parties de celle-ci.",
