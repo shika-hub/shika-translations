@@ -622,8 +622,8 @@
   "MUSIC_GAME_NO_MISS_DESCRIPTION": "Tidak menghitung klik yang terlewat.",
   "MUSIC_GAME_HIT_TITLE": "Hit",
   "MUSIC_GAME_HIT_DESCRIPTION": "Jumlah poin per tap.",
-  "MUSIC_GAME_COMBO_TITLE": "Kombo",
-  "MUSIC_GAME_COMBO_DESCRIPTION": "Mengatur combo selama permainan.",
+  "MUSIC_GAME_COMBO_TITLE": "Combo",
+  "MUSIC_GAME_COMBO_DESCRIPTION": "Mengatur kombo selama permainan.",
 
   "OPEN_TEAM_IMMEDIATELY_TITLE": "Buka Menu Tim Secara Instan",
   "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "Membuka menu tim segera tanpa menunggu hitung mundur.",
@@ -639,7 +639,7 @@
   "FILTERS_TITLE": "Filter",
   "RANGE_TITLE": "Jangakauan (M)",
   "DISTANCE_TITLE": "Jarak (M)",
-  "COLLIDER_TITLE": "Collider (M)",
+  "COLLIDER_TITLE": "Kolider (M)",
   "HOTKEY_MODE_TITLE": "Mode Pintasan Keyboard",
   "HOTKEY_MODE_DESCRIPTION": "Fitur ini akan diaktifkan saat menahan tombol pintasan.",
 
