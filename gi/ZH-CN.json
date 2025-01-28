@@ -36,7 +36,7 @@
   "ESP_SECTION_MINERAL_TITLE": "矿物",
   "ESP_SECTION_PLANT_TITLE": "植物",
   "ESP_SECTION_PUZZLE_TITLE": "解谜",
-  "ESP_SECTION_COMBINED_TITLE": "Combined",
+  "ESP_SECTION_COMBINED_TITLE": "综合",
   "ESP_BOOK_TITLE": "书",
   "ESP_VIEWPOINT_TITLE": "观景点",
   "ESP_RADIANT_SPINCRYSTAL_TITLE": "旋曜玉帛",
@@ -219,10 +219,10 @@
 
   "MODULE_MISC": "Misc",
 
-  "GACHA_URL_FETCHER_TITLE": "Gacha Url Fetcher",
-  "GACHA_URL_FETCHER_DESCRIPTION": "Auto get link when opening Wish History.",
-  "URL_TITLE": "Gacha Url",
-  "COPY_TITLE": "Copy",
+  "GACHA_URL_FETCHER_TITLE": "抽卡网页获取器",
+  "GACHA_URL_FETCHER_DESCRIPTION": "打开抽卡历史记录时自动获取链接.",
+  "URL_TITLE": "抽卡网页",
+  "COPY_TITLE": "复制",
 
   "MODULE_PLAYER": "玩家",
 
@@ -294,14 +294,10 @@
   "MENU_HOTKEY_TITLE": "显示 菜单",
   "INJECT_AFTER_LOGIN_TITLE": "进门后注入",
   "INJECT_AFTER_LOGIN_DESCRIPTION": "仅在首次登录进入游戏世界后才会执行注入.\n(更改将在重新启动后生效.)",
-  "PROTECTION_TITLE": "禁用保护",
-  "PROTECTION_DESCRIPTION": "关闭反作弊驱动句柄\n(更改将在重新启动后生效).",
   "ANALYTICS_TITLE": "禁用分析日志",
   "ANALYTICS_DESCRIPTION": "禁止游戏遥测和分析日志向控制台发送垃圾日志\n(更改将在重新启动后生效).",
   "SPOOF_ANTICHEAT_TITLE": "欺骗反作弊结果",
   "SPOOF_ANTICHEAT_DESCRIPTION": "欺骗/阻止 WindSeedClientNotify 生成的反作弊报告.\n(更改将在重新启动后生效).",
-  "USE_FILE_SIGNATURE_TITLE": "使用预定义文件签名",
-  "USE_FILE_SIGNATURE_DESCRIPTION": "使用“硬编码”签名值进行文件检查.\n当您将附加可执行文件放入游戏目录时很有用.\n并且无法通过登录时的“完整性检查”.\n(更改将在之后生效 重新启动).",
   "SHOW_STATUS_WINDOW_TITLE": "显示状态窗口",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "显示一个窗口,其中包含已启用功能的说明.",
   "MOVE_STATUS_TITLE": "移动状态窗口",
@@ -541,11 +537,11 @@
   "ELEMENTAL_SIGHT_TITLE": "永久元素视野",
   "ELEMENTAL_SIGHT_DESCRIPTION": "即使在移动时,元素视野也会保持打开状态.",
 
-  "FAKE_TIME_TITLE": "Fake Time",
-  "FAKE_TIME_DESCRIPTION": "Keep game time the same.",
-  "HOUR_TITLE": "Hour",
-  "MINUTE_TITLE": "Minute",
-  "SYNC2SERVER_TITLE": "Sync to server",
+  "FAKE_TIME_TITLE": "假时间",
+  "FAKE_TIME_DESCRIPTION": "保持游戏时间不变.",
+  "HOUR_TITLE": "小时",
+  "MINUTE_TITLE": "分钟",
+  "SYNC2SERVER_TITLE": "同步到服务器",
 
   "FAST_COMBINE_TITLE": "快速合成",
   "FAST_COMBINE_DESCRIPTION": "允许您快速合成物品.",
@@ -565,6 +561,7 @@
   "GAME_SPEED_DESCRIPTION": "加快游戏速度.",
   "MULTIPLIER_TITLE": "倍数",
   "MULTIPLIER_DESCRIPTION": "设置游戏速度倍数.",
+  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "杀戮光环",
   "KILL_AURA_DESCRIPTION": "启动杀戮光环.",
@@ -643,10 +640,10 @@
   "DISTANCE_TITLE": "距离",
   "COLLIDER_TITLE": "对撞机",
   "HOTKEY_MODE_TITLE": "热键模式",
-  "HOTKEY_MODE_DESCRIPTION": "The feature will be enabled while holding the hotkey.",
+  "HOTKEY_MODE_DESCRIPTION": "按住热键即可启用该功能.",
 
   "PATH": "路径",
   "HOTKEY": "热键",
-  "HOTKEY_UNBOUND": "无界",
+  "HOTKEY_UNBOUND": "热键",
   "HOTKEY_RESET": "重设"
 }
