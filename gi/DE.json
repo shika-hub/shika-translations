@@ -236,7 +236,7 @@
   "NO_MODIFIER_DAMAGE_DESCRIPTION": "Allows you to not take damage from various modifications (for example: Electric Water, Hot Water, Liquid Phlogiston, etc.).", 
 
   "INFINITE_ENERGY_TITLE": "Unendlich Elementarenergie",
-  "INFINITE_ENERGY_DESCRIPTION": "Removes energy requirement for elemental bursts.\n(Elemental burst icons may appear incomplete, but they are still usable.)", // offen //
+  "INFINITE_ENERGY_DESCRIPTION": "Removes energy requirement for elemental bursts.\n(Elemental burst icons may appear incomplete, but they are still usable.)",
 
   "INFINITE_STAMINA_TITLE": "Unendlich Ausdauer",
   "INFINITE_STAMINA_DESCRIPTION": "Der Ausdauerbalken nimmt nicht mehr ab.",
