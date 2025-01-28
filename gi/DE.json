@@ -373,9 +373,9 @@
   "GM_ICON_TITLE": "GM Icon",
   "GM_ICON_DESCRIPTION": "Zeigt das GameManager Icon an.",
 
-  "GRAPHICS_TITLE": "Graphics Changer", // offen // 
-  "GRAPHICS_DESCRIPTION": "Allows to customize some rendering features.", // offen //
-  "GRAPHICS_OUTLINE_WIDTH": "Outline Width", // offen //
+  "GRAPHICS_TITLE": "Graphics Changer", 
+  "GRAPHICS_DESCRIPTION": "Allows to customize some rendering features.", 
+  "GRAPHICS_OUTLINE_WIDTH": "Outline Width",
   "GRAPHICS_GAMMA_TITLE": "Gamma-Wert", 
   "GRAPHICS_DRS_TITLE": "Render-Wert",
 
