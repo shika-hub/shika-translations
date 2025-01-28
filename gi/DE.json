@@ -22,21 +22,21 @@
   "ESP_DRAW_DISTANCE_DESCRIPTION": "Zeigt die Entfernung zum Objekt an.",
   "ESP_FONT_SIZE_DESCRIPTION": "Schriftgröße von Name/Entfernung", 
   "ESP_RANGE_DESCRIPTION": "Maximale Entfernung zur Erkennung von Objekten",  
-  "ESP_OUTLINE_WIDTH_TITLE": "Outline Width", // offen //
-  "ESP_OUTLINE_WIDTH_DESCRIPTION": "Thickness of the box outline.", // offen //
-  "ESP_TRACER_WIDTH_TITLE": "Tracer Width", // offen //
+  "ESP_OUTLINE_WIDTH_TITLE": "Outline Width",
+  "ESP_OUTLINE_WIDTH_DESCRIPTION": "Thickness of the box outline.",
+  "ESP_TRACER_WIDTH_TITLE": "Tracer Width",
   "ESP_TRACER_WIDTH_DESCRIPTION": "Dicke des Indikators",
-  "ESP_BOX_COLOR_TITLE": "Box Color", // offen //
+  "ESP_BOX_COLOR_TITLE": "Markierungsfarbe",
   "ESP_TRACER_COLOR_TITLE": "Indikatorfarbe",
   "ESP_TEXT_COLOR_TITLE": "Schriftfarbe",
-  "ESP_TRANSPARENCY_DESCRIPTION": "Transparenz of the box filling.", // offen //
+  "ESP_TRANSPARENCY_DESCRIPTION": "Transparenz of the box filling.", 
   "ESP_SECTION_COLLECTION_TITLE": "Sammelgegenstände",
   "ESP_SECTION_CHEST_TITLE": "Truhen", 
-  "ESP_SECTION_FEATURED_TITLE": "Featured", // offen //
-  "ESP_SECTION_MINERAL_TITLE": "Mineral", // offen //
+  "ESP_SECTION_FEATURED_TITLE": "Featured",
+  "ESP_SECTION_MINERAL_TITLE": "Mineralien",
   "ESP_SECTION_PLANT_TITLE": "Pflanzen",
   "ESP_SECTION_PUZZLE_TITLE": "Rätsel",
-  "ESP_SECTION_COMBINED_TITLE": "Combined", // offen //
+  "ESP_SECTION_COMBINED_TITLE": "Combined",
   "ESP_BOOK_TITLE": "Buch",
   "ESP_VIEWPOINT_TITLE": "Aussichtspunkt",
   "ESP_RADIANT_SPINCRYSTAL_TITLE": "Strahlender Drehkristall",
@@ -49,8 +49,8 @@
   "ESP_PRECIOUS_CHEST_TITLE": "Wertvolle Truhe",
   "ESP_LUXURIOUS_CHEST_TITLE": "Luxuriöse Truhe",
   "ESP_REMARKABLE_CHEST_TITLE": "Besondere Truhe",
-  "ESP_SEARCH_POINT_TITLE": "Untersuchen", // no 1:1 translation available, check for other word needed // 
-  "ESP_CRUDE_CHEST_TITLE": "Crude Chest", // Different options, no 1:1 translation yet //
+  "ESP_SEARCH_POINT_TITLE": "Untersuchen",
+  "ESP_CRUDE_CHEST_TITLE": "Crude Chest", 
   "ESP_ANEMOCULUS_TITLE": "Anemoculus",
   "ESP_CRIMSON_AGATE_TITLE": "Blutroter Achat",
   "ESP_GEOCULUS_TITLE": "Geoculus",
@@ -154,7 +154,7 @@
   "ESP_BAKE_DANUKI_TITLE": "Bakedanuki",
   "ESP_BLOATTY_FLOATTY_TITLE": "Zauselfrucht",
   "ESP_CUBE_DEVICES_TITLE": "Vorrichtungswürfel",
-  "ESP_EIGHT_STONE_TABLETS_TITLE": "Eight Stone Tablets", // maybe Old Stone Slate //
+  "ESP_EIGHT_STONE_TABLETS_TITLE": "Alte Steintafel",
   "ESP_ELECTRIC_CONDUCTION_TITLE": "Elektrische Leitung",
   "ESP_ELECTRO_SEELIE_TITLE": "Elektro-Seelie",
   "ESP_ELEMENTAL_MONUMENT_TITLE": "Elementarstelen",
@@ -166,10 +166,10 @@
   "ESP_GEOGRANUM_TITLE": "Geogranum",
   "ESP_ILLUSION_MURAL_TITLE": "Illusorische Wandmalerei",
   "ESP_JADEWATER_FRUIT_TITLE": "Jadewasser-Frucht",
-  "ESP_LARGE_ROCK_PILE_TITLE": "Large Rock Pile", // offen // 
+  "ESP_LARGE_ROCK_PILE_TITLE": "Riesiger Felshaufen",
   "ESP_LIGHTNING_STRIKE_PROBE_TITLE": "Blitzsonde",
-  "ESP_LIGHT_UP_TILE_PUZZLE_TITLE": "Light-Up Tile Puzzle", // offen //
-  "ESP_LUMINOUS_SEELIE_TITLE": "Luminous Seelie", // offen //
+  "ESP_LIGHT_UP_TILE_PUZZLE_TITLE": "Light-Up Tile Puzzle", 
+  "ESP_LUMINOUS_SEELIE_TITLE": "Leuchtende Seelie",
   "ESP_NIRODHA_FRUIT_TITLE": "Nirodha-Frucht",
   "ESP_NURSERIES_IN_THE_WILDS_TITLE": "Baumschule in der Wildnis",
   "ESP_PHANTASMAL_GATE_TITLE": "Tor der Fantasie",
@@ -180,14 +180,14 @@
   "ESP_PRIMAL_OBELISK_TITLE": "Urobelisk",
   "ESP_PRIMAL_SANDGLASS_TITLE": "Ursanduhr",
   "ESP_SAGHIRA_MACHINE_TITLE": "Saghira-Maschine",
-  "ESP_SEAL_LOCATIONS_TITLE": "Seal Locations", // offen //
+  "ESP_SEAL_LOCATIONS_TITLE": "Seal Locations",
   "ESP_SEELIE_TITLE": "Seelie", 
-  "ESP_SEELIE_LAMP_TITLE": "Seelie Lamp", // offen //
-  "ESP_SMALL_ROCK_PILE_TITLE": "Small Rock Pile", // offen //
+  "ESP_SEELIE_LAMP_TITLE": "Seelie Lamp",
+  "ESP_SMALL_ROCK_PILE_TITLE": "Kleiner Felshaufen",
   "ESP_STABILIZER_TITLE": "Stabilisator",
-  "ESP_STONE_PILLAR_SEAL_TITLE": "Stone Pillar Seal", // offen //
+  "ESP_STONE_PILLAR_SEAL_TITLE": "Stone Pillar Seal",
   "ESP_STORM_BARRIER_TITLE": "Sturmbarriere",
-  "ESP_SUMERU_PUZZLES_TITLE": "Sumeru Puzzles", // offen //
+  "ESP_SUMERU_PUZZLES_TITLE": "Sumeru Puzzles",
   "ESP_SWORD_HILT_TITLE": "Schwertgriff",
   "ESP_THE_WITHERING_TITLE": "Verwelkung",  
   "ESP_TORCH_PUZZLE_TITLE": "Fackelvorrichtung",
@@ -219,51 +219,51 @@
 
   "MODULE_MISC": "Verschiedenes",  
 
-  "GACHA_URL_FETCHER_TITLE": "Gacha Url Fetcher",  // offen //
-  "GACHA_URL_FETCHER_DESCRIPTION": "Auto get link when opening Wish History.",  // offen //
-  "URL_TITLE": "Gacha Url",  // offen //
+  "GACHA_URL_FETCHER_TITLE": "Gacha Url Fetcher",
+  "GACHA_URL_FETCHER_DESCRIPTION": "Auto get link when opening Wish History.", 
+  "URL_TITLE": "Gacha Url", 
   "COPY_TITLE": "Kopieren",
 
   "MODULE_PLAYER": "Spieler",
 
   "GOD_MODE_TITLE": "God Mode",
-  "GOD_MODE_DESCRIPTION": "Makes player invincible to all types of a damage.",  // offen //
-  "NO_ATTACK_DAMAGE_TITLE": "No Attack Damage",  // offen //
-  "NO_ATTACK_DAMAGE_DESCRIPTION": "Allows you to take no damage from attacks.",  // offen //
+  "GOD_MODE_DESCRIPTION": "Makes player invincible to all types of a damage.",  
+  "NO_ATTACK_DAMAGE_TITLE": "No Attack Damage", 
+  "NO_ATTACK_DAMAGE_DESCRIPTION": "Allows you to take no damage from attacks.",
   "NO_FALL_DAMAGE_TITLE": "Kein Fallschaden",
   "NO_FALL_DAMAGE_DESCRIPTION": "Du erhälst keinen Fallschaden mehr.",
-  "NO_MODIFIER_DAMAGE_TITLE": "No Modifier Damage",  // offen //
-  "NO_MODIFIER_DAMAGE_DESCRIPTION": "Allows you to not take damage from various modifications (for example: Electric Water, Hot Water, Liquid Phlogiston, etc.).", // offen //
+  "NO_MODIFIER_DAMAGE_TITLE": "No Modifier Damage", 
+  "NO_MODIFIER_DAMAGE_DESCRIPTION": "Allows you to not take damage from various modifications (for example: Electric Water, Hot Water, Liquid Phlogiston, etc.).", 
 
-  "INFINITE_ENERGY_TITLE": "Infinite Energy", // offen //
+  "INFINITE_ENERGY_TITLE": "Unendlich Elementarenergie",
   "INFINITE_ENERGY_DESCRIPTION": "Removes energy requirement for elemental bursts.\n(Elemental burst icons may appear incomplete, but they are still usable.)", // offen //
 
   "INFINITE_STAMINA_TITLE": "Unendlich Ausdauer",
   "INFINITE_STAMINA_DESCRIPTION": "Der Ausdauerbalken nimmt nicht mehr ab.",
 
   "MULTI_HIT_TITLE": "Multi Hit",
-  "MULTI_HIT_DESCRIPTION": "Multiplies player attacks by the set amount.",  // offen //
-  "MULTI_HIT_AMOUNT_TITLE": "Hits Amount",  // offen //
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "Player attack amount multiplier.",  // offen //
+  "MULTI_HIT_DESCRIPTION": "Multiplies player attacks by the set amount.", 
+  "MULTI_HIT_AMOUNT_TITLE": "Hits Amount", 
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "Player attack amount multiplier.", 
 
   "NO_CLIP_TITLE": "No Clip",
-  "NO_CLIP_DESCRIPTION": "Disables player collision, and allows to fly in any direction quickly.\nTo move, use WASD, Space (Go Up), and Shift (Go Down).",  // offen //
-  "NO_CLIP_ANIMATION_TITLE": "Prevent Animations",  // offen //
-  "NO_CLIP_ANIMATION_DESCRIPTION": "Prevents player animations from being played while No Clip is active.",  // offen //
+  "NO_CLIP_DESCRIPTION": "Disables player collision, and allows to fly in any direction quickly.\nTo move, use WASD, Space (Go Up), and Shift (Go Down).", 
+  "NO_CLIP_ANIMATION_TITLE": "Prevent Animations", 
+  "NO_CLIP_ANIMATION_DESCRIPTION": "Prevents player animations from being played while No Clip is active.",
   "NO_CLIP_SPEED_TITLE": "Fluggeschwindigkeit",
-  "NO_CLIP_SPEED_DESCRIPTION": "Controls No Clip flying speed.\nNot recommended to use values greater than 25.0.",  // offen //
-  "NO_CLIP_CAMERA_RELATIVE_TITLE": "Camera Relative Movement",  // offen //
-  "NO_CLIP_CAMERA_RELATIVE_DESCRIPTION": "Moves relatively to the camera view angle instead of the player's view direction.",  // offen //
-  "NO_CLIP_ALTERNATE_TITLE": "Alternate No Clip",  // offen //
-  "NO_CLIP_ALTERNATE_DESCRIPTION": "Allows usage of alternate speed when holding down LeftCtrl key.\nUseful if you want to temporarily go faster/slower than the set No Clip speed value.",  // offen //
-  "NO_CLIP_ALTERNATE_SPEED_TITLE": "Alternate Speed",  // offen //
-  "NO_CLIP_ALTERNATE_SPEED_DESCRIPTION": "Controls Alternate No Clip flying speed.\nNot recommended to use values greater than 25.0.",  // offen //
-  "NO_CLIP_MODE_VELOCITY_TITLE": "Velocity Mode",  // offen //
-  "NO_CLIP_MODE_VELOCITY_DESCRIPTION": "Uses velocity for flying instead of the position.",  // offen //
-  "NO_CLIP_MODE_FREEFLIGHT_TITLE": "Freeflight Mode",  // offen //
-  "NO_CLIP_MODE_FREEFLIGHT_DESCRIPTION": "Allows to fly, but doesn't remove collisions.",  // offen //
-  "NO_CLIP_CUSTOM_KEYS_TITLE": "Use Custom Keys",  // offen //
-  "NO_CLIP_CUSTOM_KEYS_DESCRIPTION": "Allows to change the No Clip movement keys.",  // offen //
+  "NO_CLIP_SPEED_DESCRIPTION": "Controls No Clip flying speed.\nNot recommended to use values greater than 25.0.",
+  "NO_CLIP_CAMERA_RELATIVE_TITLE": "Camera Relative Movement",
+  "NO_CLIP_CAMERA_RELATIVE_DESCRIPTION": "Moves relatively to the camera view angle instead of the player's view direction.",
+  "NO_CLIP_ALTERNATE_TITLE": "Alternate No Clip",
+  "NO_CLIP_ALTERNATE_DESCRIPTION": "Allows usage of alternate speed when holding down LeftCtrl key.\nUseful if you want to temporarily go faster/slower than the set No Clip speed value.",
+  "NO_CLIP_ALTERNATE_SPEED_TITLE": "Alternate Speed",
+  "NO_CLIP_ALTERNATE_SPEED_DESCRIPTION": "Controls Alternate No Clip flying speed.\nNot recommended to use values greater than 25.0.",
+  "NO_CLIP_MODE_VELOCITY_TITLE": "Velocity Mode", 
+  "NO_CLIP_MODE_VELOCITY_DESCRIPTION": "Uses velocity for flying instead of the position.",
+  "NO_CLIP_MODE_FREEFLIGHT_TITLE": "Freeflight Mode",
+  "NO_CLIP_MODE_FREEFLIGHT_DESCRIPTION": "Allows to fly, but doesn't remove collisions.", 
+  "NO_CLIP_CUSTOM_KEYS_TITLE": "Use Custom Keys", 
+  "NO_CLIP_CUSTOM_KEYS_DESCRIPTION": "Allows to change the No Clip movement keys.",
   "NO_CLIP_KEY_FORWARD_TITLE": "Vorwärts",
   "NO_CLIP_KEY_LEFT_TITLE": "Links",
   "NO_CLIP_KEY_BACKWARD_TITLE": "Rückwärts",
@@ -273,53 +273,53 @@
 
   "COOLDOWN_SKILL_TITLE": "Kein Skill-Cooldown", 
   "COOLDOWN_SKILL_DESCRIPTION": "Entfernt den Cooldown von Elementar- und Spezialfähigkeiten.", 
-  "COOLDOWN_SKILL_TIMER_TITLE": "Skill Cooldown Modifier",  // offen //
-  "COOLDOWN_SKILL_TIMER_DESCRIPTION": "Modifies cooldown of the elemental skills and bursts.\nValues greater than 1.0 will increase the skill cooldown.",  // offen //
-  "COOLDOWN_BOW_CHARGE_TITLE": "Instant Bow Charge",  // offen //
-  "COOLDOWN_BOW_CHARGE_DESCRIPTION": "Disables cooldown of the bow charge.\nKnown issues with Fischl.",  // offen //
+  "COOLDOWN_SKILL_TIMER_TITLE": "Skill Cooldown Modifier", 
+  "COOLDOWN_SKILL_TIMER_DESCRIPTION": "Modifies cooldown of the elemental skills and bursts.\nValues greater than 1.0 will increase the skill cooldown.",
+  "COOLDOWN_BOW_CHARGE_TITLE": "Instant Bow Charge", 
+  "COOLDOWN_BOW_CHARGE_DESCRIPTION": "Disables cooldown of the bow charge.\nKnown issues with Fischl.", 
   "COOLDOWN_SPRINT_TITLE": "Kein Sprint-Cooldown",
   "COOLDOWN_SPRINT_DESCRIPTION": "Entfernt die Verzögerung zwischen Sprints.", 
-  "COOLDOWN_VEHICLE_SKILL_TITLE": "No Vehicle Skill Cooldown",  // offen //
-  "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Disables cooldown of the vehicle skill.",  // offen //
+  "COOLDOWN_VEHICLE_SKILL_TITLE": "No Vehicle Skill Cooldown", 
+  "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Disables cooldown of the vehicle skill.",
 
-  "PLAYER_SPEED_TITLE": "Player Speed",  // offen //
-  "PLAYER_SPEED_DESCRIPTION": "Allows to customize player movement speed.",  // offen //
-  "PLAYER_SPEED_VALUE_TITLE": "Speed Value",  // offen //
+  "PLAYER_SPEED_TITLE": "Player Speed",
+  "PLAYER_SPEED_DESCRIPTION": "Allows to customize player movement speed.",
+  "PLAYER_SPEED_VALUE_TITLE": "Speed Value",
 
   "MODULE_SETTINGS": "Einstellungen",
 
   "SETTINGS_LANGUAGE": "Sprache",
   "LANGUAGE_CURRENT": "Ausgewählte Sprache",
   "SETTINGS_GENERAL": "Allgemein",
-  "MENU_HOTKEY_TITLE": "Menü anzeigen",
-  "INJECT_AFTER_LOGIN_TITLE": "Inject After Login", // offen //
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "The injection will only be executed after the first login to the game world.\n(Changes will take effect after a relaunch.)", // offen //
+  "MENU_HOTKEY_TITLE": "Menü umschalten",
+  "INJECT_AFTER_LOGIN_TITLE": "Inject After Login",
+  "INJECT_AFTER_LOGIN_DESCRIPTION": "The injection will only be executed after the first login to the game world.\n(Changes will take effect after a relaunch.)",
   "PROTECTION_TITLE": "Schutz deaktivieren",
-  "PROTECTION_DESCRIPTION": "Closes the anticheat handle.\n(Changes will take effect after a relaunch.)", // offen //
+  "PROTECTION_DESCRIPTION": "Closes the anticheat handle.\n(Changes will take effect after a relaunch.)", 
   "ANALYTICS_TITLE": "Disable Analytic Log",
-  "ANALYTICS_DESCRIPTION": "Prevents game telemetry and analytics from spamming the console.\n(Changes will take effect after a relaunch.)", // offen //
-  "SPOOF_ANTICHEAT_TITLE": "Spoof AntiCheat Result", // offen //
-  "SPOOF_ANTICHEAT_DESCRIPTION": "Spoofs/Blocks the anticheat reports made by the WindSeedClientNotify.\n(Changes will take effect after a relaunch.)", // offen //
-  "USE_FILE_SIGNATURE_TITLE": "Use Predefined File Signature", // offen //
-  "USE_FILE_SIGNATURE_DESCRIPTION": "Uses the 'hardcoded' signature value for file integrity check.\nCan be useful, when you put the additional executable files to game directory.\nAnd can't pass the 'Integrity check' on login.\n(Changes will take effect after a relaunch.)", // offen //
-  "SHOW_STATUS_WINDOW_TITLE": "Show Status Window", // offen //
-  "SHOW_STATUS_WINDOW_DESCRIPTION": "Shows a window with statements of enabled functions.", // offen //
-  "MOVE_STATUS_TITLE": "Movable Status Window", // offen //
-  "MOVE_STATUS_DESCRIPTION": "Allows 'Status' window to be moved by dragging it.", // offen //
+  "ANALYTICS_DESCRIPTION": "Prevents game telemetry and analytics from spamming the console.\n(Changes will take effect after a relaunch.)",
+  "SPOOF_ANTICHEAT_TITLE": "Spoof AntiCheat Result",
+  "SPOOF_ANTICHEAT_DESCRIPTION": "Spoofs/Blocks the anticheat reports made by the WindSeedClientNotify.\n(Changes will take effect after a relaunch.)",
+  "USE_FILE_SIGNATURE_TITLE": "Use Predefined File Signature",
+  "USE_FILE_SIGNATURE_DESCRIPTION": "Uses the 'hardcoded' signature value for file integrity check.\nCan be useful, when you put the additional executable files to game directory.\nAnd can't pass the 'Integrity check' on login.\n(Changes will take effect after a relaunch.)",
+  "SHOW_STATUS_WINDOW_TITLE": "Show Status Window",
+  "SHOW_STATUS_WINDOW_DESCRIPTION": "Shows a window with statements of enabled functions.",
+  "MOVE_STATUS_TITLE": "Movable Status Window", 
+  "MOVE_STATUS_DESCRIPTION": "Allows 'Status' window to be moved by dragging it.",
   "SHOW_FPS_TITLE": "Aktuelle FPS anzeigen", 
   "SHOW_FPS_DESCRIPTION": "Zeigt die derzeitigen FPS an",
-  "MOVE_FPS_TITLE": "Movable FPS Window", // offen //
-  "MOVE_FPS_DESCRIPTION": "Allows 'FPS' window to be moved by dragging it.", // offen //
-  "INIT_DELAY_TITLE": "Initialization Delay (MS)", // offen //
-  "INIT_DELAY_DESCRIPTION": "Changes the menu appearance delay.\nMay cause lags while starting, so try to change this value in case.", // offen //
-  "MOBILE_MODE_TITLE": "Mobile Mode", // offen //
-  "MOBILE_MODE_DESCRIPTION": "Makes game use mobile UIs.\n(Changes will take effect after a relaunch.)", // offen //
-  "STARTUP_ARGS_TITLE": "Startup Arguments", // offen //
-  "STARTUP_ARGS_DESCRIPTION": "Starts the game with command line arguments.\n(Changes will take effect after a relaunch.)", // offen //
-  "LIST_UNITY_COMMAND_TITLE": "List of Unity command line arguments", // offen //
-  "INSTANT_EXIT_TITLE": "Instant Exit", // offen //
-  "INSTANT_EXIT_DESCRIPTION": "Instantly closes the game.", // offen //
-  "INSTANT_EXIT_HOTKEY_TITLE": "Hotkey", // offen //
+  "MOVE_FPS_TITLE": "Movable FPS Window",
+  "MOVE_FPS_DESCRIPTION": "Allows 'FPS' window to be moved by dragging it.",
+  "INIT_DELAY_TITLE": "Initialization Delay (MS)",
+  "INIT_DELAY_DESCRIPTION": "Changes the menu appearance delay.\nMay cause lags while starting, so try to change this value in case.",
+  "MOBILE_MODE_TITLE": "Mobile Mode",
+  "MOBILE_MODE_DESCRIPTION": "Makes game use mobile UIs.\n(Changes will take effect after a relaunch.)", 
+  "STARTUP_ARGS_TITLE": "Startup Arguments",
+  "STARTUP_ARGS_DESCRIPTION": "Starts the game with command line arguments.\n(Changes will take effect after a relaunch.)",
+  "LIST_UNITY_COMMAND_TITLE": "List of Unity command line arguments",
+  "INSTANT_EXIT_TITLE": "Instant Exit",
+  "INSTANT_EXIT_DESCRIPTION": "Schließt das Spiel sofort.", 
+  "INSTANT_EXIT_HOTKEY_TITLE": "Hotkey",
   "SETTINGS_THEME": "Theme", 
   "THEME_DARK_TITLE": "Dark",
   "THEME_LIGHT_TITLE": "Light",
@@ -329,46 +329,46 @@
   "STYLE_COZY_TITLE": "Cozy",
   "STYLE_COZY_SQUARED_TITLE": "Cozy (Squared)",
   "SETTINGS_CUSTOMIZE": "Anpassen",
-  "FADE_DURATION_TITLE": "Fade Duration (S)", // offen //
-  "FADE_DURATION_DESCRIPTION": "Changes duration of the window fade in/out animations.", // offen //
+  "FADE_DURATION_TITLE": "Fade Duration (S)",
+  "FADE_DURATION_DESCRIPTION": "Changes duration of the window fade in/out animations.", 
   "DEVELOPER_MODE_TITLE": "Entwicklermodus",
-  "DEVELOPER_MODE_DESCRIPTION": "If you are not a developer, then you should not enable this mode.\nNo one will help you with mastering these functions.\nThe mode unlocks some categories and features.", // offen //
+  "DEVELOPER_MODE_DESCRIPTION": "If you are not a developer, then you should not enable this mode.\nNo one will help you with mastering these functions.\nThe mode unlocks some categories and features.",
 
   "MODULE_TELEPORT": "Teleport",
 
-  "MAP_TELEPORT_TITLE": "Map Teleport",
-  "MAP_TELEPORT_DESCRIPTION": "Enable teleport-to-mark functionality.\nUsage:\n1. Open map.\n2. Hold [Teleport Key] and click with the LMB anywhere in the map.\nDone. You have been teleported to selected location.\nTeleport might glitch if teleporting to an extremely high location.\nAdjust Override Height accordingly to help avoid.", // offen //
+  "MAP_TELEPORT_TITLE": "Map Teleport", 
+  "MAP_TELEPORT_DESCRIPTION": "Enable teleport-to-mark functionality.\nUsage:\n1. Open map.\n2. Hold [Teleport Key] and click with the LMB anywhere in the map.\nDone. You have been teleported to selected location.\nTeleport might glitch if teleporting to an extremely high location.\nAdjust Override Height accordingly to help avoid.",
   "MAP_TELEPORT_KEY_TITLE": "Teleport-Taste",
-  "MAP_TELEPORT_KEY_DESCRIPTION": "Key to hold down before clicking on target location.", // offen //
-  "MAP_TELEPORT_TRANSPORT_TITLE": "Use transport position", // offen //
-  "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Use system default transport position instead of mark absolute position when teleport to building and transport mark.", // offen //
-  "MAP_TELEPORT_OVERRIDE_TITLE": "Override Height (m)", // offen //
-  "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "If teleport cannot get ground height of target location,\nit will teleport you to the height specified here.\nIt is recommended to have this value to be at least as high as a mountain.\nOtherwise, you may fall through the ground.", // offen //
+  "MAP_TELEPORT_KEY_DESCRIPTION": "Key to hold down before clicking on target location.",
+  "MAP_TELEPORT_TRANSPORT_TITLE": "Use transport position", 
+  "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Use system default transport position instead of mark absolute position when teleport to building and transport mark.",
+  "MAP_TELEPORT_OVERRIDE_TITLE": "Override Height (m)",
+  "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "If teleport cannot get ground height of target location,\nit will teleport you to the height specified here.\nIt is recommended to have this value to be at least as high as a mountain.\nOtherwise, you may fall through the ground.",
 
   "QUEST_TELEPORT_TITLE": "Quest-Teleport",
-  "QUEST_TELEPORT_DESCRIPTION": "Teleport to QuestPoint.\n(Does not work for some Quest Areas)\nPress the 'V' key to track the Quest, then press the hotkey to teleport.", // offen //
+  "QUEST_TELEPORT_DESCRIPTION": "Teleport to QuestPoint.\n(Does not work for some Quest Areas)\nPress the 'V' key to track the Quest, then press the hotkey to teleport.",
 
-  "MODULE_VISUALS": "Visuals", // offen //
+  "MODULE_VISUALS": "Visuals", 
 
-  "CAMERA_FOV_TITLE": "Fov Changer", // offen //
-  "CAMERA_FOV_DESCRIPTION": "Changes the camera field of view.", // offen //
-  "CAMERA_FOV_VALUE_TITLE": "Fov Value", // offen //
+  "CAMERA_FOV_TITLE": "Fov Changer",
+  "CAMERA_FOV_DESCRIPTION": "Changes the camera field of view.", 
+  "CAMERA_FOV_VALUE_TITLE": "Fov Value",
 
   "CAMERA_ZOOM_TITLE": "Kamera-Zoom",
-  "CAMERA_ZOOM_DESCRIPTION": "Enables the camera zoom customization.", // offen //
-  "CAMERA_ZOOM_VALUE_TITLE": "Zoom Value", // offen //
+  "CAMERA_ZOOM_DESCRIPTION": "Enables the camera zoom customization.", 
+  "CAMERA_ZOOM_VALUE_TITLE": "Zoom Value",
 
-  "CENSORSHIP_TITLE": "No Censorship", // offen //
-  "CENSORSHIP_DESCRIPTION": "Disables the camera censorship fade effect, which shows up when you move camera too close to the player.", // offen //
+  "CENSORSHIP_TITLE": "No Censorship",
+  "CENSORSHIP_DESCRIPTION": "Disables the camera censorship fade effect, which shows up when you move camera too close to the player.",
  
   "WEATHER_TITLE": "Wetter überschreiben",
-  "WEATHER_DESCRIPTION": "Allows to override the weather.", // offen //
-  "WEATHER_TYPE_TITLE": "Select Weather Type", // offen //
-  "WEATHER_CUSTOM_TITLE": "Custom Weather", // offen //
-  "WEATHER_CUSTOM_DESCRIPTION": "If you know a weather type that is missing in the list above, you can write its path here.\nE.G. Data/Environment/Weather/BigWorld/Weather_ClearSky", // offen //
-
+  "WEATHER_DESCRIPTION": "Allows to override the weather.",
+  "WEATHER_TYPE_TITLE": "Select Weather Type", 
+  "WEATHER_CUSTOM_TITLE": "Custom Weather",
+  "WEATHER_CUSTOM_DESCRIPTION": "If you know a weather type that is missing in the list above, you can write its path here.\nE.G. Data/Environment/Weather/BigWorld/Weather_ClearSky",
+  
   "FREE_CAMERA_TITLE": "Freie Kamera",
-  "FREE_CAMERA_DESCRIPTION": "Allows to freely control the camera without any limitations.", // offen //
+  "FREE_CAMERA_DESCRIPTION": "Allows to freely control the camera without any limitations.",
 
   "GM_ICON_TITLE": "GM Icon",
   "GM_ICON_DESCRIPTION": "Zeigt das GameManager Icon an.",
@@ -382,32 +382,32 @@
   "HIDE_DAMAGE_TITLE": "Schaden ausblenden",
   "HIDE_DAMAGE_DESCRIPTION": "Blendet Schadenszahlen aus.",
   "HIDE_REACTION_TITLE": "Elementarreaktionen ausblenden",
-  "HIDE_REACTION_DESCRIPTION": "Blendet Elementarreaktionen aus.",
+  "HIDE_REACTION_DESCRIPTION": "Blendet Elementarreaktionen (Supraleiter, Unter Strom, ... ) aus.",
 
   "HIDE_UI_TITLE": "UI ausblenden",
   "HIDE_UI_DESCRIPTION": "Blendet das UI vollständig oder teilweise aus.",
-  "HIDE_UI_ALL_TITLE": "Hide All", // offen //
-  "HIDE_UI_ALL_DESCRIPTION": "Hides all in-game UIs.\nWhen you switch to a different scene (E.G. into Domains), turn off and re-enable this feature.", // offen //
+  "HIDE_UI_ALL_TITLE": "Hide All",
+  "HIDE_UI_ALL_DESCRIPTION": "Hides all in-game UIs.\nWhen you switch to a different scene (E.G. into Domains), turn off and re-enable this feature.",
   "HIDE_UI_PING_TITLE": "Ping ausblenden",
   "HIDE_UI_PING_DESCRIPTION": "Blendet den Ingame-Ping aus.",
-  "HIDE_UI_HP_TITLE": "HP ausblenden",
-  "HIDE_UI_HP_DESCRIPTION": "Hides in-game HP.", // offen //
-  "HIDE_UI_TEAM_TITLE": "Hide Team", // offen //
-  "HIDE_UI_TEAM_DESCRIPTION": "Hides in-game team.", // offen //
-  "HIDE_UI_SKILLS_TITLE": "Hide Skills", // offen //
-  "HIDE_UI_SKILLS_DESCRIPTION": "Hides in-game bottom right elemental skill and ultimate.\nWhen you turn them off, you won't be able to use them.", // offen //
+  "HIDE_UI_HP_TITLE": "LP ausblenden",
+  "HIDE_UI_HP_DESCRIPTION": "Blendet Ingame-LP aus.",
+  "HIDE_UI_TEAM_TITLE": "Hide Team",
+  "HIDE_UI_TEAM_DESCRIPTION": "Hides in-game team.", 
+  "HIDE_UI_SKILLS_TITLE": "Hide Skills",
+  "HIDE_UI_SKILLS_DESCRIPTION": "Hides in-game bottom right elemental skill and ultimate.\nWhen you turn them off, you won't be able to use them.",
   "HIDE_UI_CHAT_TITLE": "Chat ausblenden",
-  "HIDE_UI_CHAT_DESCRIPTION": "Hides in-game bottom left chat box.", // offen //
-  "HIDE_UI_REWARDS_TITLE": "Hide Rewards", // offen //
-  "HIDE_UI_REWARDS_DESCRIPTION": "Hides in-game rewards.", // offen //
+  "HIDE_UI_CHAT_DESCRIPTION": "Blendet das Chatfenster unten links aus.",
+  "HIDE_UI_REWARDS_TITLE": "Hide Rewards",
+  "HIDE_UI_REWARDS_DESCRIPTION": "Hides in-game rewards.",
   "HIDE_UI_AR_TITLE": "Abenteuerstufe ausblenden",
-  "HIDE_UI_AR_DESCRIPTION": "Hides in-game AR level notification.\nWhen switching to off, you need to teleport to any point to make the notification disappear.", // offen //
-  "HIDE_UI_INTERACT_TITLE": "Hide Interact", // offen //
-  "HIDE_UI_INTERACT_DESCRIPTION": "Hides in-game interact.", // offen //
-  "HIDE_UI_RADAR_TITLE": "Hide Radar", // offen //
-  "HIDE_UI_RADAR_DESCRIPTION": "Hides in-game radar and top left buttons.", // offen //
-  "HIDE_UI_TOP_TITLE": "Hide Top Buttons", // offen //
-  "HIDE_UI_TOP_DESCRIPTION": "Hides in-game top right buttons.", // offen //
+  "HIDE_UI_AR_DESCRIPTION": "Hides in-game AR level notification.\nWhen switching to off, you need to teleport to any point to make the notification disappear.",
+  "HIDE_UI_INTERACT_TITLE": "Hide Interact", 
+  "HIDE_UI_INTERACT_DESCRIPTION": "Hides in-game interact.",
+  "HIDE_UI_RADAR_TITLE": "Hide Radar",
+  "HIDE_UI_RADAR_DESCRIPTION": "Hides in-game radar and top left buttons.",
+  "HIDE_UI_TOP_TITLE": "Hide Top Buttons",
+  "HIDE_UI_TOP_DESCRIPTION": "Hides in-game top right buttons.", 
 
   "NO_FOG_TITLE": "Kein Nebel",
   "NO_FOG_DESCRIPTION": "Entfernt Nebel.",
@@ -415,212 +415,212 @@
   "NO_GRASS_TITLE": "Kein Gras",
   "NO_GRASS_DESCRIPTION": "Entfernt Gras.",
 
-  "NO_MAP_FOG_TITLE": "No Map Fog", // offen //
-  "NO_MAP_FOG_DESCRIPTION": "Removes the map fog.", // offen //
+  "NO_MAP_FOG_TITLE": "No Map Fog",
+  "NO_MAP_FOG_DESCRIPTION": "Removes the map fog.", 
 
-  "PAIMON_FOLLOW_TITLE": "Paimon Follow", // offen //
-  "PAIMON_FOLLOW_DESCRIPTION": "To display paimon, turn on the function, open the paimon menu (ESC) and then close it.\nIf the paimon disappeared after teleportation, do not disable the function, open and close the profile.", // offen //
+  "PAIMON_FOLLOW_TITLE": "Paimon Follow",
+  "PAIMON_FOLLOW_DESCRIPTION": "To display paimon, turn on the function, open the paimon menu (ESC) and then close it.\nIf the paimon disappeared after teleportation, do not disable the function, open and close the profile.",
 
-  "PROFILE_TITLE": "Profile Changer", // offen //
-  "PROFILE_DESCRIPTION": "Changes the profile appearance.", // offen //
-  "PROFILE_UID_TITLE": "UID", // offen //
-  "PROFILE_UID_DESCRIPTION": "Changes the UID visually.", // offen //
-  "PROFILE_UID_VALUE_TITLE": "UID Value", // offen //
-  "PROFILE_UID_SIZE_TITLE": "UID Size", // offen //
-  "PROFILE_UID_POS_X_TITLE": "UID X Position", // offen //
-  "PROFILE_UID_POS_Y_TITLE": "UID Y Position", // offen //
+  "PROFILE_TITLE": "Profile Changer",
+  "PROFILE_DESCRIPTION": "Changes the profile appearance.",
+  "PROFILE_UID_TITLE": "UID",
+  "PROFILE_UID_DESCRIPTION": "Changes the UID visually.", 
+  "PROFILE_UID_VALUE_TITLE": "UID Value", 
+  "PROFILE_UID_SIZE_TITLE": "UID Size", 
+  "PROFILE_UID_POS_X_TITLE": "UID X Position", 
+  "PROFILE_UID_POS_Y_TITLE": "UID Y Position",
   "PROFILE_NAME_TITLE": "Name",
-  "PROFILE_NAME_DESCRIPTION": "Changes the nickname visually.", // offen //
-  "PROFILE_NAME_VALUE_TITLE": "Name Value", // offen //
+  "PROFILE_NAME_DESCRIPTION": "Changes the nickname visually.",
+  "PROFILE_NAME_VALUE_TITLE": "Name Value",
   "PROFILE_LEVEL_TITLE": "Stufe",
-  "PROFILE_LEVEL_DESCRIPTION": "Changes the level visually.", // offen //
-  "PROFILE_LEVEL_VALUE_TITLE": "Level Value", // offen //
-  "PROFILE_WORLD_LEVEL_TITLE": "World Level", // offen //
-  "PROFILE_WORLD_LEVEL_DESCRIPTION": "Changes the world level visually.", // offen //
-  "PROFILE_WORLD_LEVEL_VALUE_TITLE": "World Level Value", // offen //
+  "PROFILE_LEVEL_DESCRIPTION": "Changes the level visually.", 
+  "PROFILE_LEVEL_VALUE_TITLE": "Level Value", 
+  "PROFILE_WORLD_LEVEL_TITLE": "World Level",
+  "PROFILE_WORLD_LEVEL_DESCRIPTION": "Changes the world level visually.",
+  "PROFILE_WORLD_LEVEL_VALUE_TITLE": "World Level Value", 
   "PROFILE_BIRTHDAY_TITLE": "Geburtstag",
-  "PROFILE_BIRTHDAY_DESCRIPTION": "Changes the birthday visually.", // offen //
-  "PROFILE_BIRTHDAY_VALUE_TITLE": "Birthday Value", // offen //
-  "PROFILE_SIGNATURE_TITLE": "Signature", // offen //
-  "PROFILE_SIGNATURE_DESCRIPTION": "Changes the signature visually.", // offen //
-  "PROFILE_SIGNATURE_VALUE_TITLE": "Signature Value", // offen //
-  "PROFILE_EXP_TITLE": "Exp", // offen //
-  "PROFILE_EXP_DESCRIPTION": "Changes the exp visually.", // offen //
-  "PROFILE_EXP_VALUE_TITLE": "Exp Value", // offen //
-  "PROFILE_EXP_BAR_TITLE": "Exp Bar", // offen //
-  "PROFILE_EXP_BAR_DESCRIPTION": "Changes the exp bar visually.", // offen //
-  "PROFILE_EXP_BAR_VALUE_TITLE": "Exp Bar Value", // offen //
+  "PROFILE_BIRTHDAY_DESCRIPTION": "Changes the birthday visually.",
+  "PROFILE_BIRTHDAY_VALUE_TITLE": "Birthday Value", 
+  "PROFILE_SIGNATURE_TITLE": "Signatur", 
+  "PROFILE_SIGNATURE_DESCRIPTION": "Changes the signature visually.",
+  "PROFILE_SIGNATURE_VALUE_TITLE": "Signature Value",
+  "PROFILE_EXP_TITLE": "Exp",
+  "PROFILE_EXP_DESCRIPTION": "Changes the exp visually.",
+  "PROFILE_EXP_VALUE_TITLE": "Exp Value",
+  "PROFILE_EXP_BAR_TITLE": "Exp Bar", 
+  "PROFILE_EXP_BAR_DESCRIPTION": "Changes the exp bar visually.", 
+  "PROFILE_EXP_BAR_VALUE_TITLE": "Exp Bar Value",
 
   "INDICATORS_TITLE": "Indikatoren anzeigen",
-  "INDICATORS_DESCRIPTION": "Shows chests and/or waypoints indicators using the game mechanics.", // offen //
-  "INDICATORS_CHESTS_TITLE": "Show Chests Indicators", // offen //
+  "INDICATORS_DESCRIPTION": "Shows chests and/or waypoints indicators using the game mechanics.",
+  "INDICATORS_CHESTS_TITLE": "Show Chests Indicators",
   "INDICATORS_CHESTS_DESCRIPTION": "Shows chests indicators.", 
   "INDICATORS_CHESTS_STATUS": "Truhen",
-  "INDICATORS_WAYPOINTS_TITLE": "Show Waypoints Indicators", // offen //
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "Shows waypoints indicators.", // offen //
+  "INDICATORS_WAYPOINTS_TITLE": "Show Waypoints Indicators", 
+  "INDICATORS_WAYPOINTS_DESCRIPTION": "Shows waypoints indicators.",
   "INDICATORS_WAYPOINTS_STATUS": "Wegpunkte",
   "INDICATORS_ALL_STATUS": "Alle",
   "INDICATORS_NONE_STATUS": "Keine",
 
-  "FPS_UNLOCK_TITLE": "Unlock FPS", // offen //
-  "FPS_UNLOCK_DESCRIPTION": "Allows the game to run at a framerates greater than 60 FPS.", // offen //
+  "FPS_UNLOCK_TITLE": "Unlock FPS",
+  "FPS_UNLOCK_DESCRIPTION": "Allows the game to run at a framerates greater than 60 FPS.", 
   "FPS_VALUE_TITLE": "FPS-Wert",
   "FPS_LOCK_TITLE": "FPS festlegen",
-  "FPS_LOCK_DESCRIPTION": "Limits game framerate while in the background.\nThis won't work if the cheat menu is open or if you're in a loading screen.", // offen //
+  "FPS_LOCK_DESCRIPTION": "Limits game framerate while in the background.\nThis won't work if the cheat menu is open or if you're in a loading screen.",
   "FPS_LIMIT_TITLE": "FPS Limit",
 
   "MODULE_WORLD": "Welt",
 
   "AUTO_DESTROY_TITLE": "Auto-Zerstören",
-  "AUTO_DESTROY_DESCRIPTION": "Instantly destroys non-living objects within a range.", // offen //
+  "AUTO_DESTROY_DESCRIPTION": "Instantly destroys non-living objects within a range.", 
   "AUTO_DESTROY_ORES_TITLE": "Erze",
   "AUTO_DESTROY_ORES_DESCRIPTION": "Ores and variants, e.g. Electro Crystals, Marrows, etc.",
   "AUTO_DESTROY_SHIELDS_TITLE": "Schilde",
-  "AUTO_DESTROY_SHIELDS_DESCRIPTION": "Abyss Mage/Churl/Slime shields.", // offen // Schilde von Abgrundmagiern, Hili- & Mitachurl, Schleimen
-  "AUTO_DESTROY_DOODADS_TITLE": "Doodads", // offen //
-  "AUTO_DESTROY_DOODADS_DESCRIPTION": "Barrels, Boxes, Vases, etc.", // offen //
+  "AUTO_DESTROY_SHIELDS_DESCRIPTION": "Schilde von Abgrundmagiern, Hili- & Mitachurlen, Schleimen",
+  "AUTO_DESTROY_DOODADS_TITLE": "Doodads",
+  "AUTO_DESTROY_DOODADS_DESCRIPTION": "Barrels, Boxes, Vases, etc.", 
   "AUTO_DESTROY_PLANTS_TITLE": "Pflanzen",
   "AUTO_DESTROY_PLANTS_DESCRIPTION": "Löwenzahnsamen, Sakura-Blüte, etc.",
   "AUTO_DESTROY_SPECIAL_OBJECTS_TITLE": "Besondere Objekte",
-  "AUTO_DESTROY_SPECIAL_OBJECTS_DESCRIPTION": "Destroy Ancient Rime, Large and Small Rock Piles.", // offen //
-  "AUTO_DESTROY_SPECIAL_CHESTS_TITLE": "Special Chests", // offen //
-  "AUTO_DESTROY_SPECIAL_CHESTS_DESCRIPTION": "Destroy Chests with Brambles, Frozen, or In Rocks.", // offen //
+  "AUTO_DESTROY_SPECIAL_OBJECTS_DESCRIPTION": "Destroy Ancient Rime, Large and Small Rock Piles.", 
+  "AUTO_DESTROY_SPECIAL_CHESTS_TITLE": "Besondere Truhen", 
+  "AUTO_DESTROY_SPECIAL_CHESTS_DESCRIPTION": "Destroy Chests with Brambles, Frozen, or In Rocks.",
 
-  "AUTO_LOOT_TITLE": "Auto Loot",  // offen //  
-  "AUTO_LOOT_ITEMS_TITLE": "Auto Pickup",  // offen //
+  "AUTO_LOOT_TITLE": "Auto Loot",  
+  "AUTO_LOOT_ITEMS_TITLE": "Auto Pickup",  
   "AUTO_LOOT_ITEMS_DESCRIPTION": "Automatically picks up dropped items.\nNote: Using this with custom range and low delay times is extremely risky.\nAbuse will definitely merit a ban.\n\nIf using with custom range, make sure this is turned on FIRST.",
-  "AUTO_LOOT_DISABLE_TITLE": "Auto disable when bag is full",  // offen //
-  "AUTO_LOOT_DISABLE_DESCRIPTION": "Automatically disables auto pickup when bag is full.",  // offen //
-  "AUTO_LOOT_CUSTOM_RANGE_TITLE": "Custom Pickup Range",  // offen //
-  "AUTO_LOOT_CUSTOM_RANGE_DESCRIPTION": "Enables custom pickup range.\nHigh values are not recommended, as it is easily detected by the server.\n\nIf using with auto-pickup/auto-treasure, turn this on LAST.",  // offen //
-  "AUTO_LOOT_CUSTOM_RANGE_VALUE_DESCRIPTION": "Modifies pickup/open range to this value (in meters).",  // offen //
-  "AUTO_LOOT_SPEED_TITLE": "Looting Speed (MS)",  // offen //
-  "AUTO_LOOT_SPEED_DESCRIPTION": "Delay (in milliseconds) between loot/open actions.\nValues under 200 MS are unsafe.\nNot used if no auto-functions are on.",  // offen //
+  "AUTO_LOOT_DISABLE_TITLE": "Auto disable when bag is full", 
+  "AUTO_LOOT_DISABLE_DESCRIPTION": "Automatically disables auto pickup when bag is full.", 
+  "AUTO_LOOT_CUSTOM_RANGE_TITLE": "Custom Pickup Range",
+  "AUTO_LOOT_CUSTOM_RANGE_DESCRIPTION": "Enables custom pickup range.\nHigh values are not recommended, as it is easily detected by the server.\n\nIf using with auto-pickup/auto-treasure, turn this on LAST.",
+  "AUTO_LOOT_CUSTOM_RANGE_VALUE_DESCRIPTION": "Modifies pickup/open range to this value (in meters).", 
+  "AUTO_LOOT_SPEED_TITLE": "Looting Speed (MS)", 
+  "AUTO_LOOT_SPEED_DESCRIPTION": "Delay (in milliseconds) between loot/open actions.\nValues under 200 MS are unsafe.\nNot used if no auto-functions are on.",
   "AUTO_LOOT_DELAY_FLUCTUATION_TITLE": "Looting delay fluctuation",
-  "AUTO_LOOT_DELAY_FLUCTUATION_DESCRIPTION": "Enables delay fluctuation.\nSimulates human clicking delay as manual clickling never consistent.",  // offen //
-  "AUTO_LOOT_ADDITIONAL_DELAY_RANGE_TITLE": "Delay Range +(MS)",  // offen //
-  "AUTO_LOOT_ADDITIONAL_DELAY_RANGE_DESCRIPTION": "Delay randomly fluctuates between 'Delay Time'+'Delay Time+range'",  // offen //
-  "AUTO_LOOT_TREASURES_TITLE": "Auto Treasure",  // offen //
+  "AUTO_LOOT_DELAY_FLUCTUATION_DESCRIPTION": "Enables delay fluctuation.\nSimulates human clicking delay as manual clickling never consistent.", 
+  "AUTO_LOOT_ADDITIONAL_DELAY_RANGE_TITLE": "Delay Range +(MS)", 
+  "AUTO_LOOT_ADDITIONAL_DELAY_RANGE_DESCRIPTION": "Delay randomly fluctuates between 'Delay Time'+'Delay Time+range'", 
+  "AUTO_LOOT_TREASURES_TITLE": "Auto Treasure", 
   "AUTO_LOOT_TREASURES_DESCRIPTION": "Automatically opens chests and other treasures.\nNote: Using this with custom range and low delay times is extremely risky.\nAbuse will definitely merit a ban.\n\nIf using with custom range, make sure this is turned on FIRST.",
   "AUTO_LOOT_CHESTS_TITLE": "Truhen",
-  "AUTO_LOOT_CHESTS_DESCRIPTION": "Common, Precious, Luxuriöse, etc.",  // offen //
-  "AUTO_LOOT_LEYLINES_TITLE": "Leylines",  // offen //
-  "AUTO_LOOT_LEYLINES_DESCRIPTION": "Mora/EXP, Overworld/Trounce bosses, etc.",  // offen //
-  "AUTO_LOOT_SEARCH_POINTS_TITLE": "Search Points",  // offen //
-  "AUTO_LOOT_SEARCH_POINTS_DESCRIPTION": "Marked as Investigate/Search, etc.", // offen //
-  "AUTO_LOOT_QUEST_INTERACTS_TITLE": "Quest Interacts", // offen //
-  "AUTO_LOOT_QUEST_INTERACTS_DESCRIPTION": "Valid quest interact points.", // offen //
-  "AUTO_LOOT_OTHERS_TITLE": "Others", // offen //
+  "AUTO_LOOT_CHESTS_DESCRIPTION": "Common, Precious, Luxuriöse, etc.", 
+  "AUTO_LOOT_LEYLINES_TITLE": "Leylines", 
+  "AUTO_LOOT_LEYLINES_DESCRIPTION": "Mora/EXP, Overworld/Trounce bosses, etc.",  
+  "AUTO_LOOT_SEARCH_POINTS_TITLE": "Search Points", 
+  "AUTO_LOOT_SEARCH_POINTS_DESCRIPTION": "Marked as Investigate/Search, etc.",
+  "AUTO_LOOT_QUEST_INTERACTS_TITLE": "Quest Interacts",
+  "AUTO_LOOT_QUEST_INTERACTS_DESCRIPTION": "Valid quest interact points.", 
+  "AUTO_LOOT_OTHERS_TITLE": "Anderes",
   "AUTO_LOOT_OTHERS_DESCRIPTION": "Buchseiten, Drehkristalle, etc.",
-  "AUTO_LOOT_PICKUP_FILTER_TITLE": "Pickup Filter", // offen //
-  "AUTO_LOOT_PICKUP_FILTER_DESCRIPTION": "Enables the pickup filter.", // offen //
+  "AUTO_LOOT_PICKUP_FILTER_TITLE": "Pickup Filter", 
+  "AUTO_LOOT_PICKUP_FILTER_DESCRIPTION": "Enables the pickup filter.", /
   "AUTO_LOOT_ANIMALS_TITLE": "Tiere",
   "AUTO_LOOT_ANIMALS_DESCRIPTION": "Fische, Eidechsen, Frösche, fliegende Tiere, ... ", 
-  "AUTO_LOOT_DROPPED_ITEMS_TITLE": "Dropped Items", // offen //
+  "AUTO_LOOT_DROPPED_ITEMS_TITLE": "Dropped Items", 
   "AUTO_LOOT_DROPPED_ITEMS_DESCRIPTION": "Materialien, Mineralien, Artefakte",
-  "AUTO_LOOT_RESOURCES_TITLE": "Resources", // offen //
-  "AUTO_LOOT_RESOURCES_DESCRIPTION": "Everythings beside Animals and Drop Items (Plants, Books, etc.).", // offen //
+  "AUTO_LOOT_RESOURCES_TITLE": "Resources", 
+  "AUTO_LOOT_RESOURCES_DESCRIPTION": "Everythings beside Animals and Drop Items (Plants, Books, etc.).", 
   "AUTO_LOOT_OCULUSES_TITLE": "Oculi", 
   "AUTO_LOOT_OCULUSES_DESCRIPTION": "Regionale Oculi (z.B. Anemoculus, Geoculus, ...)", 
  
-  "AUTO_TALK_TITLE": "Auto Talk", // offen //
-  "AUTO_TALK_DESCRIPTION": "Automatically goes through the dialogues.\nNote: Using values greater than 5.0 is not recommended, as they may break some game mechanics.", // offen //
-  "AUTO_TALK_AUTO_CLICK_TITLE": "Auto Click", // offen //
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "Automatically continue the dialog.", // offen //
+  "AUTO_TALK_TITLE": "Auto Talk", 
+  "AUTO_TALK_DESCRIPTION": "Automatically goes through the dialogues.\nNote: Using values greater than 5.0 is not recommended, as they may break some game mechanics.", 
+  "AUTO_TALK_AUTO_CLICK_TITLE": "Auto Click",
+  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "Automatically continue the dialog.", 
   "AUTO_TALK_DIALOG_SPEED_TITLE": "Dialoggeschwindigkeit",
-  "AUTO_TALK_SELECT_DIALOG_TITLE": "Auto Select Dialog", // offen //
-  "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Automatically selects dialog choices.", // offen //
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Exclude Katheryne/Tubby/Wagner", // offen //
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "Auto selection ignores Katheryne/Tubby/Wagner.", // offen //
+  "AUTO_TALK_SELECT_DIALOG_TITLE": "Automatische Dialogauswahl",
+  "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Wählt Antwortmöglichkeiten automatisch aus.",
+  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Exclude Katheryne/Tubby/Wagner", 
+  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "Auto selection ignores Katheryne/Tubby/Wagner.",
 
-  "DUMB_ENEMIES_TITLE": "Dumb Enemies", // offen //
-  "DUMB_ENEMIES_DESCRIPTION": "Enemies won't attack or use their abilities against the player.\nMay not work with some enemies or enemy abilities.", // offen //
+  "DUMB_ENEMIES_TITLE": "Dumb Enemies",
+  "DUMB_ENEMIES_DESCRIPTION": "Enemies won't attack or use their abilities against the player.\nMay not work with some enemies or enemy abilities.", 
 
   "ELEMENTAL_SIGHT_TITLE": "Permanente Elementarsicht",
-  "ELEMENTAL_SIGHT_DESCRIPTION": "Elemental sight is kept on even when moving.", // offen //
+  "ELEMENTAL_SIGHT_DESCRIPTION": "Elementarsicht bleibt auch während man sich bewegt aktiv.",
  
-  "FAKE_TIME_TITLE": "Fake Time", // offen //
-  "FAKE_TIME_DESCRIPTION": "Keep game time the same.", // offen //
+  "FAKE_TIME_TITLE": "Fake Time", 
+  "FAKE_TIME_DESCRIPTION": "Keep game time the same.", 
   "HOUR_TITLE": "Stunde",
   "MINUTE_TITLE": "Minute",
-  "SYNC2SERVER_TITLE": "Sync to server", // offen //
+  "SYNC2SERVER_TITLE": "Sync to server",
 
-  "FAST_COMBINE_TITLE": "Fast Combine", // offen //
-  "FAST_COMBINE_DESCRIPTION": "Allows you to quickly create an item.", // offen //
+  "FAST_COMBINE_TITLE": "Fast Combine", 
+  "FAST_COMBINE_DESCRIPTION": "Allows you to quickly create an item.",
   "FAST_COMBINE_RESIN_TITLE": "Angereichertes Harz",
   "FAST_COMBINE_WAYPOINT_TITLE": "Tragbarer Teleportationspunkt",
-  "CUSTOM_COMBINE_TITLE": "Custom Combine", // offen //
-  "COMBINE_ITEM_TITLE": "Item", // offen //
+  "CUSTOM_COMBINE_TITLE": "Custom Combine", 
+  "COMBINE_ITEM_TITLE": "Item", 
   "COMBINE_ID_TITLE": "ID",
-  "LIST_COMBINES_ID_TITLE": "List of Combines id", // offen //
+  "LIST_COMBINES_ID_TITLE": "List of Combines id",
   "COMBINE_COUNT_TITLE": "Menge",
-  "COMBINE_TITLE": "Combine", // offen //
+  "COMBINE_TITLE": "Kombinieren", 
 
-  "FREEZE_ENEMIES_TITLE": "Freeze Enemies", // offen //
-  "FREEZE_ENEMIES_DESCRIPTION": "Freezes all enemies' animation speed.", // offen //
+  "FREEZE_ENEMIES_TITLE": "Gegner einfrieren", 
+  "FREEZE_ENEMIES_DESCRIPTION": "Freezes all enemies' animation speed.", 
 
-  "GAME_SPEED_TITLE": "Game Speed", // offen //
-  "GAME_SPEED_DESCRIPTION": "Allows to customize speed of the game.", // offen //
+  "GAME_SPEED_TITLE": "Game Speed", 
+  "GAME_SPEED_DESCRIPTION": "Allows to customize speed of the game.", 
   "MULTIPLIER_TITLE": "Multiplikator",
-  "MULTIPLIER_DESCRIPTION": "Set the game speed multiplier.", // offen //
+  "MULTIPLIER_DESCRIPTION": "Set the game speed multiplier.", 
 
   "KILL_AURA_TITLE": "Kill-Aura", 
-  "KILL_AURA_DESCRIPTION": "Kills all enemies in the set radius.", // offen //
-  "DAMAGE_MODE_TITLE": "Crash Damage Mode", // offen //
-  "DAMAGE_MODE_DESCRIPTION": "Causes crash damage for the monsters around you.", // offen //
-  "PERCENT_MODE_TITLE": "Percent Mode", // offen //
-  "PERCENT_MODE_DESCRIPTION": "Crash damage value scales on a set percent.", // offen //
-  "DAMAGE_VALUE_TITLE": "Damage Value", // offen //
-  "DAMAGE_VALUE_DESCRIPTION": "Crash damage value without scaling.", // offen //
-  "KILL_TIMES_TITLE": "Kill Times", // offen //
-  "KILL_TIMES_DESCRIPTION": "How many times kill aura needs to trigger in order to kill the enemies.", // offen //
-  "KILL_RANGE_TITLE": "Kill Range", // offen //
-  "DESTROY_SHIELDS_TITLE": "Destroy Shields", // offen //
-  "KILL_AURA_ONLY_TARGETED_TITLE": "Only Hostile/Aggressive", // offen //
-  "KILL_AURA_ONLY_TARGETED_DESCRIPTION": "If enabled, kill aura will only affect monsters that are targeting/aggressive towards you.", // offen //
-  "CRASH_ATTACK_DELAY_TITLE": "Crash Attack Delay (MS)", // offen //
-  "CRASH_ATTACK_DELAY_DESCRIPTION": "Delay (in ms) before next crash damage.", // offen //
-  "CRASH_REPEAT_DELAY_TITLE": "Crash Repeat Delay (MS)", // offen //
-  "CRASH_REPEAT_DELAY_DESCRIPTION": "Delay (in milliseconds) before crash damaging the same monster.", // offen //
+  "KILL_AURA_DESCRIPTION": "Kills all enemies in the set radius.", 
+  "DAMAGE_MODE_TITLE": "Crash Damage Mode", 
+  "DAMAGE_MODE_DESCRIPTION": "Causes crash damage for the monsters around you.", 
+  "PERCENT_MODE_TITLE": "Percent Mode",
+  "PERCENT_MODE_DESCRIPTION": "Crash damage value scales on a set percent.",
+  "DAMAGE_VALUE_TITLE": "Damage Value", 
+  "DAMAGE_VALUE_DESCRIPTION": "Crash damage value without scaling.", 
+  "KILL_TIMES_TITLE": "Kill Times", 
+  "KILL_TIMES_DESCRIPTION": "How many times kill aura needs to trigger in order to kill the enemies.", 
+  "KILL_RANGE_TITLE": "Kill Range", 
+  "DESTROY_SHIELDS_TITLE": "Destroy Shields",
+  "KILL_AURA_ONLY_TARGETED_TITLE": "Only Hostile/Aggressive", 
+  "KILL_AURA_ONLY_TARGETED_DESCRIPTION": "If enabled, kill aura will only affect monsters that are targeting/aggressive towards you.", 
+  "CRASH_ATTACK_DELAY_TITLE": "Crash Attack Delay (MS)", 
+  "CRASH_ATTACK_DELAY_DESCRIPTION": "Delay (in ms) before next crash damage.",
+  "CRASH_REPEAT_DELAY_TITLE": "Crash Repeat Delay (MS)",
+  "CRASH_REPEAT_DELAY_DESCRIPTION": "Delay (in milliseconds) before crash damaging the same monster.",
 
   "MOB_VACUUM_TITLE": "Mob-Vakuum",
-  "MOB_VACUUM_DESCRIPTION": "Vacuums all enemies in the radius to a specified spot in front of the player.", // offen //
-  "MOB_VACUUM_INCLUDE_MONSTERS_TITLE": "Include Monsters", // offen //
-  "MOB_VACUUM_INCLUDE_MONSTERS_DESCRIPTION": "Includes monsters in the vacuum.", // offen //
-  "MOB_VACUUM_COMMON_TITLE": "Common", // offen //
-  "MOB_VACUUM_COMMON_DESCRIPTION": "Common enemies.", // offen //
+  "MOB_VACUUM_DESCRIPTION": "Vacuums all enemies in the radius to a specified spot in front of the player.", 
+  "MOB_VACUUM_INCLUDE_MONSTERS_TITLE": "Include Monsters", 
+  "MOB_VACUUM_INCLUDE_MONSTERS_DESCRIPTION": "Includes monsters in the vacuum.", 
+  "MOB_VACUUM_COMMON_TITLE": "Gewöhnlich", 
+  "MOB_VACUUM_COMMON_DESCRIPTION": "Gewöhnliche Gegner", 
   "MOB_VACUUM_ELITE_TITLE": "Elite",
   "MOB_VACUUM_ELITE_DESCRIPTION": "Elitegegner.",
   "MOB_VACUUM_BOSS_TITLE": "Boss",
-  "MOB_VACUUM_BOSS_DESCRIPTION": "World and Trounce boss enemies.", // offen //
-  "MOB_VACUUM_INCLUDE_ANIMALS_TITLE": "Include Animals", // offen //
-  "MOB_VACUUM_INCLUDE_ANIMALS_DESCRIPTION": "Include animals in the vacuum.", // offen //
-  "MOB_VACUUM_DROP_TITLE": "Droppers", // offen //
-  "MOB_VACUUM_DROP_DESCRIPTION": "Animals you need to kill before collecting.", // offen //
-  "MOB_VACUUM_PICKUP_TITLE": "Pick-Ups", // offen //
-  "MOB_VACUUM_PICKUP_DESCRIPTION": "Animals you can immediately collect.", // offen //
-  "MOB_VACUUM_NPC_TITLE": "NPCs", // offen //
-  "MOB_VACUUM_NPC_DESCRIPTION": "Include animals without mechanics in the vacuum.", // offen //
-  "MOB_VACUUM_COLLIDER_TITLE": "Remove Collider", // offen //
-  "MOB_VACUUM_COLLIDER_DESCRIPTION": "If enabled, monsters won't be able to push you despite of a distance or size.", // offen //
-  "MOB_VACUUM_ONLY_TARGET_TITLE": "Only Hostile/Aggressive", // offen //
-  "MOB_VACUUM_ONLY_TARGET_DESCRIPTION": "If enabled, vacuum will only affect monsters targeting you. Will not affect animals.", // offen //
-  "MOB_VACUUM_INSTANT_VACUUM_TITLE": "Instant Vacuum", // offen //
-  "MOB_VACUUM_INSTANT_VACUUM_DESCRIPTION": "Vacuums enemies instantly.", // offen //
-  "MOB_VACUUM_SPEED_TITLE": "Speed", // offen //
-  "MOB_VACUUM_SPEED_DESCRIPTION": "If 'Instant Vacuum' is not checked, enemy will be vacuumed at the specified speed.", // offen //
-  "MOB_VACUUM_RADIUS_TITLE": "Radius (m)", // offen //
-  "MOB_VACUUM_RADIUS_DESCRIPTION": "Radius of the vacuum.", // offen //
-  "MOB_VACUUM_DISTANCE_DESCRIPTION": "Distance between the player and the monster.", // offen //
+  "MOB_VACUUM_BOSS_DESCRIPTION": "World and Trounce boss enemies.", 
+  "MOB_VACUUM_INCLUDE_ANIMALS_TITLE": "Include Animals", 
+  "MOB_VACUUM_INCLUDE_ANIMALS_DESCRIPTION": "Include animals in the vacuum.", 
+  "MOB_VACUUM_DROP_TITLE": "Droppers",
+  "MOB_VACUUM_DROP_DESCRIPTION": "Animals you need to kill before collecting.", 
+  "MOB_VACUUM_PICKUP_TITLE": "Pick-Ups", 
+  "MOB_VACUUM_PICKUP_DESCRIPTION": "Animals you can immediately collect.", 
+  "MOB_VACUUM_NPC_TITLE": "NPCs", 
+  "MOB_VACUUM_NPC_DESCRIPTION": "Include animals without mechanics in the vacuum.", 
+  "MOB_VACUUM_COLLIDER_TITLE": "Remove Collider",
+  "MOB_VACUUM_COLLIDER_DESCRIPTION": "If enabled, monsters won't be able to push you despite of a distance or size.", 
+  "MOB_VACUUM_ONLY_TARGET_TITLE": "Only Hostile/Aggressive", 
+  "MOB_VACUUM_ONLY_TARGET_DESCRIPTION": "If enabled, vacuum will only affect monsters targeting you. Will not affect animals.",
+  "MOB_VACUUM_INSTANT_VACUUM_TITLE": "Instant Vakuum",
+  "MOB_VACUUM_INSTANT_VACUUM_DESCRIPTION": "Vacuums enemies instantly.", 
+  "MOB_VACUUM_SPEED_TITLE": "Geschwindigkeit",
+  "MOB_VACUUM_SPEED_DESCRIPTION": "If 'Instant Vacuum' is not checked, enemy will be vacuumed at the specified speed.", 
+  "MOB_VACUUM_RADIUS_TITLE": "Radius (m)",
+  "MOB_VACUUM_RADIUS_DESCRIPTION": "Radius des Vakuums in Metern.",
+  "MOB_VACUUM_DISTANCE_DESCRIPTION": "Distanz zwischen Spieler und Monster.",
 
-  "MUSIC_GAME_TITLE": "Music Game", // offen //
-  "MUSIC_GAME_DESCRIPTION": "It is intended only for a music game.", // offen //
-  "MUSIC_GAME_AUTO_HIT_TITLE": "Auto Hit", // offen //
-  "MUSIC_GAME_AUTO_HIT_DESCRIPTION": "Simulates player clicks.", // offen //
-  "MUSIC_GAME_NO_MISS_TITLE": "No Miss", // offen //
-  "MUSIC_GAME_NO_MISS_DESCRIPTION": "It does not count missed clicks.", // offen //
+  "MUSIC_GAME_TITLE": "Music Game", 
+  "MUSIC_GAME_DESCRIPTION": "It is intended only for a music game.", 
+  "MUSIC_GAME_AUTO_HIT_TITLE": "Auto Hit", 
+  "MUSIC_GAME_AUTO_HIT_DESCRIPTION": "Simulates player clicks.",
+  "MUSIC_GAME_NO_MISS_TITLE": "No Miss", 
+  "MUSIC_GAME_NO_MISS_DESCRIPTION": "It does not count missed clicks.", 
   "MUSIC_GAME_HIT_TITLE": "Treffer",
-  "MUSIC_GAME_HIT_DESCRIPTION": "The number of points per tap.", // offen //
+  "MUSIC_GAME_HIT_DESCRIPTION": "The number of points per tap.", 
   "MUSIC_GAME_COMBO_TITLE": "Kombo",
   "MUSIC_GAME_COMBO_DESCRIPTION": "Legt die Kombo während des Spielens fest.",
  
@@ -630,17 +630,17 @@
   "SKIP_CUTSCENE_TITLE": "Cutscenes überspringen",
   "SKIP_CUTSCENE_DESCRIPTION": "Überspringt Cutscenes.\nKann zu Abstürzen oder Spielfehlern führen.",
 
-  "ENABLED_TITLE": "Enabled", // offen //
-  "CONFIG_TITLE": "Config", // offen //
+  "ENABLED_TITLE": "Aktiviert", 
+  "CONFIG_TITLE": "Konfigurieren", 
   "FONT_SIZE_TITLE": "Schriftgröße",
-  "COLORS_TITLE": "Colors", // offen //
+  "COLORS_TITLE": "Farben", 
   "TRANSPARENCY_TITLE": "Transparenz",
   "FILTERS_TITLE": "Filter",
-  "RANGE_TITLE": "Range (M)", // offen //
-  "DISTANCE_TITLE": "Distance (M)", // offen //
-  "COLLIDER_TITLE": "Collider (M)", // offen //
-  "HOTKEY_MODE_TITLE": "Hotkey Mode", // offen // 
-  "HOTKEY_MODE_DESCRIPTION": "The feature will be enabled while holding the hotkey.", // offen // Feature wird durch Halten des Hotkeys aktiviert
+  "RANGE_TITLE": "Range (M)", 
+  "DISTANCE_TITLE": "Distance (M)", 
+  "COLLIDER_TITLE": "Collider (M)",
+  "HOTKEY_MODE_TITLE": "Hotkey Mode", 
+  "HOTKEY_MODE_DESCRIPTION": "The feature will be enabled while holding the hotkey.", 
 
   "PATH": "Pfad",
   "HOTKEY": "Hotkey", 
