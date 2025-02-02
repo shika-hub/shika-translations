@@ -541,7 +541,7 @@
   "FAKE_TIME_DESCRIPTION": "Сохранить игровое время неизменным.",
   "HOUR_TITLE": "Час",
   "MINUTE_TITLE": "Минута",
-  "SYNC2SERVER_TITLE": "Синхронизация с сервером"
+  "SYNC2SERVER_TITLE": "Синхронизация с сервером",
 
   "FAST_COMBINE_TITLE": "Быстрое комбинирование",
   "FAST_COMBINE_DESCRIPTION": "Позволяет быстро создать предмет.",
