@@ -11,7 +11,6 @@
   "ABOUT_SOCIALS": "社交",
   "OPEN_IN_BROWSER": "在浏览器中打开",
 
-  "MODULE_ESP": "透视",
   "ESP_DESCRIPTION": "显示通过障碍物过滤的对象.",
   "ESP_OVERLAY_SETTINGS_TITLE": "叠加设置",
   "ESP_DRAW_BOX_TITLE": "绘制框",
@@ -39,7 +38,6 @@
   "ESP_SECTION_PUZZLE_TITLE": "解谜",
   "ESP_SECTION_COMBINED_TITLE": "综合",
   "ESP_BOOK_TITLE": "书",
-  "ESP_ALL_TITLE": "全部",
   "ESP_VIEWPOINT_TITLE": "观景点",
   "ESP_RADIANT_SPINCRYSTAL_TITLE": "旋曜玉帛",
   "ESP_BOOK_PAGE_TITLE": "书页",
@@ -376,10 +374,6 @@
   "GRAPHICS_OUTLINE_WIDTH": "轮廓宽度",
   "GRAPHICS_GAMMA_TITLE": "伽玛比例",
   "GRAPHICS_DRS_TITLE": "渲染比例",
-
-  "GUI_SCALE_TITLE": "GUI 比例",
-  "GUI_SCALE_DESCRIPTION": "GUI 比例",
-  "SCALE_TITLE": "比例",
 
   "HIDE_DAMAGE_TITLE": "隐藏伤害",
   "HIDE_DAMAGE_DESCRIPTION": "隐藏伤害数字.",
