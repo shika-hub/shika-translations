@@ -215,9 +215,9 @@
   "ESP_MONSTERS_TITLE": "怪物",
 
   "EXECUTE_TITLE": "执行",
-  "LUA_EXAMPLES_TITLE": "Lua Examples",
+  "LUA_EXAMPLES_TITLE": "Lua 示例",
 
-  "MODULE_MISC": "Misc",
+  "MODULE_MISC": "杂项",
 
   "GACHA_URL_FETCHER_TITLE": "抽卡网页获取器",
   "GACHA_URL_FETCHER_DESCRIPTION": "打开抽卡历史记录时自动获取链接.",
