@@ -2,7 +2,7 @@
 
 We are always looking for people who want to become translators for their native language and contribute to translation for Shika.
 
-We are currently looking for translators for the languages: `-`.
+We are currently looking for translators for the languages: `PH`, `ZH-TW`.
 
 If you want to become a translator:
 1. Create a Pull Request and attach a Json file with a translation of a few lines in your native language.
