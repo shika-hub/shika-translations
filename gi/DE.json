@@ -511,7 +511,7 @@
   "AUTO_LOOT_OTHERS_TITLE": "Anderes",
   "AUTO_LOOT_OTHERS_DESCRIPTION": "Buchseiten, Drehkristalle, etc.",
   "AUTO_LOOT_PICKUP_FILTER_TITLE": "Pickup Filter", 
-  "AUTO_LOOT_PICKUP_FILTER_DESCRIPTION": "Enables the pickup filter.", /
+  "AUTO_LOOT_PICKUP_FILTER_DESCRIPTION": "Enables the pickup filter.",
   "AUTO_LOOT_ANIMALS_TITLE": "Tiere",
   "AUTO_LOOT_ANIMALS_DESCRIPTION": "Fische, Eidechsen, Frösche, fliegende Tiere, ... ", 
   "AUTO_LOOT_DROPPED_ITEMS_TITLE": "Dropped Items", 
