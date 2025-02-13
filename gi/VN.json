@@ -235,7 +235,6 @@
   "ESP_ZAYTUN_PEACH_TITLE": "Đào Zaytun",
   "ESP_AMBER_STONE_TITLE": "Hổ Phách",
   "ESP_ANCIENT_RIME_TITLE": "Tuyết Cổ Đại",
-  "ESP_BAKE_DANUKI_TITLE": "Bake-Danuki",
   "ESP_BLOATTY_FLOATTY_TITLE": "Quả Bồng Bồng",
   "ESP_CUBE_DEVICES_TITLE": "Khối Cơ Quan",
   "ESP_EIGHT_STONE_TABLETS_TITLE": "8 Tấm Bia Đá",
@@ -390,6 +389,10 @@
   "SHOW_STATUS_WINDOW_DESCRIPTION": "Hiển thị cửa sổ với trạng thái của các chức năng đã bật.",
   "MOVE_STATUS_TITLE": "Di Chuyển Cửa Sổ Trạng Thái",
   "MOVE_STATUS_DESCRIPTION": "Cho phép kéo cửa sổ 'Trạng Thái' để di chuyển.",
+  "SHOW_INFO_WINDOW_TITLE": "Show Info Window",
+  "SHOW_INFO_WINDOW_DESCRIPTION": "Shows a window with various information.",
+  "MOVE_INFO_TITLE": "Movable Info Window",
+  "MOVE_INFO_DESCRIPTION": "Allows 'Info' window to be moved by dragging it.",
   "SHOW_FPS_TITLE": "Hiển Thị FPS Hiện Tại",
   "SHOW_FPS_DESCRIPTION": "Hiển thị số khung hình trên giây (FPS) trong game.",
   "MOVE_FPS_TITLE": "Di Chuyển Cửa Sổ FPS",
@@ -422,7 +425,13 @@
   "DEVELOPER_MODE_DESCRIPTION": "Nếu bạn không phải là nhà phát triển, không nên bật chế độ này.\nSẽ không có ai hỗ trợ bạn sử dụng các chức năng này.\nChế độ này mở khóa một số danh mục và tính năng.",
 
   "MODULE_TELEPORT": "Dịch Chuyển",
-  
+
+  "NOT_FOUND_TITLE": "not found",
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+  "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
+  "SHOW_INFO_TITLE": "Show Info",
+  "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
   "MAP_TELEPORT_TITLE": "Dịch Chuyển Bản Đồ",
   "MAP_TELEPORT_DESCRIPTION": "Bật chức năng dịch chuyển đến điểm đánh dấu.\nCách sử dụng:\n1. Mở bản đồ.\n2. Giữ [Phím Dịch Chuyển] và nhấp chuột trái vào bất kỳ vị trí nào trên bản đồ.\nXong. Bạn đã được dịch chuyển đến vị trí đã chọn.\nDịch chuyển có thể bị lỗi nếu đến vị trí quá cao.\nĐiều chỉnh Độ Cao Ghi Đè để tránh tình trạng này.",
   "MAP_TELEPORT_KEY_TITLE": "Phím Dịch Chuyển",
