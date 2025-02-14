@@ -414,7 +414,7 @@
   "SETTINGS_CUSTOMIZE": "Personalizar",
   "FADE_DURATION_TITLE": "Duración del Desvanecimiento (S)",
   "FADE_DURATION_DESCRIPTION": "Cambia la duración de las animaciones de aparición/desaparición de ventanas.",
-  "GUI_SCALE_TITLE": "Gui Scale",
+  "GUI_SCALE_TITLE": "Tamaño de Interfaz",
   "GUI_SCALE_DESCRIPTION": "Cambia el tamaño de los elementos de la interfaz.",
   "GUI_SCALE_VALUE_TITLE": "Valor de tamaño de interfaz",
   "DEVELOPER_MODE_TITLE": "Modo Desarrollador",
