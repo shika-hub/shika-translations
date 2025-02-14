@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "Teletrasporto",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+
   "MAP_TELEPORT_TITLE": "Teletrasporto su mappa",
   "MAP_TELEPORT_DESCRIPTION": "Abilitare la funzionalità di teletrasporto a marcatura.\nUtilizzo:\n1. Aprire la mappa.\n2. Tenete premuto [Tasto Teletrasporto] e cliccate con la LMB in un punto qualsiasi della mappa.\nFatto. Siete stati teletrasportati nel luogo selezionato.\nIl teletrasporto potrebbe avere un'anomalia se si teletrasporta in una posizione estremamente elevata.\nRegolare di conseguenza l'altezza di esclusione per evitare che si verifichi.",
   "MAP_TELEPORT_KEY_TITLE": "Tasto di teletrasporto",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Usa la posizione di trasporto predefinita del sistema invece della posizione assoluta del contrassegno quando si teletrasporta all'edificio e al contrassegno di trasporto.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "Altezza di scavalcamento (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "Se il teletrasporto non riesce a raggiungere l'altezza del suolo della posizione di destinazione,\nsi teletrasporterà all'altezza specificata qui.\nSi raccomanda che questo valore sia alto almeno quanto una montagna.\nAltrimenti, potreste cadere nel terreno.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "Teletrasporto su missioni",
   "QUEST_TELEPORT_DESCRIPTION": "Teletrasportarsi al QuestPoint.\n(Non funziona per alcune aree delle missioni)\nPremere il tasto 'V' per seguire la missione, quindi premere il tasto di scelta rapida per teletrasportarsi.",

@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "传送",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+
   "MAP_TELEPORT_TITLE": "地图传送",
   "MAP_TELEPORT_DESCRIPTION": "启用指定地点传送功能.\n用法:\n1.打开地图\n2.按住[传送键]然后鼠标左键点击地图任意位置\n3.你将会被传送到你选择的地方\n如果传送到极高的位置,传送可能会出现问题,\n应当调整高度避免该情况.",
   "MAP_TELEPORT_KEY_TITLE": "传送键",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "传送到建筑物和锚点时使用系统默认传送位置而不是指定的绝对位置.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "指定高度(米)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "如果传送无法获取目标位置的地面高度,\n会将您传送到此处指定的高度.\n建议此值至少与山一样高,\n否则,可能掉落到地下.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "任务传送",
   "QUEST_TELEPORT_DESCRIPTION": "传送到任务点.\n(一些任务区域无法生效)\n按V键追踪任务,然后再按下快捷键以进行传送.",

@@ -427,11 +427,15 @@
   "MODULE_TELEPORT": "Dịch Chuyển",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+
   "MAP_TELEPORT_TITLE": "Dịch Chuyển Bản Đồ",
   "MAP_TELEPORT_DESCRIPTION": "Bật chức năng dịch chuyển đến điểm đánh dấu.\nCách sử dụng:\n1. Mở bản đồ.\n2. Giữ [Phím Dịch Chuyển] và nhấp chuột trái vào bất kỳ vị trí nào trên bản đồ.\nXong. Bạn đã được dịch chuyển đến vị trí đã chọn.\nDịch chuyển có thể bị lỗi nếu đến vị trí quá cao.\nĐiều chỉnh Độ Cao Ghi Đè để tránh tình trạng này.",
   "MAP_TELEPORT_KEY_TITLE": "Phím Dịch Chuyển",
@@ -440,7 +444,10 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Sử dụng vị trí di chuyển hệ thống mặc định thay vì vị trí tuyệt đối khi dịch chuyển đến tòa nhà và điểm di chuyển.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "Ghi Đè Độ Cao (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "Nếu dịch chuyển không thể lấy được độ cao mặt đất của vị trí mục tiêu,\nthì sẽ dịch chuyển bạn đến độ cao được chỉ định tại đây.\nNên đặt giá trị này ít nhất ngang với một ngọn núi.\nNếu không, bạn có thể bị rơi xuyên qua mặt đất.",
-  
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
+
   "QUEST_TELEPORT_TITLE": "Dịch Chuyển Nhiệm Vụ",
   "QUEST_TELEPORT_DESCRIPTION": "Dịch chuyển đến Điểm Nhiệm Vụ.\n(Không hoạt động với một số khu vực nhiệm vụ)\nNhấn phím 'V' để theo dõi nhiệm vụ, sau đó nhấn phím tắt để dịch chuyển.",
   

@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "Teleport",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+
   "MAP_TELEPORT_TITLE": "Map Teleport",
   "MAP_TELEPORT_DESCRIPTION": "Umożliwia teleportowanie się do wybranego miejsca na mapie.\n1. Otwórz mapę.\n2. Przytrzymaj [Teleport Key] i kliknij w wybrane miejsce na mapie.\nMoże być zbugowane, jeśli używasz np. pod ziemią lub gdzieś bardzo wysoko.",
   "MAP_TELEPORT_KEY_TITLE": "Teleport Key",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Use system default transport position instead of mark absolute position when teleport to building and transport mark.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "Override Height (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "eśli teleport nie jest w stanie określić wysokości terenu,\nto przeteleportuje cię na określoną wysokość.\nWartość powinna być co najmniej równa wysokości gór.\nW przeciwnym razie możesz spaść poza mapę.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "Quest Teleport",
   "QUEST_TELEPORT_DESCRIPTION": "Umożliwia teleportowanie się bezpośrednio do questa.\n(Może nie działać w niektórych miejscach).\nUpewnij się, że trackujesz questa, a następnie kliknij hotkey.",

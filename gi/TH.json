@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "การเทเลพอร์ต",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+
   "MAP_TELEPORT_TITLE": "เทเลพอร์ตบนแผนที่",
   "MAP_TELEPORT_DESCRIPTION": "การใช้ฟังก์ชันการเทเลพอร์ตไปยังจุดหมาย: เปิดแผนที่ กดค้าง [ปุ่มเทเลพอร์ต] และคลิกที่ใดก็ได้บนแผนที่ด้วยปุ่มซ้ายของเมาส์ คุณจะถูกเทเลพอร์ตไปยังตำแหน่งที่เลือก (การเทเลพอร์ตอาจเกิดการกระตุกหากเทเลพอร์ตไปยังตำแหน่งที่สูงมาก ปรับความสูงการเทเลพอร์ตตามที่จำเป็นเพื่อหลีกเลี่ยงปัญหา)",
   "MAP_TELEPORT_KEY_TITLE": "ปุ่มเทเลพอร์ต",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "ใช้ตำแหน่งการขนส่งเริ่มต้นของระบบแทนตำแหน่งที่กำหนดเมื่อเทเลพอร์ตไปยังอาคารและจุดหมายการขนส่ง",
   "MAP_TELEPORT_OVERRIDE_TITLE": "ความสูงที่กำหนดเอง (เมตร)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "หากเทเลพอร์ตไม่สามารถรับความสูงของพื้นดินที่ตำแหน่งเป้าหมายได้ ระบบจะเทเลพอร์ตคุณไปยังความสูงที่กำหนดไว้ที่นี่ แนะนำให้กำหนดค่านี้ให้สูงอย่างน้อยเท่ากับความสูงของภูเขา มิฉะนั้น คุณอาจตกลงไปใต้พื้นดินได้",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "เทเลพอร์ตเควส",
   "QUEST_TELEPORT_DESCRIPTION": "การใช้ฟังก์ชันการเทเลพอร์ตไปยังจุดหมาย: คลิกที่เควสที่คุณต้องการเทเลพอร์ต และคลิกที่ปุ่มเทเลพอร์ต คุณจะถูกเทเลพอร์ตไปยังตำแหน่งที่เลือก (การเทเลพอร์ตอาจเกิดการกระตุกหากเทเลพอร์ตไปยังตำแหน่งที่สูงมาก ปรับความสูงการเทเลพอร์ตตามที่จำเป็นเพื่อหลีกเลี่ยงปัญหา)",

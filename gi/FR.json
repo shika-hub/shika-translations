@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "Téléportation",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+  
   "MAP_TELEPORT_TITLE": "Téléportation sur la carte",
   "MAP_TELEPORT_DESCRIPTION": "Active la fonctionnalité de téléportation vers un marqueur.\nUtilisation :\n1. Ouvrir la carte.\n2. Maintenir [Touche de téléportation] et cliquer avec le Clic gauche de la souris sur un endroit de la carte.\nC'est fait. Vous avez été téléporté à l'emplacement sélectionné.\nLa téléportation peut bugger si vous vous téléportez vers un endroit extrêmement élevé.\nAjustez la hauteur de remplacement pour éviter cela.",
   "MAP_TELEPORT_KEY_TITLE": "Touche de téléportation",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Utiliser la position de transport par défaut du système au lieu de la position absolue du marqueur lors de la téléportation vers un bâtiment ou un marqueur de transport.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "Hauteur de remplacement (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "Si la téléportation ne peut pas obtenir la hauteur du sol à l'emplacement cible,\nelle vous téléportera à la hauteur spécifiée ici.\nIl est recommandé de mettre cette valeur au moins aussi haute qu'une montagne.\nSinon, vous risquez de traverser le sol.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "Téléportation de quête",
   "QUEST_TELEPORT_DESCRIPTION": "Téléportation vers le point de quête.\n(Ne fonctionne pas pour certaines zones de quête)\nAppuyez sur la touche 'V' pour suivre la quête, puis appuyez sur le raccourci pour téléporter.",

@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "Teleport",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+
   "MAP_TELEPORT_TITLE": "Map Teleport",
   "MAP_TELEPORT_DESCRIPTION": "Enable teleport-to-mark functionality.\nUsage:\n1. Open map.\n2. Hold [Teleport Key] and click with the LMB anywhere in the map.\nDone. You have been teleported to selected location.\nTeleport might glitch if teleporting to an extremely high location.\nAdjust Override Height accordingly to help avoid.",
   "MAP_TELEPORT_KEY_TITLE": "Teleport Key",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Use system default transport position instead of mark absolute position when teleport to building and transport mark.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "Override Height (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "If teleport cannot get ground height of target location,\nit will teleport you to the height specified here.\nIt is recommended to have this value to be at least as high as a mountain.\nOtherwise, you may fall through the ground.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "Quest Teleport",
   "QUEST_TELEPORT_DESCRIPTION": "Teleport to QuestPoint.\n(Does not work for some Quest Areas)\nPress the 'V' key to track the Quest, then press the hotkey to teleport.",
