@@ -657,8 +657,8 @@
   "AUTO_LOOT_DROPPED_ITEMS_DESCRIPTION": "Materiales, Minerales, Artefactos.",
   "AUTO_LOOT_RESOURCES_TITLE": "Recursos",
   "AUTO_LOOT_RESOURCES_DESCRIPTION": "Todo lo demás, excepto Animales y Objetos caídos (Plantas, Libros, etc.).",
-  "AUTO_LOOT_OCULUSES_TITLE": "Oculi",
-  "AUTO_LOOT_OCULUSES_DESCRIPTION": "Oculi regionales.",
+  "AUTO_LOOT_OCULUSES_TITLE": "Oculus",
+  "AUTO_LOOT_OCULUSES_DESCRIPTION": "Oculus regionales.",
 
   "AUTO_TALK_TITLE": "Conversación automática",
   "AUTO_TALK_DESCRIPTION": "Avanza automáticamente por los diálogos.\nNota: Usar valores mayores a 5.0 no es recomendable, ya que pueden romper algunas mecánicas del juego.",
