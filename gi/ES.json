@@ -300,7 +300,7 @@
   "EXECUTE_TITLE": "Ejecutar",
   "LUA_EXAMPLES_TITLE": "Ejemplos en Lua",
 
-  "MODULE_MISC": "Misc",
+  "MODULE_MISC": "Varios",
 
   "GACHA_URL_FETCHER_TITLE": "Extractor de URL de Gacha",
   "GACHA_URL_FETCHER_DESCRIPTION": "Obtiene automáticamente el enlace al abrir el Historial de Deseos.",
