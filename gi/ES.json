@@ -385,7 +385,7 @@
   "SHOW_STATUS_WINDOW_DESCRIPTION": "Muestra una ventana con las funciones habilitadas.",
   "MOVE_STATUS_TITLE": "Ventana de Estado Movible",
   "MOVE_STATUS_DESCRIPTION": "Permite mover la ventana de 'Estado' arrastrándola.",
-  "SHOW_INFO_WINDOW_TITLE": "Show Info Window",
+  "SHOW_INFO_WINDOW_TITLE": "Mostrar Ventana de Información",
   "SHOW_INFO_WINDOW_DESCRIPTION": "Muestra una ventana con diversa información.",
   "MOVE_INFO_TITLE": "Ventana de información movible",
   "MOVE_INFO_DESCRIPTION": "Permite mover la ventana 'Información' arrastrándola.",
@@ -588,7 +588,7 @@
   "PROFILE_FRIENDSHIP_DESCRIPTION": "Cambia el nivel de amistad de los personajes al maximo.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "Cantidad de Personajes con el máximo valor de nivel de amistad",
 
-  "INDICATORS_TITLE": "Show Indicators",
+  "INDICATORS_TITLE": "Mostrar indicadores",
   "INDICATORS_DESCRIPTION": "Muestra indicadores de cofres y/o puntos de viaje utilizando la mecánica del juego.",
   "INDICATORS_CHESTS_TITLE": "Mostrar indicadores de cofres",
   "INDICATORS_CHESTS_DESCRIPTION": "Muestra los indicadores de cofres.",
