@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "Işınlanma",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+
   "MAP_TELEPORT_TITLE": "Haritada Işınlanma",
   "MAP_TELEPORT_DESCRIPTION": "İşaretlere ışınlanma özelliğini aktif eder.\nKullanım:\n1. Haritayı Aç.\n2. [Işınlanma Tuşu]'na basılı tut ve sol tıkla haritadaki herhangi bir yere tıkla.\nBitti. Seçtiğiniz yere ışınlandınız.\nEğer aşırı yüksek bir yere ışınlanılıyorsa glitchlenebilirsiniz.\nGlitchlenmemeniz için buna göre Yüksekliği Geçersiz Kılmayı ayarlayın.",
   "MAP_TELEPORT_KEY_TITLE": "Işınlanma Tuşu",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Bir binaya veya işarete ışınlanırken işaretin tam pozisyonu yerine sistem varsayılan pozisyonu kullanır.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "Yüksekliği Geçersiz Kıl (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "Eğer ışınlanma seçilen yerin zemin yüksekliğini alamıyorsa,\nsizi buradaki seçilen yüksekliğe ışınlar.\nBu değerin en az bir dağ kadar yüksek olması önerilir.\nAksi halde yerin içinden düşebilirsiniz.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "Göreve Işınlanma",
   "QUEST_TELEPORT_DESCRIPTION": "Görev yerine ışınlar.\n(Bazı görev yerlerinde çalışmıyor)\nGörevi takip etmek için 'V' tuşuna basın, sonra ışınlanmak için belirlenen kısayol tuşuna basın.",

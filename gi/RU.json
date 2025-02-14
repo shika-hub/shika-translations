@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "Телепорт",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+
   "MAP_TELEPORT_TITLE": "Телепортации по карте",
   "MAP_TELEPORT_DESCRIPTION": "Включить функцию телепортации по карте.\nИспользование:\n1. Открыть карту.\n2. зажать [Клавишу телепорта] и щелкните ЛКМ в любом месте карты.\nСделано. Вы были телепортированы в выбранное место.\nТелепорт может дать сбой при телепортации на очень большую высоту.\nОтрегулируйте высоту установки соответствующим образом, чтобы избежать ошибок.",
   "MAP_TELEPORT_KEY_TITLE": "Клавиша телепорта",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Используйте системное транспортное положение по умолчанию вместо абсолютного положения метки при телепортации в здание и транспортной метке.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "Настроить высоту (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "Если телепорт не может достичь высоты земли в целевом местоположении,\nон телепортирует вас на указанную здесь высоту.\nРекомендуется, чтобы это значение было не ниже высоты горы.\nВ противном случае вы можете провалиться сквозь землю.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "Телепортируйтесь к заданию",
   "QUEST_TELEPORT_DESCRIPTION": "Телепортируйтесь к месту задания.\n(Не работает для некоторых областей выполнения заданий)\nНажмите клавишу 'V', чтобы отследить выполнение задания, затем нажмите горячую клавишу для телепортации.",

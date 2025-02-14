@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "텔레포트",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+
   "MAP_TELEPORT_TITLE": "맵 텔레포트",
   "MAP_TELEPORT_DESCRIPTION": "표시된 위치로 텔레포트하는 기능을 활성화합니다.\n사용법:\n1. 지도를 엽니다.\n2. [텔레포트 키]를 누른 상태에서 지도의 아무 곳이나 LMB로 클릭합니다.\n매우 높은 위치로 텔레포트할 때 오류가 발생할 수 있습니다.\n이를 피하기 위해 높이를 적절히 조절하세요.",
   "MAP_TELEPORT_KEY_TITLE": "텔레포트 키",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "건물과 이동 표시로 텔레포트할 때 절대 위치 대신 시스템 기본 이동 위치를 사용합니다.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "높이 조절 (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "텔레포트가 목표 위치의 지면 높이를 가져올 수 없는 경우,\n여기에 지정된 높이로 텔레포트합니다.\n이 값을 산 높이만큼은 설정하는 것이 좋습니다.\n그렇지 않으면 지면을 통과할 수 있습니다.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "퀘스트 텔레포트",
   "QUEST_TELEPORT_DESCRIPTION": "퀘스트 지점으로 순간이동합니다.\n(일부 퀘스트 지역에서는 작동하지 않습니다)\n'V' 키를 눌러 퀘스트를 추적한 다음, 핫키를 눌러 순간이동하세요.",

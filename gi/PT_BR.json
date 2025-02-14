@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "Teleporte",
 
   "NOT_FOUND_TITLE": "Não encontrado",
-  "CHEST_TELEPORT_TITLE": "Teleporte para Baú",
-  "CHEST_TELEPORT_DESCRIPTION": "Te teleporta pro baú que estiver mais perto.",
   "TELEPORT_NEAREST_TITLE": "Teleportar pro mais perto",
   "SHOW_INFO_TITLE": "Mostrar Informações",
   "SHOW_INFO_DESCRIPTION": "Mostra um resumo sobre o baú mais perto na janela de informações.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Teleporte para Baú",
+  "CHEST_TELEPORT_DESCRIPTION": "Te teleporta pro baú que estiver mais perto.",
+
   "MAP_TELEPORT_TITLE": "Teleporte no Mapa",
   "MAP_TELEPORT_DESCRIPTION": "Ativa a funcionalidade de teleporte ao marcar no mapa.\nUsage:\n1. Abra o mapa.\n2. Segure [Tecla de Teleporte] e clique com o botão esquerdo do mouse em qualquer lugar do mapa.\nPronto. Você foi teleportado para o local selecionado.\nO teleporte pode não funcionar como deveria ao teleportar para um lugar muito alto.\nAjuste a Configuração de Altura conforme necessário para ajudar a evitar isso.",
   "MAP_TELEPORT_KEY_TITLE": "Tecla de Teleporte",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Use a posição de teleporte padrão do jogo no lugar da posição absoluta da marcação ao teleportar para uma estrutura ou teleporte do mapa.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "Configurar Altura (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "Se o teleporte não conseguir obter a altura do terreno no local selecionado,\nele irá teleportá-lo para a altura especificada aqui.\nRecomenda-se que este valor seja pelo menos tão alto quanto uma montanha.\nCaso contrário, você pode cair através do chão.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "Telerporte de Missão",
   "QUEST_TELEPORT_DESCRIPTION": "Teleporte para o Local da Missão.\n(Não funciona para algumas Áreas de Missão)\nPressione a tecla 'V' para rastrear a Missão, e depois pressione a tecla de atalho para teleportar.",

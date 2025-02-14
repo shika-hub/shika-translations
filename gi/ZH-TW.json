@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "傳送",
 
   "NOT_FOUND_TITLE": "未找到",
-  "CHEST_TELEPORT_TITLE": "寶箱傳送",
-  "CHEST_TELEPORT_DESCRIPTION": "將你傳送到最近的寶箱.",
   "TELEPORT_NEAREST_TITLE": "就近傳送",
   "SHOW_INFO_TITLE": "顯示信息",
   "SHOW_INFO_DESCRIPTION": "在信息窗口顯示關於最近寶箱的簡易信息.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "寶箱傳送",
+  "CHEST_TELEPORT_DESCRIPTION": "將你傳送到最近的寶箱.",
+
   "MAP_TELEPORT_TITLE": "地圖傳送",
   "MAP_TELEPORT_DESCRIPTION": "啟用指定地點傳送功能.\n用法:\n1.打開地圖\n2.按住[傳送鍵]然後鼠標左鍵點擊地圖任意位置\n3.你將會被傳送到你選擇的地方\n如果傳送到極高的位置,傳送可能會出現問題,\n應當調整高度避免該情況.",
   "MAP_TELEPORT_KEY_TITLE": "傳送鍵",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "傳送到建築物和錨點時使用系統默認傳送位置而不是指定的絕對位置.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "指定高度(米)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "如果傳送無法獲取目標位置的地面高度,\n會將您傳送到此處指定的高度.\n建議此值至少與山一樣高,\n否則,可能掉落到地下.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "任務傳送",
   "QUEST_TELEPORT_DESCRIPTION": "傳送到任務點.\n(一些任務區域無法生效)\n按V鍵追蹤任務,然後再按下快捷鍵以進行傳送.",

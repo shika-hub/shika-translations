@@ -422,11 +422,15 @@
   "MODULE_TELEPORT": "Teletransporte",
 
   "NOT_FOUND_TITLE": "not found",
-  "CHEST_TELEPORT_TITLE": "Chest Teleport",
-  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
   "TELEPORT_NEAREST_TITLE": "Teleport to Nearest",
   "SHOW_INFO_TITLE": "Show Info",
   "SHOW_INFO_DESCRIPTION": "Show short info about nearest chest to the info window.",
+  "TELEPORT_CHEST_TITLE": "Chest",
+  "TELEPORT_OCULI_TITLE": "Oculi",
+
+  "CHEST_TELEPORT_TITLE": "Chest Teleport",
+  "CHEST_TELEPORT_DESCRIPTION": "Teleports you to the nearest chest.",
+  
   "MAP_TELEPORT_TITLE": "Mapa de Teletransporte",
   "MAP_TELEPORT_DESCRIPTION": "Habilita la funcionalidad de teletransporte a una marca.\nUso:\n1. Abre el mapa.\n2. Mantén presionada la [Tecla de Teletransporte] y haz Click con el botón izquierdo del ratón (LMB) en cualquier lugar del mapa.\n¡Listo! Te has teletransportado a la ubicación seleccionada.\nEl teletransporte puede fallar si intentas ir a una ubicación extremadamente alta.\nAjusta la Altura de Sobrescritura (Sobreescribir altura) según sea necesario para evitar problemas.",
   "MAP_TELEPORT_KEY_TITLE": "Tecla de Teletransporte",
@@ -435,6 +439,9 @@
   "MAP_TELEPORT_TRANSPORT_DESCRIPTION": "Usar la posición de transporte predeterminada del sistema en lugar de la posición absoluta de la marca al teletransportarse a un edificio o marca de transporte.",
   "MAP_TELEPORT_OVERRIDE_TITLE": "Sobreescribir altura (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "Si el teletransporte no puede obtener la altura del suelo de la ubicación objetivo,\nte teletransportará a la altura especificada aquí.\nSe recomienda que este valor sea al menos tan alto como una montaña.\nDe lo contrario, podrías caer a través del suelo.",
+
+  "OCULI_TELEPORT_TITLE": "Oculi Teleport",
+  "OCULI_TELEPORT_DESCRIPTION": "Teleports you to the nearest oculi.",
 
   "QUEST_TELEPORT_TITLE": "Teletransporte a misión",
   "QUEST_TELEPORT_DESCRIPTION": "Teletransportarse al punto de misión.\n(No funciona para algunas áreas de misión)\nPresiona la tecla 'V' para rastrear la misión, luego presiona la tecla rápida para teletransportarte.",
