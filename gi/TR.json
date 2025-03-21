@@ -735,6 +735,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "Bir sonraki çarpışma hasarından önceki gecikme (milisaniye cinsinden).",
   "CRASH_REPEAT_DELAY_TITLE": "Tekrar Çarpışma Gecikmesi (MS)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "Aynı canavara tekrar çarpışma hasarıyla vurmadan önceki gecikme (milisaniye cinsinden).",
+  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
 
   "MOB_VACUUM_TITLE": "Canavar Kara Deliği",
   "MOB_VACUUM_DESCRIPTION": "Ayarlanan uzaklıktakı bütün canavarları oyuncunun önündeki belirli bir yere çeker.",

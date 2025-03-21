@@ -741,6 +741,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "攻撃間の遅延",
   "CRASH_REPEAT_DELAY_TITLE": "リピート遅延 (ms)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "同じモンスターに対する攻撃の遅延時間",
+  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
 
   "MOB_VACUUM_TITLE": "モブ吸い寄せ",
   "MOB_VACUUM_DESCRIPTION": "指定した半径内のモブがプレイヤーの前方に指定した距離移動します",

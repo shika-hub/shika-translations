@@ -735,6 +735,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "다음 피해 전 지연 시간 (밀리초).",
   "CRASH_REPEAT_DELAY_TITLE": "반복 지연 (밀리초)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "같은 몬스터에 피해를 주기 전 지연 시간 (밀리초).",
+  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
 
   "MOB_VACUUM_TITLE": "몹 끌어오기",
   "MOB_VACUUM_DESCRIPTION": "반경 내의 모든 적을 플레이어 앞의 지정된 지점으로 끌어당깁니다.",

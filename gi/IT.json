@@ -735,6 +735,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "Ritardo (in millisecondi) prima del prossimo danno da crash.",
   "CRASH_REPEAT_DELAY_TITLE": "Ritardo ripetizione crash (MS)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "Ritardo (in millisecondi) prima del crash che danneggia lo stesso mostro.",
+  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
 
   "MOB_VACUUM_TITLE": "Aspira i nemici",
   "MOB_VACUUM_DESCRIPTION": "Aspira tutti i nemici nel raggio in un punto specifico di fronte al giocatore.",

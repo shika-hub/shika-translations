@@ -735,6 +735,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "Delay (in ms) before next crash damage.",
   "CRASH_REPEAT_DELAY_TITLE": "Crash Repeat Delay (MS)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "Delay (in milliseconds) before crash damaging the same monster.",
+  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
 
   "MOB_VACUUM_TITLE": "Mob Vacuum",
   "MOB_VACUUM_DESCRIPTION": "Vacuums all enemies in the radius to a specified spot in front of the player.",

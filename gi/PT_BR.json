@@ -735,6 +735,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "Atraso (em milissegundos) antes do próximo dano de Impacto.",
   "CRASH_REPEAT_DELAY_TITLE": "Atraso para Repetir o Impacto (MS)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "Atraso (em milissegundos) antes do Impacto atingir o mesmo monstro de novo.",
+  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
 
   "MOB_VACUUM_TITLE": "Vácuo de Mobs",
   "MOB_VACUUM_DESCRIPTION": "Puxa todos os inimigos ao redor para um ponto específico na frente do jogador.",

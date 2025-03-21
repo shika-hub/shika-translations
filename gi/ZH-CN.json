@@ -736,6 +736,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "对下一个怪物造成伤害延迟.",
   "CRASH_REPEAT_DELAY_TITLE": "伤害循环延迟(毫秒)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "对同一个怪物造成伤害延迟.",
+  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
 
   "MOB_VACUUM_TITLE": "生物吸附",
   "MOB_VACUUM_DESCRIPTION": "启用生物吸附.\n指定范围内的生物将移动到玩家前方的指定距离.",

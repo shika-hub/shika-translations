@@ -735,6 +735,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "Penundaan (dalam ms) sebelum crash damage berikutnya.",
   "CRASH_REPEAT_DELAY_TITLE": "Crash Repeat Delay (MS)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "Penundaan (dalam milidetik) sebelum memberikan crash damage pada monster yang sama.",
+  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
 
   "MOB_VACUUM_TITLE": "Mob Vacuum",
   "MOB_VACUUM_DESCRIPTION": "Mengumpulkan semua musuh dalam radius ke titik tertentu di depan pemain.",

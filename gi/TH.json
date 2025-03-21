@@ -735,6 +735,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "หน่วงเวลาการโจมตีจากการชน (มิลลิวินาที) ก่อนความเสียหายจากการชนครั้งต่อไป",
   "CRASH_REPEAT_DELAY_TITLE": "หน่วงเวลาซ้ำ (มิลลิวินาที) ของการชน",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "หน่วงเวลา (มิลลิวินาที) ก่อนที่จะทำให้สัตว์ประหลาดตัวเดิมได้รับความเสียหายจากการชนอีกครั้ง",
+  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
 
   "MOB_VACUUM_TITLE": "ดูดศัตรู",
   "MOB_VACUUM_DESCRIPTION": "ดูดศัตรูทั้งหมดในรัศมีไปยังจุดที่กำหนดข้างหน้าผู้เล่น",
