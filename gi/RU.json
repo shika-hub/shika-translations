@@ -736,8 +736,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "Заддержка в ms до следующей критической атаки.",
   "CRASH_REPEAT_DELAY_TITLE": "Задержка повтора критической атаки (ms)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "Задержка в ms перед крушением повреждающим того же врага.",
-  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
-  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
+  "INSTANT_DEATH_MODE_TITLE": "Режим мгновенной смерти",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Килл Аура попытается мгновенно уничтожить любую допустимую цель.\nМожет работать с ошибками на некоторых монстрах.",
 
   "MOB_VACUUM_TITLE": "Вакуум мобов",
   "MOB_VACUUM_DESCRIPTION": "Активирует вакуум мобов.\nМобы в указаном радиусе будут перемещаться в указанную дистанциию перед игроком.",
