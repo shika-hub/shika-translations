@@ -736,7 +736,7 @@
   "CRASH_REPEAT_DELAY_TITLE": "Crash Repeat Delay (MS)",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "Delay (w milisekundach) przed uderzeniem tego samego wroga.",
   "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
-  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Proba natychmiastowego zabicia kazdego wroga.\nMoze nie dzialac z niektorymi wrogrami.",
 
   "MOB_VACUUM_TITLE": "Mob Vacuum",
   "MOB_VACUUM_DESCRIPTION": "Przyciaga wszystkich wrogow w promieniu do okreslonego miejsca przed graczem.",
