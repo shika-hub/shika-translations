@@ -20,6 +20,8 @@
   "ESP_DRAW_NAME_DESCRIPTION": "绘制物体名称.",
   "ESP_DRAW_DISTANCE_TITLE": "绘制距离",
   "ESP_DRAW_DISTANCE_DESCRIPTION": "绘制到物体的距离.",
+  "ESP_HIDE_COMPLETED_TITLE": "Hide completed puzzles",
+  "ESP_HIDE_COMPLETED_DESCRIPTION": "Hide completed puzzles (Elemental monuments, Bloatty Floatty, Electro Seelie, etc.)",
   "ESP_FONT_SIZE_DESCRIPTION": "名称或距离的字体大小.",
   "ESP_RANGE_DESCRIPTION": "检测目标物体的最大距离.",
   "ESP_OUTLINE_WIDTH_TITLE": "轮廓宽度",

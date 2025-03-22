@@ -20,6 +20,8 @@
   "ESP_DRAW_NAME_DESCRIPTION": "オブジェクトの名前を表示する",
   "ESP_DRAW_DISTANCE_TITLE": "距離を描画",
   "ESP_DRAW_DISTANCE_DESCRIPTION": "オブジェクトまでの距離を表示する",
+  "ESP_HIDE_COMPLETED_TITLE": "Hide completed puzzles",
+  "ESP_HIDE_COMPLETED_DESCRIPTION": "Hide completed puzzles (Elemental monuments, Bloatty Floatty, Electro Seelie, etc.)",
   "ESP_FONT_SIZE_DESCRIPTION": "名前または距離のフォントサイズ",
   "ESP_RANGE_DESCRIPTION": "対象オブジェクトを検出する範囲",
   "ESP_OUTLINE_WIDTH_TITLE": "アウトラインの幅",

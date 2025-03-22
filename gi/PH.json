@@ -20,6 +20,8 @@
   "ESP_DRAW_NAME_DESCRIPTION": "Draw a name of the object.",
   "ESP_DRAW_DISTANCE_TITLE": "Draw Distance",
   "ESP_DRAW_DISTANCE_DESCRIPTION": "Draws distance to object.",
+  "ESP_HIDE_COMPLETED_TITLE": "Hide completed puzzles",
+  "ESP_HIDE_COMPLETED_DESCRIPTION": "Hide completed puzzles (Elemental monuments, Bloatty Floatty, Electro Seelie, etc.)",
   "ESP_FONT_SIZE_DESCRIPTION": "Name/Distance font size.",
   "ESP_RANGE_DESCRIPTION": "Max. distance to detect target objects.",
   "ESP_OUTLINE_WIDTH_TITLE": "Outline Width",

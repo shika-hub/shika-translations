@@ -20,6 +20,8 @@
   "ESP_DRAW_NAME_DESCRIPTION": "Disegnare il nome dell'oggetto.",
   "ESP_DRAW_DISTANCE_TITLE": "Distanza di estrazione",
   "ESP_DRAW_DISTANCE_DESCRIPTION": "Disegna la distanza dall'oggetto.",
+  "ESP_HIDE_COMPLETED_TITLE": "Hide completed puzzles",
+  "ESP_HIDE_COMPLETED_DESCRIPTION": "Hide completed puzzles (Elemental monuments, Bloatty Floatty, Electro Seelie, etc.)",
   "ESP_FONT_SIZE_DESCRIPTION": "Dimensione carattere nome/distanza.",
   "ESP_RANGE_DESCRIPTION": "Distanza massima per il rilevamento di oggetti target.",
   "ESP_OUTLINE_WIDTH_TITLE": "Larghezza del contorno",

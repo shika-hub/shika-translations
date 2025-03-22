@@ -20,6 +20,8 @@
   "ESP_DRAW_NAME_DESCRIPTION": "Affiche le nom de l'objet.",
   "ESP_DRAW_DISTANCE_TITLE": "Afficher la distance",
   "ESP_DRAW_DISTANCE_DESCRIPTION": "Affiche la distance à l'objet.",
+  "ESP_HIDE_COMPLETED_TITLE": "Hide completed puzzles",
+  "ESP_HIDE_COMPLETED_DESCRIPTION": "Hide completed puzzles (Elemental monuments, Bloatty Floatty, Electro Seelie, etc.)",
   "ESP_FONT_SIZE_DESCRIPTION": "Taille de police pour le nom/la distance.",
   "ESP_RANGE_DESCRIPTION": "Distance maximale pour détecter les objets cibles.",
   "ESP_OUTLINE_WIDTH_TITLE": "Épaisseur du contour",

@@ -20,6 +20,8 @@
   "ESP_DRAW_NAME_DESCRIPTION": "แสดงชื่อของวัตถุ",
   "ESP_DRAW_DISTANCE_TITLE": "แสดงระยะห่าง",
   "ESP_DRAW_DISTANCE_DESCRIPTION": "แสดงระยะห่างจากวัตถุ",
+  "ESP_HIDE_COMPLETED_TITLE": "Hide completed puzzles",
+  "ESP_HIDE_COMPLETED_DESCRIPTION": "Hide completed puzzles (Elemental monuments, Bloatty Floatty, Electro Seelie, etc.)",
   "ESP_FONT_SIZE_DESCRIPTION": "ขนาดฟอนต์ของชื่อ/ระยะห่าง",
   "ESP_RANGE_DESCRIPTION": "ระยะสูงสุดในการตรวจจับวัตถุเป้าหมาย",
   "ESP_OUTLINE_WIDTH_TITLE": "ความหนาของเส้นขอบ",
