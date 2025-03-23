@@ -678,6 +678,11 @@
   "AUTO_LOOT_OCULUSES_TITLE": "Thần Đồng",
   "AUTO_LOOT_OCULUSES_DESCRIPTION": "Thần đồng theo khu vực.",
 
+  "AUTO_SEELIE_TITLE": "Auto Seelie",
+  "AUTO_SEELIE_DESCRIPTION": "Auto follow seelie to its home.",
+  "AUTO_ELECTRO_SEELIE_TITLE": "Auto Electro Seelie",
+  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electroseelie,\nthey start moving automatically with this option within 100 m radius.",
+
   "AUTO_TALK_TITLE": "Tự động đối thoại",
   "AUTO_TALK_DESCRIPTION": "Tự động chuyển qua hội thoại.\nLưu ý: Không khuyến khích sử dụng giá trị lớn hơn 5.0, vì có thể gây lỗi một số cơ chế trò chơi.",
   "AUTO_TALK_AUTO_CLICK_TITLE": "Tự động nhấp",

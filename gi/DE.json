@@ -674,8 +674,13 @@
   "AUTO_LOOT_RESOURCES_TITLE": "Resources", 
   "AUTO_LOOT_RESOURCES_DESCRIPTION": "Everythings beside Animals and Drop Items (Plants, Books, etc.).", 
   "AUTO_LOOT_OCULUSES_TITLE": "Oculi", 
-  "AUTO_LOOT_OCULUSES_DESCRIPTION": "Regionale Oculi (z.B. Anemoculus, Geoculus, ...)", 
- 
+  "AUTO_LOOT_OCULUSES_DESCRIPTION": "Regionale Oculi (z.B. Anemoculus, Geoculus, ...)",
+
+  "AUTO_SEELIE_TITLE": "Auto Seelie",
+  "AUTO_SEELIE_DESCRIPTION": "Auto follow seelie to its home.",
+  "AUTO_ELECTRO_SEELIE_TITLE": "Auto Electro Seelie",
+  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electroseelie,\nthey start moving automatically with this option within 100 m radius.",
+
   "AUTO_TALK_TITLE": "Auto Talk", 
   "AUTO_TALK_DESCRIPTION": "Automatically goes through the dialogues.\nNote: Using values greater than 5.0 is not recommended, as they may break some game mechanics.", 
   "AUTO_TALK_AUTO_CLICK_TITLE": "Auto Click",

@@ -677,6 +677,11 @@
   "AUTO_LOOT_OCULUSES_TITLE": "Oculus",
   "AUTO_LOOT_OCULUSES_DESCRIPTION": "Oculus regionales.",
 
+  "AUTO_SEELIE_TITLE": "Auto Seelie",
+  "AUTO_SEELIE_DESCRIPTION": "Auto follow seelie to its home.",
+  "AUTO_ELECTRO_SEELIE_TITLE": "Auto Electro Seelie",
+  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electroseelie,\nthey start moving automatically with this option within 100 m radius.",
+
   "AUTO_TALK_TITLE": "Conversación automática",
   "AUTO_TALK_DESCRIPTION": "Avanza automáticamente por los diálogos.\nNota: Usar valores mayores a 5.0 no es recomendable, ya que pueden romper algunas mecánicas del juego.",
   "AUTO_TALK_AUTO_CLICK_TITLE": "Click automático",

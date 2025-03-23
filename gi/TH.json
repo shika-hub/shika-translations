@@ -677,6 +677,11 @@
   "AUTO_LOOT_OCULUSES_TITLE": "โอคิวลัส",
   "AUTO_LOOT_OCULUSES_DESCRIPTION": "โอคิวลัสประจำภูมิภาค",
 
+  "AUTO_SEELIE_TITLE": "Auto Seelie",
+  "AUTO_SEELIE_DESCRIPTION": "Auto follow seelie to its home.",
+  "AUTO_ELECTRO_SEELIE_TITLE": "Auto Electro Seelie",
+  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electroseelie,\nthey start moving automatically with this option within 100 m radius.",
+
   "AUTO_TALK_TITLE": "คุยอัตโนมัติ",
   "AUTO_TALK_DESCRIPTION": "ผ่านบทสนทนาโดยอัตโนมัติ หมายเหตุ: ไม่แนะนำให้ใช้ค่ามากกว่า 5.0 เพราะอาจทำให้กลไกของเกมเสียได้",
   "AUTO_TALK_AUTO_CLICK_TITLE": "คลิกอัตโนมัติ",

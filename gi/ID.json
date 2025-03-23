@@ -676,7 +676,12 @@
   "AUTO_LOOT_RESOURCES_DESCRIPTION": "Everythings beside Animals and Drop Items (Plants, Books, etc.).",
   "AUTO_LOOT_OCULUSES_TITLE": "Oculuses",
   "AUTO_LOOT_OCULUSES_DESCRIPTION": "Regional oculuses.",
-  
+
+  "AUTO_SEELIE_TITLE": "Auto Seelie",
+  "AUTO_SEELIE_DESCRIPTION": "Auto follow seelie to its home.",
+  "AUTO_ELECTRO_SEELIE_TITLE": "Auto Electro Seelie",
+  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electroseelie,\nthey start moving automatically with this option within 100 m radius.",
+
   "AUTO_TALK_TITLE": "Auto Talk",
   "AUTO_TALK_DESCRIPTION": "Secara otomatis melewati dialog.\nCatatan: Menggunakan nilai lebih besar dari 5.0 tidak disarankan, karena dapat merusak beberapa mekanisme permainan.",
   "AUTO_TALK_AUTO_CLICK_TITLE": "Auto Click",

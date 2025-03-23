@@ -677,6 +677,11 @@
   "AUTO_LOOT_OCULUSES_TITLE": "Oculi",
   "AUTO_LOOT_OCULUSES_DESCRIPTION": "Oculi Regionais.",
 
+  "AUTO_SEELIE_TITLE": "Auto Seelie",
+  "AUTO_SEELIE_DESCRIPTION": "Auto follow seelie to its home.",
+  "AUTO_ELECTRO_SEELIE_TITLE": "Auto Electro Seelie",
+  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electroseelie,\nthey start moving automatically with this option within 100 m radius.",
+
   "AUTO_TALK_TITLE": "Diálogo Automático",
   "AUTO_TALK_DESCRIPTION": "Avança automaticamente pelos diálogos.\nOBS: Usar valores maiores que 5.0 não é recomendado, pois, pode quebrar algumas mecânicas do jogo.",
   "AUTO_TALK_AUTO_CLICK_TITLE": "Clique Automático",
