@@ -32,6 +32,8 @@
   "ESP_TRACER_COLOR_TITLE": "선 색상",
   "ESP_TEXT_COLOR_TITLE": "텍스트 색상",
   "ESP_TRANSPARENCY_DESCRIPTION": "값이 작을수록 상자 내부가 더 진해집니다.",
+  "MIN_ENTITY_SIZE_TITLE": "Min. Entity Size",
+  "MIN_ENTITY_SIZE_DESCRIPTION": "Minimum entity size as measured in-world.\nSome entities have either extremely small or no bounds at all.\nThis parameter helps filter out entities that don't meet this condition.",
   "ESP_SECTION_COLLECTION_TITLE": "수집 아이템",
   "ESP_SECTION_CHEST_TITLE": "보물상자",
   "ESP_SECTION_FEATURED_TITLE": "특수 아이템",

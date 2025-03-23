@@ -32,6 +32,8 @@
   "ESP_TRACER_COLOR_TITLE": "Tracer Color",
   "ESP_TEXT_COLOR_TITLE": "Text Color",
   "ESP_TRANSPARENCY_DESCRIPTION": "Transparency of the box filling.",
+  "MIN_ENTITY_SIZE_TITLE": "Min. Entity Size",
+  "MIN_ENTITY_SIZE_DESCRIPTION": "Minimum entity size as measured in-world.\nSome entities have either extremely small or no bounds at all.\nThis parameter helps filter out entities that don't meet this condition.",
   "ESP_SECTION_COLLECTION_TITLE": "Collection",
   "ESP_SECTION_CHEST_TITLE": "Chest",
   "ESP_SECTION_FEATURED_TITLE": "Featured",

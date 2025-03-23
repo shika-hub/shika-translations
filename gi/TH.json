@@ -32,6 +32,8 @@
   "ESP_TRACER_COLOR_TITLE": "สีของเส้นร่องรอย",
   "ESP_TEXT_COLOR_TITLE": "สีของข้อความ",
   "ESP_TRANSPARENCY_DESCRIPTION": "ความโปร่งแสงของกล่อง",
+  "MIN_ENTITY_SIZE_TITLE": "Min. Entity Size",
+  "MIN_ENTITY_SIZE_DESCRIPTION": "Minimum entity size as measured in-world.\nSome entities have either extremely small or no bounds at all.\nThis parameter helps filter out entities that don't meet this condition.",
   "ESP_SECTION_COLLECTION_TITLE": "ของสะสม",
   "ESP_SECTION_CHEST_TITLE": "หีบ",
   "ESP_SECTION_FEATURED_TITLE": "ไอเทมเด่น",
