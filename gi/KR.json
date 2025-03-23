@@ -680,7 +680,7 @@
   "AUTO_SEELIE_TITLE": "Auto Seelie",
   "AUTO_SEELIE_DESCRIPTION": "Auto follow seelie to its home.",
   "AUTO_ELECTRO_SEELIE_TITLE": "Auto Electro Seelie",
-  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electroseelie,\nthey start moving automatically with this option within 100 m radius.",
+  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electro seelie,\nthey start moving automatically with this option within 100 m radius.",
 
   "AUTO_TALK_TITLE": "자동 대화",
   "AUTO_TALK_DESCRIPTION": "자동으로 대화를 진행합니다.\n참고: 5.0보다 큰 값을 사용하는 것은 일부 게임 시스템을 망가뜨릴 수 있으므로 권장하지 않습니다.",
