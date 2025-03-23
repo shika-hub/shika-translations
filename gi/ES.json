@@ -678,9 +678,9 @@
   "AUTO_LOOT_OCULUSES_DESCRIPTION": "Oculus regionales.",
 
   "AUTO_SEELIE_TITLE": "Auto Seelie",
-  "AUTO_SEELIE_DESCRIPTION": "Auto follow seelie to its home.",
+  "AUTO_SEELIE_DESCRIPTION": "Sigue automáticamente al Seelie hasta su hogar.",
   "AUTO_ELECTRO_SEELIE_TITLE": "Auto Electro Seelie",
-  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electro seelie,\nthey start moving automatically with this option within 100 m radius.",
+  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Dado que no necesitas iniciar manualmente el electro seelie.,\nComienzan a moverse automáticamente con esta opción dentro de un radio de 100 metros.",
 
   "AUTO_TALK_TITLE": "Conversación automática",
   "AUTO_TALK_DESCRIPTION": "Avanza automáticamente por los diálogos.\nNota: Usar valores mayores a 5.0 no es recomendable, ya que pueden romper algunas mecánicas del juego.",
@@ -722,7 +722,7 @@
   "GAME_SPEED_DESCRIPTION": "Permite cambiar la velocidad del juego.",
   "MULTIPLIER_TITLE": "Multiplicador",
   "MULTIPLIER_DESCRIPTION": "Modifica el multiplicador de la velocidad del juego.",
-  "PRESETS_TITLE": "Presets",
+  "PRESETS_TITLE": "Ajustes predeterminados",
 
   "KILL_AURA_TITLE": "Kill Aura",
   "KILL_AURA_DESCRIPTION": "Elimina a los enemigos cercanos.",
@@ -742,8 +742,8 @@
   "CRASH_ATTACK_DELAY_DESCRIPTION": "Retraso en milisegundos antes de que el ataque de caida cause daño.",
   "CRASH_REPEAT_DELAY_TITLE": "Retraso en (MS) de repeticion de caida",
   "CRASH_REPEAT_DELAY_DESCRIPTION": "Retraso en milisegundos antes de que el ataque de caida se repita en un enemigo que ya lo recibio.",
-  "INSTANT_DEATH_MODE_TITLE": "Instant Death Mode",
-  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill aura will attempt to instagib any valid target.\nCan get buggy with some monsters.",
+  "INSTANT_DEATH_MODE_TITLE": "Modo de Muerte Instantánea",
+  "INSTANT_DEATH_MODE_DESCRIPTION": "Kill Aura intentará eliminar instantáneamente cualquier objetivo válido.\nPuede volverse problemático con algunos monstruos.",
 
   "MOB_VACUUM_TITLE": "Atraccion de Enemigos",
   "MOB_VACUUM_DESCRIPTION": "Aspira a los enemigos hacia ti en un rango especifico.",
