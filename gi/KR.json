@@ -21,7 +21,7 @@
   "ESP_DRAW_DISTANCE_TITLE": "거리 표시",
   "ESP_DRAW_DISTANCE_DESCRIPTION": "오브젝트까지의 거리를 표시합니다.",
   "ESP_HIDE_COMPLETED_TITLE": "완료된 퍼즐 표시 숨김",
-  "ESP_HIDE_COMPLETED_DESCRIPTION": "완료한 퍼즐 (원소 비석, 둥실 해파리, 번개 선령 등)을 화면에서 숨깁니다.",
+  "ESP_HIDE_COMPLETED_DESCRIPTION": "완료한 퍼즐 (원소 비석, 퐁퐁나무, 번개 선령 등)을 화면에서 숨깁니다.",
   "ESP_FONT_SIZE_DESCRIPTION": "글꼴 크기",
   "ESP_RANGE_DESCRIPTION": "대상 오브젝트를 감지할 최대 거리",
   "ESP_OUTLINE_WIDTH_TITLE": "외곽선 두께 조절",
