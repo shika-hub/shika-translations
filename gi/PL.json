@@ -21,7 +21,7 @@
   "ESP_DRAW_DISTANCE_TITLE": "Draw Distance",
   "ESP_DRAW_DISTANCE_DESCRIPTION": "Rysuje dystans do obiektu.",
   "ESP_HIDE_COMPLETED_TITLE": "Hide completed puzzles",
-  "ESP_HIDE_COMPLETED_DESCRIPTION": "Hide completed puzzles (Elemental monuments, Bloatty Floatty, Electro Seelie, etc.)",
+  "ESP_HIDE_COMPLETED_DESCRIPTION": "Ukrywa zrobione puzzle (Elemental monuments, Bloatty Floatty, Electro Seelie, itp.)",
   "ESP_FONT_SIZE_DESCRIPTION": "Wielkosc czcionki nazwy i dystansu do obiektu.",
   "ESP_RANGE_DESCRIPTION": "Maksymalny dystans wykrywania obiektow.",
   "ESP_OUTLINE_WIDTH_TITLE": "Outline Width",
@@ -683,9 +683,9 @@
   "AUTO_LOOT_OCULUSES_DESCRIPTION": "Regional oculuses.",
 
   "AUTO_SEELIE_TITLE": "Auto Seelie",
-  "AUTO_SEELIE_DESCRIPTION": "Auto follow seelie to its home.",
+  "AUTO_SEELIE_DESCRIPTION": "Seelie samodzielnie wraca do domu.",
   "AUTO_ELECTRO_SEELIE_TITLE": "Auto Electro Seelie",
-  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electro seelie,\nthey start moving automatically with this option within 100 m radius.",
+  "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Samodzielna podróż Electro Seelie do domu w promieniu 100m",
 
   "AUTO_TALK_TITLE": "Auto Talk",
   "AUTO_TALK_DESCRIPTION": "Automatycznie przechodzi przez dialogi.\nNie jest zalecane uzywanie wartosci powyzej 5.0, poniewaz moze zepsuc niektore mechaniki gry.",
