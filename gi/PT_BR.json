@@ -652,6 +652,19 @@
   "AUTO_DESTROY_SPECIAL_CHESTS_TITLE": "Baús Especiais",
   "AUTO_DESTROY_SPECIAL_CHESTS_DESCRIPTION": "Destrói Baú Enraizado, Congelado, ou em Pedras.",
 
+  "AUTO_CHALLENGE_TITLE": "Auto Challenge",
+  "AUTO_CHALLENGE_DESCRIPTION": "Automatically collects time challenge particles.",
+  "AUTO_CHALLENGE_BOMB_TITLE": "Destroy Bomb",
+  "AUTO_CHALLENGE_BOMB_DESCRIPTION": "Automatic destroy Exploding Barrel.",
+  "AUTO_CHALLENGE_RANGE_DESCRIPTION": "Collect range.",
+  "AUTO_CHALLENGE_DELAY_TITLE": "Delay (ms)",
+  "AUTO_CHALLENGE_DELAY_DESCRIPTION": "Collect delay.",
+
+  "AUTO_FISH_TITLE": "Auto Fish",
+  "AUTO_FISH_DESCRIPTION": "Automatically catch fish.",
+  "AUTO_FISH_CATCH_DELAY_TITLE": "Catch Delay (ms)",
+  "AUTO_FISH_CATCH_DELAY_DESCRIPTION": "Fish will be caught after this delay (in ms).",
+
   "AUTO_LOOT_TITLE": "Coleta Automática",
   "AUTO_LOOT_ITEMS_TITLE": "Coletar Automaticamente",
   "AUTO_LOOT_ITEMS_DESCRIPTION": "Coleta automaticamente os itens que caírem.\nOBS: Usar isso com Alcance customizado e Atrasos em valores baixos é extremamente arriscado.\nAbuso definitivamente resultará em banimento\n\nSe estiver usando com Alcance customizado, certifique-se de que isso seja ativado PRIMEIRO.",

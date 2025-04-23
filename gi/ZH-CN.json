@@ -652,6 +652,19 @@
   "AUTO_DESTROY_SPECIAL_CHESTS_TITLE": "特殊宝箱",
   "AUTO_DESTROY_SPECIAL_CHESTS_DESCRIPTION": "摧毁宝箱上的荆棘、冰块、石头",
 
+  "AUTO_CHALLENGE_TITLE": "Auto Challenge",
+  "AUTO_CHALLENGE_DESCRIPTION": "Automatically collects time challenge particles.",
+  "AUTO_CHALLENGE_BOMB_TITLE": "Destroy Bomb",
+  "AUTO_CHALLENGE_BOMB_DESCRIPTION": "Automatic destroy Exploding Barrel.",
+  "AUTO_CHALLENGE_RANGE_DESCRIPTION": "Collect range.",
+  "AUTO_CHALLENGE_DELAY_TITLE": "Delay (ms)",
+  "AUTO_CHALLENGE_DELAY_DESCRIPTION": "Collect delay.",
+
+  "AUTO_FISH_TITLE": "Auto Fish",
+  "AUTO_FISH_DESCRIPTION": "Automatically catch fish.",
+  "AUTO_FISH_CATCH_DELAY_TITLE": "Catch Delay (ms)",
+  "AUTO_FISH_CATCH_DELAY_DESCRIPTION": "Fish will be caught after this delay (in ms).",
+
   "AUTO_LOOT_TITLE": "自动拾取",
   "AUTO_LOOT_ITEMS_TITLE": "自动拾取",
   "AUTO_LOOT_ITEMS_DESCRIPTION": "自动拾取掉落的物品.\n注意:此功能用于范围拾取和低延迟的拾取是高风险的,\n滥用会导致封号.\n\n如果要使用范围拾取,请确保先打开该选项.",

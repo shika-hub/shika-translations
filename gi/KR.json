@@ -652,6 +652,19 @@
   "AUTO_DESTROY_SPECIAL_CHESTS_TITLE": "특수 보물상자",
   "AUTO_DESTROY_SPECIAL_CHESTS_DESCRIPTION": "가시 덩굴, 얼음, 바위에 갇힌 보물상자를 파괴합니다.",
 
+  "AUTO_CHALLENGE_TITLE": "Auto Challenge",
+  "AUTO_CHALLENGE_DESCRIPTION": "Automatically collects time challenge particles.",
+  "AUTO_CHALLENGE_BOMB_TITLE": "Destroy Bomb",
+  "AUTO_CHALLENGE_BOMB_DESCRIPTION": "Automatic destroy Exploding Barrel.",
+  "AUTO_CHALLENGE_RANGE_DESCRIPTION": "Collect range.",
+  "AUTO_CHALLENGE_DELAY_TITLE": "Delay (ms)",
+  "AUTO_CHALLENGE_DELAY_DESCRIPTION": "Collect delay.",
+
+  "AUTO_FISH_TITLE": "Auto Fish",
+  "AUTO_FISH_DESCRIPTION": "Automatically catch fish.",
+  "AUTO_FISH_CATCH_DELAY_TITLE": "Catch Delay (ms)",
+  "AUTO_FISH_CATCH_DELAY_DESCRIPTION": "Fish will be caught after this delay (in ms).",
+
   "AUTO_LOOT_TITLE": "자동 수집",
   "AUTO_LOOT_ITEMS_TITLE": "자동 수집",
   "AUTO_LOOT_ITEMS_DESCRIPTION": "떨어진 아이템을 자동으로 줍습니다.\n참고: 사용자 지정 범위와 낮은 딜레이 시간으로 사용하는 것은 매우 위험합니다.\n남용하면 밴을 당할 수 있습니다.\n\n사용자 지정 범위와 함께 사용할 경우 이 옵션을 먼저 켜야 합니다.",

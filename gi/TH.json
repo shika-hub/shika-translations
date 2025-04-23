@@ -652,6 +652,19 @@
   "AUTO_DESTROY_SPECIAL_CHESTS_TITLE": "หีบสมบัติพิเศษ",
   "AUTO_DESTROY_SPECIAL_CHESTS_DESCRIPTION": "ทำลายหีบสมบัติที่มีคุณสมบัติพิเศษ เช่น หีบสมบัติที่ต้องใช้สกิลพิเศษเพื่อเปิด",
 
+  "AUTO_CHALLENGE_TITLE": "Auto Challenge",
+  "AUTO_CHALLENGE_DESCRIPTION": "Automatically collects time challenge particles.",
+  "AUTO_CHALLENGE_BOMB_TITLE": "Destroy Bomb",
+  "AUTO_CHALLENGE_BOMB_DESCRIPTION": "Automatic destroy Exploding Barrel.",
+  "AUTO_CHALLENGE_RANGE_DESCRIPTION": "Collect range.",
+  "AUTO_CHALLENGE_DELAY_TITLE": "Delay (ms)",
+  "AUTO_CHALLENGE_DELAY_DESCRIPTION": "Collect delay.",
+
+  "AUTO_FISH_TITLE": "Auto Fish",
+  "AUTO_FISH_DESCRIPTION": "Automatically catch fish.",
+  "AUTO_FISH_CATCH_DELAY_TITLE": "Catch Delay (ms)",
+  "AUTO_FISH_CATCH_DELAY_DESCRIPTION": "Fish will be caught after this delay (in ms).",
+
   "AUTO_LOOT_TITLE": "เก็บอัตโนมัติ",
   "AUTO_LOOT_ITEMS_TITLE": "เก็บของอัตโนมัติ",
   "AUTO_LOOT_ITEMS_DESCRIPTION": "เก็บไอเทมที่ตกลงมาโดยอัตโนมัติ หมายเหตุ: การใช้ฟังก์ชันนี้ร่วมกับระยะทางที่กำหนดเองและเวลาหน่วงต่ำมีความเสี่ยงสูง การใช้งานที่ไม่เหมาะสมอาจทำให้ถูกแบนได้ หากใช้ร่วมกับระยะทางที่กำหนดเอง โปรดเปิดใช้งานฟังก์ชันนี้ก่อน",

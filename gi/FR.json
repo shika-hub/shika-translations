@@ -652,6 +652,19 @@
   "AUTO_DESTROY_SPECIAL_CHESTS_TITLE": "Coffres spéciaux",
   "AUTO_DESTROY_SPECIAL_CHESTS_DESCRIPTION": "Destruction des coffres avec Ronces, Gelés, ou dans des pierres.",
 
+  "AUTO_CHALLENGE_TITLE": "Auto Challenge",
+  "AUTO_CHALLENGE_DESCRIPTION": "Automatically collects time challenge particles.",
+  "AUTO_CHALLENGE_BOMB_TITLE": "Destroy Bomb",
+  "AUTO_CHALLENGE_BOMB_DESCRIPTION": "Automatic destroy Exploding Barrel.",
+  "AUTO_CHALLENGE_RANGE_DESCRIPTION": "Collect range.",
+  "AUTO_CHALLENGE_DELAY_TITLE": "Delay (ms)",
+  "AUTO_CHALLENGE_DELAY_DESCRIPTION": "Collect delay.",
+
+  "AUTO_FISH_TITLE": "Auto Fish",
+  "AUTO_FISH_DESCRIPTION": "Automatically catch fish.",
+  "AUTO_FISH_CATCH_DELAY_TITLE": "Catch Delay (ms)",
+  "AUTO_FISH_CATCH_DELAY_DESCRIPTION": "Fish will be caught after this delay (in ms).",
+
   "AUTO_LOOT_TITLE": "Loot automatique",
   "AUTO_LOOT_ITEMS_TITLE": "Ramassage automatique",
   "AUTO_LOOT_ITEMS_DESCRIPTION": "Ramasse automatiquement les objets tombés.\nNote : L'utilisation de cette fonction avec une portée personnalisée et de faibles délais est extrêmement risquée.\nLes abus entraîneront certainement un ban.\n\nSi vous l'utilisez avec une portée personnalisée, assurez-vous que cela soit activé en PREMIER.",

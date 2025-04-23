@@ -652,6 +652,19 @@
   "AUTO_DESTROY_SPECIAL_CHESTS_TITLE": "Forzieri speciali",
   "AUTO_DESTROY_SPECIAL_CHESTS_DESCRIPTION": "Distruggere i forzieri con rovi, ghiacciati o nelle rocce.",
 
+  "AUTO_CHALLENGE_TITLE": "Auto Challenge",
+  "AUTO_CHALLENGE_DESCRIPTION": "Automatically collects time challenge particles.",
+  "AUTO_CHALLENGE_BOMB_TITLE": "Destroy Bomb",
+  "AUTO_CHALLENGE_BOMB_DESCRIPTION": "Automatic destroy Exploding Barrel.",
+  "AUTO_CHALLENGE_RANGE_DESCRIPTION": "Collect range.",
+  "AUTO_CHALLENGE_DELAY_TITLE": "Delay (ms)",
+  "AUTO_CHALLENGE_DELAY_DESCRIPTION": "Collect delay.",
+
+  "AUTO_FISH_TITLE": "Auto Fish",
+  "AUTO_FISH_DESCRIPTION": "Automatically catch fish.",
+  "AUTO_FISH_CATCH_DELAY_TITLE": "Catch Delay (ms)",
+  "AUTO_FISH_CATCH_DELAY_DESCRIPTION": "Fish will be caught after this delay (in ms).",
+
   "AUTO_LOOT_TITLE": "Bottino automatico",
   "AUTO_LOOT_ITEMS_TITLE": "Raccolta automatica",
   "AUTO_LOOT_ITEMS_DESCRIPTION": "Raccoglie automaticamente gli oggetti caduti.\nNota: l'utilizzo di questa funzione con un intervallo personalizzato e tempi di ritardo bassi è estremamente rischioso.\nL'abuso meriterà sicuramente un ban.\n\nSe si utilizza una gamma personalizzata, assicurarsi che questa sia attivata PRIMA.",
