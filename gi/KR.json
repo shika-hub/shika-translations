@@ -28,6 +28,8 @@
   "ESP_OUTLINE_WIDTH_DESCRIPTION": "박스 외곽선의 두께",
   "ESP_TRACER_WIDTH_TITLE": "선 두께 조절",
   "ESP_TRACER_WIDTH_DESCRIPTION": "선 두께 조절",
+  "ESP_COLORS_TITLE": "General color",
+  "ESP_COLORS_DESCRIPTION": "Allows you to enable a general color for Box and Tracer.",
   "ESP_BOX_COLOR_TITLE": "박스 색상",
   "ESP_TRACER_COLOR_TITLE": "선 색상",
   "ESP_TEXT_COLOR_TITLE": "텍스트 색상",

@@ -28,6 +28,8 @@
   "ESP_OUTLINE_WIDTH_DESCRIPTION": "方框輪廓的厚度.",
   "ESP_TRACER_WIDTH_TITLE": "跟蹤線寬度",
   "ESP_TRACER_WIDTH_DESCRIPTION": "跟蹤線厚度.",
+  "ESP_COLORS_TITLE": "General color",
+  "ESP_COLORS_DESCRIPTION": "Allows you to enable a general color for Box and Tracer.",
   "ESP_BOX_COLOR_TITLE": "方框顏色",
   "ESP_TRACER_COLOR_TITLE": "跟蹤器顏色",
   "ESP_TEXT_COLOR_TITLE": "文本顏色",

@@ -28,6 +28,8 @@
   "ESP_OUTLINE_WIDTH_DESCRIPTION": "ความหนาของเส้นขอบของกล่อง",
   "ESP_TRACER_WIDTH_TITLE": "ความหนาของเส้นร่องรอย",
   "ESP_TRACER_WIDTH_DESCRIPTION": "ความหนาของเส้นร่องรอย",
+  "ESP_COLORS_TITLE": "General color",
+  "ESP_COLORS_DESCRIPTION": "Allows you to enable a general color for Box and Tracer.",
   "ESP_BOX_COLOR_TITLE": "สีของกล่อง",
   "ESP_TRACER_COLOR_TITLE": "สีของเส้นร่องรอย",
   "ESP_TEXT_COLOR_TITLE": "สีของข้อความ",

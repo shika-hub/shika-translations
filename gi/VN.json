@@ -28,6 +28,8 @@
   "ESP_OUTLINE_WIDTH_DESCRIPTION": "Độ dày hộp viền ngoài.",
   "ESP_TRACER_WIDTH_TITLE": "Độ rộng tia",
   "ESP_TRACER_WIDTH_DESCRIPTION": "Độ dày tia.",
+  "ESP_COLORS_TITLE": "General color",
+  "ESP_COLORS_DESCRIPTION": "Allows you to enable a general color for Box and Tracer.",
   "ESP_BOX_COLOR_TITLE": "Màu hộp",
   "ESP_TRACER_COLOR_TITLE": "Màu tia",
   "ESP_TEXT_COLOR_TITLE": "Màu chữ",

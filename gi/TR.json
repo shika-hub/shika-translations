@@ -28,6 +28,8 @@
   "ESP_OUTLINE_WIDTH_DESCRIPTION": "Kutunun dış hat kalınlığı.",
   "ESP_TRACER_WIDTH_TITLE": "Çizgi Kalınlığı",
   "ESP_TRACER_WIDTH_DESCRIPTION": "Çizginin kalınlığını belirler.",
+  "ESP_COLORS_TITLE": "General color",
+  "ESP_COLORS_DESCRIPTION": "Allows you to enable a general color for Box and Tracer.",
   "ESP_BOX_COLOR_TITLE": "Kutu Rengi",
   "ESP_TRACER_COLOR_TITLE": "Çizgi Rengi",
   "ESP_TEXT_COLOR_TITLE": "Yazı Rengi",

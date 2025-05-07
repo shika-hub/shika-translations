@@ -28,6 +28,8 @@
   "ESP_OUTLINE_WIDTH_DESCRIPTION": "Grosor del contorno de la caja.",
   "ESP_TRACER_WIDTH_TITLE": "Grosor del tracer",
   "ESP_TRACER_WIDTH_DESCRIPTION": "Grosor del tracer.",
+  "ESP_COLORS_TITLE": "General color",
+  "ESP_COLORS_DESCRIPTION": "Allows you to enable a general color for Box and Tracer.",
   "ESP_BOX_COLOR_TITLE": "Color de la caja",
   "ESP_TRACER_COLOR_TITLE": "Color del tracer",
   "ESP_TEXT_COLOR_TITLE": "Color del texto",

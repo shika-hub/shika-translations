@@ -28,6 +28,8 @@
   "ESP_OUTLINE_WIDTH_DESCRIPTION": "Thickness of the box outline.",
   "ESP_TRACER_WIDTH_TITLE": "Tracer Width",
   "ESP_TRACER_WIDTH_DESCRIPTION": "Thickness of the tracer.",
+  "ESP_COLORS_TITLE": "General color",
+  "ESP_COLORS_DESCRIPTION": "Allows you to enable a general color for Box and Tracer.",
   "ESP_BOX_COLOR_TITLE": "Box Color",
   "ESP_TRACER_COLOR_TITLE": "Tracer Color",
   "ESP_TEXT_COLOR_TITLE": "Text Color",
