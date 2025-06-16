@@ -347,11 +347,6 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Infinite Mavuika Stamina",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Makes mavuika stamina infinite.",
 
-  "MULTI_HIT_TITLE": "Multi Hit",
-  "MULTI_HIT_DESCRIPTION": "Permite hacer que un golpe del jugador haga mas daño.",
-  "MULTI_HIT_AMOUNT_TITLE": "Cantidad Hits",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "Cantidad de golpes que hara el jugador.",
-
   "NO_CLIP_TITLE": "No Clip",
   "NO_CLIP_DESCRIPTION": "Elimina la colision del jugador y le permite volar por cualquier lugar.\nPara moverte, usa WASD, Espacio (Para subir), y Shift (Para bajar).",
   "NO_CLIP_ANIMATION_TITLE": "Prevenir animaciones",
@@ -396,22 +391,14 @@
   "COOLDOWN_VEHICLE_TITLE": "Habilidad de vehiculo sin tiempo de espera",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Elimina el tiempo de espera de las habilidades de vehiculo.",
 
-  "PLAYER_SPEED_TITLE": "Velocidad del jugador",
-  "PLAYER_SPEED_DESCRIPTION": "Te permite modificar la velocidad del jugador.",
-  "PLAYER_SPEED_VALUE_TITLE": "Valor de velocidad",
-
   "MODULE_SETTINGS": "Opciones",
 
   "SETTINGS_LANGUAGE": "Idioma",
   "LANGUAGE_CURRENT": "Selecciona Idioma",
   "SETTINGS_GENERAL": "General",
   "MENU_HOTKEY_TITLE": "Alternar Menu",
-  "INJECT_AFTER_LOGIN_TITLE": "Inyectar despues de iniciar sesion",
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "La inyección solo se ejecutará después del primer inicio de sesión en el mundo del juego.\n(Los cambios surtirán efecto después de un reinicio.)",
   "HOTKEYS_TITLE": "Teclas rapidas",
   "HOTKEYS_DESCRIPTION": "Activa las Teclas rapidas.",
-  "BYPASS_TITLE": "Bypass",
-  "BYPASS_DESCRIPTION": "Habilita el bypass al iniciar el juego..\n(Los cambios se aplicarán después de un reinicio).",
   "SHOW_STATUS_WINDOW_TITLE": "Mostrar Ventana de Estado",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "Muestra una ventana con las funciones habilitadas.",
   "MOVE_STATUS_TITLE": "Ventana de Estado Movible",
@@ -619,17 +606,6 @@
   "PROFILE_FRIENDSHIP_DESCRIPTION": "Cambia el nivel de amistad de los personajes al maximo.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "Cantidad de Personajes con el máximo valor de nivel de amistad",
 
-  "INDICATORS_TITLE": "Mostrar indicadores",
-  "INDICATORS_DESCRIPTION": "Muestra indicadores de cofres y/o puntos de viaje utilizando la mecánica del juego.",
-  "INDICATORS_CHESTS_TITLE": "Mostrar indicadores de cofres",
-  "INDICATORS_CHESTS_DESCRIPTION": "Muestra los indicadores de cofres.",
-  "INDICATORS_CHESTS_STATUS": "Cofres",
-  "INDICATORS_WAYPOINTS_TITLE": "Muestra indicadores de puntos de viaje rapido",
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "Muestra los indicadores de puntos de viaje rapido.",
-  "INDICATORS_WAYPOINTS_STATUS": "Puntos de viaje rapido",
-  "INDICATORS_ALL_STATUS": "Todos",
-  "INDICATORS_NONE_STATUS": "Ninguno",
-
   "FPS_UNLOCK_TITLE": "Desbloquear FPS",
   "FPS_UNLOCK_DESCRIPTION": "Permite que el juego se ejecute a una tasa de fotogramas superior a 60 FPS.",
   "FPS_VALUE_TITLE": "Valor de FPS",
@@ -710,14 +686,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Dado que no necesitas iniciar manualmente el electro seelie.,\nComienzan a moverse automáticamente con esta opción dentro de un radio de 100 metros.",
 
   "AUTO_TALK_TITLE": "Conversación automática",
-  "AUTO_TALK_DESCRIPTION": "Avanza automáticamente por los diálogos.\nNota: Usar valores mayores a 5.0 no es recomendable, ya que pueden romper algunas mecánicas del juego.",
-  "AUTO_TALK_AUTO_CLICK_TITLE": "Click automático",
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "Continúa automáticamente el diálogo.",
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "Velocidad del diálogo",
+  "AUTO_TALK_DESCRIPTION": "Avanza automáticamente por los diálogos.\nMay break some game mechanics.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "Selección automática de diálogo",
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Selecciona automáticamente las opciones de diálogo.",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Excluir Katheryne/Tubby/Wagner",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "La selección automática ignora a Katheryne/Tubby/Wagner.",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "Enemigos idiotas",
   "DUMB_ENEMIES_DESCRIPTION": "Los enemigos no atacarán ni usarán sus habilidades contra el jugador.\nPuede que no funcione con algunos enemigos o habilidades de enemigos.",
@@ -744,12 +719,6 @@
 
   "FREEZE_ENEMIES_TITLE": "Congelar Enemigos",
   "FREEZE_ENEMIES_DESCRIPTION": "Congela a los enemigos, impidiendo que se muevan.",
-
-  "GAME_SPEED_TITLE": "Velocidad del Juego",
-  "GAME_SPEED_DESCRIPTION": "Permite cambiar la velocidad del juego.",
-  "MULTIPLIER_TITLE": "Multiplicador",
-  "MULTIPLIER_DESCRIPTION": "Modifica el multiplicador de la velocidad del juego.",
-  "PRESETS_TITLE": "Ajustes predeterminados",
 
   "KILL_AURA_TITLE": "Kill Aura",
   "KILL_AURA_DESCRIPTION": "Elimina a los enemigos cercanos.",

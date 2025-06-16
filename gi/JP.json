@@ -347,11 +347,6 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Infinite Mavuika Stamina",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Makes mavuika stamina infinite.",
 
-  "MULTI_HIT_TITLE": "マルチヒット",
-  "MULTI_HIT_DESCRIPTION": "マルチヒットモードを有効にします",
-  "MULTI_HIT_AMOUNT_TITLE": "倍率",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "（プログレスバーの数値を変更すれば倍率を変更できます）",
-
   "NO_CLIP_TITLE": "ノークリップ",
   "NO_CLIP_DESCRIPTION": "ノークリップを有効にする（高速移動＋当たり判定無効）移動にはWASD、スペース（上昇）、シフト（下降）を使用します",
   "NO_CLIP_ANIMATION_TITLE": "アニメーションなし",
@@ -396,22 +391,14 @@
   "COOLDOWN_VEHICLE_TITLE": "乗り物スキルクールタイム無効",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "乗り物スキルのクールタイムを無効にする",
 
-  "PLAYER_SPEED_TITLE": "ゲーム速度",
-  "PLAYER_SPEED_DESCRIPTION": "ゲーム速度の変更を有効にする",
-  "PLAYER_SPEED_VALUE_TITLE": "速度",
-
   "MODULE_SETTINGS": "設定",
 
   "SETTINGS_LANGUAGE": "言語設定",
   "LANGUAGE_CURRENT": "言語を選択してください",
   "SETTINGS_GENERAL": "一般",
   "MENU_HOTKEY_TITLE": "メニューを表示",
-  "INJECT_AFTER_LOGIN_TITLE": "Inject After Login",
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "The injection will only be executed after the first login to the game world.\n(Changes will take effect after a relaunch.)",
   "HOTKEYS_TITLE": "Hotkeys",
   "HOTKEYS_DESCRIPTION": "Enables the use of hotkeys.",
-  "BYPASS_TITLE": "Bypass",
-  "BYPASS_DESCRIPTION": "Enables bypass loading when the game starts.\n(Changes will take effect after a relaunch.)",
   "SHOW_STATUS_WINDOW_TITLE": "ステータスウィンドウを表示",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "有効にした機能の状態をウィドウに表示する",
   "MOVE_STATUS_TITLE": "ステータスウィンドウを動かす",
@@ -619,17 +606,6 @@
   "PROFILE_FRIENDSHIP_DESCRIPTION": "Changes the Characters at maximum Friendship Level visually.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "Characters at maximum Friendship Level Value",
 
-  "INDICATORS_TITLE": "インジケーターを表示",
-  "INDICATORS_DESCRIPTION": "宝箱やワープポイントを表示する",
-  "INDICATORS_CHESTS_TITLE": "宝箱を表示",
-  "INDICATORS_CHESTS_DESCRIPTION": "ゲーム内システムで宝箱を表示する",
-  "INDICATORS_CHESTS_STATUS": "宝箱",
-  "INDICATORS_WAYPOINTS_TITLE": "ワープポイントを表示",
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "ゲーム内システムでワープポイントを表示する",
-  "INDICATORS_WAYPOINTS_STATUS": "ワープポイント",
-  "INDICATORS_ALL_STATUS": "すべて",
-  "INDICATORS_NONE_STATUS": "なし",
-
   "SKIN_MODIFIER_TITLE": "スキン変更",
   "SKIN_MODIFIER_DESCRIPTION": "スキン変更",
   "SKINS_TITLE": "スキン",
@@ -715,14 +691,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electro seelie,\nthey start moving automatically with this option within 100 m radius.",
 
   "AUTO_TALK_TITLE": "自動会話",
-  "AUTO_TALK_DESCRIPTION": "自動で会話を進行する",
-  "AUTO_TALK_AUTO_CLICK_TITLE": "Auto Click",
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "Automatically continue the dialog.",
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "ダイアログ速度",
+  "AUTO_TALK_DESCRIPTION": "Automatically goes through the dialogues.\nMay break some game mechanics.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "Auto Select Dialog",
-  "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Automatically select dialog choices.",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Exclude Katheryne/Tubby/Wagner",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "Exclude Kath/Tubby/Wagner from auto select.",
+  "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Automatically selects dialog choices.",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "敵の攻撃停止",
   "DUMB_ENEMIES_DESCRIPTION": "敵はプレイヤーに対して攻撃をしたり、能力を使わなくなります\n一部の敵や能力には動作しない場合があります",
@@ -749,12 +724,6 @@
 
   "FREEZE_ENEMIES_TITLE": "敵の行動停止",
   "FREEZE_ENEMIES_DESCRIPTION": "敵は一切動かなくなります",
-
-  "GAME_SPEED_TITLE": "ゲーム内速度",
-  "GAME_SPEED_DESCRIPTION": "ゲーム内速度を上昇させる",
-  "MULTIPLIER_TITLE": "倍率",
-  "MULTIPLIER_DESCRIPTION": "ゲーム速度の倍率を設定する",
-  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "キルオーラ",
   "KILL_AURA_DESCRIPTION": "キルオーラを有効にする",

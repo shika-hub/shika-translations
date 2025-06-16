@@ -347,11 +347,6 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Infinite Mavuika Stamina",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Makes mavuika stamina infinite.",
 
-  "MULTI_HIT_TITLE": "Multi Hit",
-  "MULTI_HIT_DESCRIPTION": "Melipatgandakan serangan pemain sebanyak jumlah yang ditetapkan.",
-  "MULTI_HIT_AMOUNT_TITLE": "Banyaknya Serangan",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "Pengganda jumlah serangan pemain.",
-
   "NO_CLIP_TITLE": "No Clip alias Terbang",
   "NO_CLIP_DESCRIPTION": "Menonaktifkan tabrakan pemain, dan memungkinkan terbang ke segala arah dengan cepat.\nUntuk bergerak, gunakan WASD, Spasi (Naik), dan Shift (Turun).",
   "NO_CLIP_ANIMATION_TITLE": "Hindari Animasi",
@@ -396,22 +391,14 @@
   "COOLDOWN_VEHICLE_TITLE": "No Vehicle Skill Cooldown",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Menghilangkan cooldown skill kendaraan.",
 
-  "PLAYER_SPEED_TITLE": "Laju Pemain",
-  "PLAYER_SPEED_DESCRIPTION": "Memungkinkan untuk menyesuaikan kecepatan gerakan pemain.",
-  "PLAYER_SPEED_VALUE_TITLE": "Nilai Laju",
-
   "MODULE_SETTINGS": "Pengaturan",
 
   "SETTINGS_LANGUAGE": "Bahasa",
   "LANGUAGE_CURRENT": "Bahasa yang Dipilih",
   "SETTINGS_GENERAL": "Umum",
   "MENU_HOTKEY_TITLE": "Tombol Pintas Menu",
-  "INJECT_AFTER_LOGIN_TITLE": "Injeksi Setelah Login",
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "Injeksi hanya akan dieksekusi setelah login pertama ke dunia game.\n(Perubahan akan diterapkan setelah memulai ulang game.)",
   "HOTKEYS_TITLE": "Hotkeys",
   "HOTKEYS_DESCRIPTION": "Enables the use of hotkeys.",
-  "BYPASS_TITLE": "Bypass",
-  "BYPASS_DESCRIPTION": "Enables bypass loading when the game starts.\n(Changes will take effect after a relaunch.)",
   "SHOW_STATUS_WINDOW_TITLE": "Tampilkan Jendela Status",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "Memperlihatkan jendela berisi status fungsi-fungsi yang aktif.",
   "MOVE_STATUS_TITLE": "Jendela Status Dapat Dipindahkan",
@@ -619,17 +606,6 @@
   "PROFILE_FRIENDSHIP_DESCRIPTION": "Mengubah Karakter dengan Level Persahabatan Maksimum secara visual.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "Ubah Karakter dengan Level Persahabatan Maksimum",
 
-  "INDICATORS_TITLE": "Perlihatkan Indikator",
-  "INDICATORS_DESCRIPTION": "Menampilkan indikator Chests dan/atau titik waypoint menggunakan mekanisme permainan.",
-  "INDICATORS_CHESTS_TITLE": "Perlihatkan Indikator Chests",
-  "INDICATORS_CHESTS_DESCRIPTION": "Menampilkan indikator Chests.",
-  "INDICATORS_CHESTS_STATUS": "Chests",
-  "INDICATORS_WAYPOINTS_TITLE": "Perlihatkan Indikator Waypoints",
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "Menampilkan indikator waypoints.",
-  "INDICATORS_WAYPOINTS_STATUS": "Waypoints",
-  "INDICATORS_ALL_STATUS": "Semuanya",
-  "INDICATORS_NONE_STATUS": "Tidak ada",
-
   "FPS_UNLOCK_TITLE": "Lepaskan Batasan FPS",
   "FPS_UNLOCK_DESCRIPTION": "Memungkinkan game berjalan pada FPS lebih dari 60 FPS (jika perangkat sanggup XD).",
   "FPS_VALUE_TITLE": "Isi Nilai FPS",
@@ -710,14 +686,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electro seelie,\nthey start moving automatically with this option within 100 m radius.",
 
   "AUTO_TALK_TITLE": "Auto Talk",
-  "AUTO_TALK_DESCRIPTION": "Secara otomatis melewati dialog.\nCatatan: Menggunakan nilai lebih besar dari 5.0 tidak disarankan, karena dapat merusak beberapa mekanisme permainan.",
-  "AUTO_TALK_AUTO_CLICK_TITLE": "Auto Click",
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "Secara otomatis melanjutkan dialog.",
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "Kecepatan Dialog",
+  "AUTO_TALK_DESCRIPTION": "Secara otomatis melewati dialog.\nMay break some game mechanics.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "Auto Select Dialog",
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Secara otomatis memilih pilihan dialog.",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Kecualikan Katheryne/Tubby/Wagner",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "Pemilihan otomatis mengabaikan Katheryne/Tubby/Wagner.",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "Musuh Pasif",
   "DUMB_ENEMIES_DESCRIPTION": "Musuh tidak akan menyerang atau menggunakan kemampuan mereka terhadap pemain. Mungkin tidak berfungsi dengan beberapa musuh atau kemampuan musuh tertentu.",
@@ -744,12 +719,6 @@
 
   "FREEZE_ENEMIES_TITLE": "Bekukan Musuh",
   "FREEZE_ENEMIES_DESCRIPTION": "Menghentikan kecepatan animasi semua musuh.",
-
-  "GAME_SPEED_TITLE": "Game Speed",
-  "GAME_SPEED_DESCRIPTION": "Memungkinkan untuk menyesuaikan kecepatan game.",
-  "MULTIPLIER_TITLE": "Multiplier",
-  "MULTIPLIER_DESCRIPTION": "Mengatur pengganda kecepatan game.",
-  "PRESETS_TITLE": "Pengaturan Awal",
 
   "KILL_AURA_TITLE": "Kill Aura Sigma",
   "KILL_AURA_DESCRIPTION": "Membunuh semua musuh dalam radius yang ditentukan.",

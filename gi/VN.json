@@ -348,11 +348,6 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Vô Hạn thể lực Mavuika",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Làm cho mô tô vượt lửa của mavuika có thể lực vô hạn.",
 
-  "MULTI_HIT_TITLE": "Liên Kích",
-  "MULTI_HIT_DESCRIPTION": "Nhân số lượng đòn đánh theo giá trị cung cấp.",
-  "MULTI_HIT_AMOUNT_TITLE": "Số lượng đòn đánh",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "Nhân số lượng đòn đánh.",
-
   "NO_CLIP_TITLE": "Di Chuyển Xuyên Vật Thể",
   "NO_CLIP_DESCRIPTION": "Giúp bạn đi xuyên vật thể và bay theo mọi hướng.\nĐể di chuyển, dùng WASD, phím cách (Đi lên), và phím Shift (Đi xuống) (Đây là mặc định).",
   "NO_CLIP_ANIMATION_TITLE": "Xoá hoạt ảnh",
@@ -395,11 +390,7 @@
   "COOLDOWN_SPRINT_TITLE": "Không Hồi Chiêu Khi Lướt",
   "COOLDOWN_SPRINT_DESCRIPTION": "Loại bỏ độ trễ giữa các lần lướt.",
   "COOLDOWN_VEHICLE_TITLE": "Không Hồi Chiêu Kỹ Năng Phương Tiện",
-  "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Loại bỏ thời gian hồi chiêu của kỹ năng phương tiện.",  
-
-  "PLAYER_SPEED_TITLE": "Tốc Độ Nhân Vật",
-  "PLAYER_SPEED_DESCRIPTION": "Cho phép tùy chỉnh tốc độ di chuyển của nhân vật.",
-  "PLAYER_SPEED_VALUE_TITLE": "Giá Trị Tốc Độ",
+  "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Loại bỏ thời gian hồi chiêu của kỹ năng phương tiện.",
   
   "MODULE_SETTINGS": "Cài Đặt",
   
@@ -407,12 +398,8 @@
   "LANGUAGE_CURRENT": "Ngôn Ngữ Đã Chọn",
   "SETTINGS_GENERAL": "Chung",
   "MENU_HOTKEY_TITLE": "Phím Tắt Menu",
-  "INJECT_AFTER_LOGIN_TITLE": "Cài Cheat Sau Khi Đăng Nhập",
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "Việc cài cheat chỉ được thực hiện sau lần đăng nhập đầu tiên vào thế giới game.\n(Các thay đổi sẽ có hiệu lực sau khi khởi động lại.)",
   "HOTKEYS_TITLE": "Phím nóng",
   "HOTKEYS_DESCRIPTION": "Bật tính năng sử dụng phím nóng.",
-  "BYPASS_TITLE": "Vượt rào cản",
-  "BYPASS_DESCRIPTION": "Cho phép vượt rào cản khi game khởi động.\n(Sẽ có hiệu lực sau khi khởi động lại.)",
   "SHOW_STATUS_WINDOW_TITLE": "Hiển Thị Cửa Sổ Trạng Thái",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "Hiển thị cửa sổ với trạng thái của các chức năng đã bật.",
   "MOVE_STATUS_TITLE": "Di Chuyển Cửa Sổ Trạng Thái",
@@ -619,27 +606,16 @@
   "PROFILE_FRIENDSHIP_TITLE": "Nhân vật đạt cấp độ Yêu Thích tối đa",
   "PROFILE_FRIENDSHIP_DESCRIPTION": "Thay đổi hiển thị của Nhân vật đạt cấp độ Yêu Thích tối đa.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "Giá trị Nhân vật đạt cấp độ Yêu Thích tối đa",
-  
-  "INDICATORS_TITLE": "Hiển Thị Chỉ Báo",
-  "INDICATORS_DESCRIPTION": "Hiển thị chỉ báo rương hoặc điểm dịch chuyển bằng cơ chế game.",
-  "INDICATORS_CHESTS_TITLE": "Hiển Thị Chỉ Báo Rương",
-  "INDICATORS_CHESTS_DESCRIPTION": "Hiển thị chỉ báo rương.",
-  "INDICATORS_CHESTS_STATUS": "Rương",
-  "INDICATORS_WAYPOINTS_TITLE": "Hiển Thị Chỉ Báo Điểm Dịch Chuyển",
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "Hiển thị chỉ báo điểm dịch chuyển.",
-  "INDICATORS_WAYPOINTS_STATUS": "Điểm Dịch Chuyển",
-  "INDICATORS_ALL_STATUS": "Tất Cả",
-  "INDICATORS_NONE_STATUS": "Không",
-  
+
   "FPS_UNLOCK_TITLE": "Mở Khóa FPS",
   "FPS_UNLOCK_DESCRIPTION": "Cho phép game chạy ở tốc độ khung hình lớn hơn 60 FPS.",
   "FPS_VALUE_TITLE": "Giá Trị FPS",
   "FPS_LOCK_TITLE": "Giới Hạn FPS",
   "FPS_LOCK_DESCRIPTION": "Giới hạn tốc độ khung hình khi game chạy nền.\nKhông hoạt động nếu menu cheat đang mở hoặc khi đang ở màn hình tải.",
   "FPS_LIMIT_TITLE": "Giới Hạn FPS",
-  
+
   "MODULE_WORLD": "Thế Giới",
-  
+
   "AUTO_DESTROY_TITLE": "Phá Hủy Tự Động",
   "AUTO_DESTROY_DESCRIPTION": "Phá hủy ngay lập tức các vật thể không sống trong phạm vi.",
   "AUTO_DESTROY_ORES_TITLE": "Quặng",
@@ -711,14 +687,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Bạn không cần phải chạm vào lôi tiên linh,\nTự động di chuyển trong phạm vi 100m (tiên linh).",
 
   "AUTO_TALK_TITLE": "Tự động đối thoại",
-  "AUTO_TALK_DESCRIPTION": "Tự động chuyển qua hội thoại.\nLưu ý: Không khuyến khích sử dụng giá trị lớn hơn 5.0, vì có thể gây lỗi một số cơ chế trò chơi.",
-  "AUTO_TALK_AUTO_CLICK_TITLE": "Tự động nhấp",
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "Tự động tiếp tục hội thoại.",
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "Tốc độ hội thoại",
+  "AUTO_TALK_DESCRIPTION": "Tự động chuyển qua hội thoại.\nMay break some game mechanics.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "Tự động chọn hội thoại",
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Tự động chọn lựa chọn hội thoại.",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Loại trừ Katheryne/Tubby/Wagner",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "Bỏ qua Katheryne, Tubby và Wagner khi tự động chọn hội thoại.",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "Kẻ địch ngu ngốc",
   "DUMB_ENEMIES_DESCRIPTION": "Kẻ địch sẽ không tấn công hoặc sử dụng kỹ năng chống lại người chơi.\nCó thể không hoạt động với một số kẻ địch hoặc kỹ năng của chúng.",
@@ -746,10 +721,6 @@
   "FREEZE_ENEMIES_TITLE": "Đóng băng kẻ địch",
   "FREEZE_ENEMIES_DESCRIPTION": "Đóng băng tốc độ hoạt ảnh của tất cả kẻ địch.",
 
-  "GAME_SPEED_TITLE": "Tốc độ game",
-  "GAME_SPEED_DESCRIPTION": "Cho phép tùy chỉnh tốc độ game.",
-  "MULTIPLIER_TITLE": "Hệ số nhân",
-  "MULTIPLIER_DESCRIPTION": "Đặt hệ số nhân tốc độ game.",
   "KILL_AURA_TITLE": "Kill Aura",
   "KILL_AURA_DESCRIPTION": "Tiêu diệt tất cả kẻ địch trong phạm vi đặt sẵn.",
   "DAMAGE_MODE_TITLE": "Chế độ sát thương Lỗi",

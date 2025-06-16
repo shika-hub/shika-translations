@@ -347,11 +347,6 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Infinite Mavuika Stamina",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Makes mavuika stamina infinite.",
 
-  "MULTI_HIT_TITLE": "การสร้างความเสียหายหลายครั้ง",
-  "MULTI_HIT_DESCRIPTION": "คูณจำนวนการโจมตีของผู้เล่น",
-  "MULTI_HIT_AMOUNT_TITLE": "จำนวนการโจมตี",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "ตัวคูณการโจมตีของผู้เล่น",
-
   "NO_CLIP_TITLE": "โหมดทะลุผ่าน",
   "NO_CLIP_DESCRIPTION": "ปิดการชนของผู้เล่น และสามารถบินไปในทิศทางใดก็ได้อย่างรวดเร็ว การเคลื่อนที่ ใช้ปุ่ม WASD, Space (ขึ้น), และ Shift (ลง)",
   "NO_CLIP_ANIMATION_TITLE": "หยุดการเคลื่อนไหว",
@@ -396,22 +391,14 @@
   "COOLDOWN_VEHICLE_TITLE": "ไม่มีเวลาคูลดาวน์ของสกิลยานพาหนะ",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "ฟีเจอร์นี้ปิดการคูลดาวน์ของสกิลยานพาหนะ",
 
-  "PLAYER_SPEED_TITLE": "ความเร็วของผู้เล่น",
-  "PLAYER_SPEED_DESCRIPTION": "ฟีเจอร์นี้ช่วยให้ผู้ใช้สามารถปรับความเร็วในการเคลื่อนที่ของตัวละครผู้เล่นได้ตามต้องการ",
-  "PLAYER_SPEED_VALUE_TITLE": "ค่าความเร็ว",
-
   "MODULE_SETTINGS": "ตั้งค่า",
 
   "SETTINGS_LANGUAGE": "ภาษา",
   "LANGUAGE_CURRENT": "ภาษาปัจจุบัน",
   "SETTINGS_GENERAL": "ทั่วไป",
   "MENU_HOTKEY_TITLE": "ปุ่มลัดเมนู",
-  "INJECT_AFTER_LOGIN_TITLE": "ฉีดหลังจากเข้าสู่ระบบ",
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "การฉีดจะถูกดำเนินการหลังจากที่เข้าสู่โลกของเกมเป็นครั้งแรกเท่านั้น (การเปลี่ยนแปลงจะมีผลหลังจากการเปิดตัวเกมใหม่)",
   "HOTKEYS_TITLE": "Hotkeys",
   "HOTKEYS_DESCRIPTION": "Enables the use of hotkeys.",
-  "BYPASS_TITLE": "Bypass",
-  "BYPASS_DESCRIPTION": "Enables bypass loading when the game starts.\n(Changes will take effect after a relaunch.)",
   "SHOW_STATUS_WINDOW_TITLE": "แสดงหน้าต่างสถานะ",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "ฟีเจอร์นี้ช่วยแสดงหน้าต่างที่แสดงสถานะของฟังก์ชันที่เปิดใช้งานอยู่",
   "MOVE_STATUS_TITLE": "หน้าต่างสถานะที่เคลื่อนย้ายได้",
@@ -619,17 +606,6 @@
   "PROFILE_FRIENDSHIP_DESCRIPTION": "Changes the Characters at maximum Friendship Level visually.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "Characters at maximum Friendship Level Value",
 
-  "INDICATORS_TITLE": "แสดงตัวชี้วัด",
-  "INDICATORS_DESCRIPTION": "ฟีเจอร์นี้ช่วยให้ผู้เล่นสามารถแสดงตัวชี้วัด โดยใช้กลไกของเกมเอง",
-  "INDICATORS_CHESTS_TITLE": "แสดงตัวชี้วัดหีบสมบัติ",
-  "INDICATORS_CHESTS_DESCRIPTION": "ฟีเจอร์นี้ช่วยให้ผู้เล่นสามารถแสดงตัวชี้วัดหีบสมบัติบนหน้าจอเกมได้ โดยใช้กลไกของเกมเอง",
-  "INDICATORS_CHESTS_STATUS": "หีบสมบัติ",
-  "INDICATORS_WAYPOINTS_TITLE": "แสดงตัวชี้วัดจุดวาร์ป",
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "ฟีเจอร์นี้ช่วยให้ผู้เล่นสามารถแสดงตัวชี้วัดจุดวาร์ปบนหน้าจอเกมได้ โดยใช้กลไกของเกมเอ",
-  "INDICATORS_WAYPOINTS_STATUS": "จุดวาร์ป",
-  "INDICATORS_ALL_STATUS": "ทั้งหมด",
-  "INDICATORS_NONE_STATUS": "ไม่โชว์",
-
   "FPS_UNLOCK_TITLE": "ปลดล็อค FPS",
   "FPS_UNLOCK_DESCRIPTION": "ฟีเจอร์นี้ช่วยให้ผู้เล่นสามารถรันเกมด้วยอัตราเฟรมที่สูงกว่า 60 FPS (Frames Per Second) ได้ ซึ่งจะทำให้การเล่นเกมมีความราบรื่นและภาพมีความคมชัดมากขึ้น",
   "FPS_VALUE_TITLE": "ค่า FPS",
@@ -710,14 +686,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Since you don't need to manually start electro seelie,\nthey start moving automatically with this option within 100 m radius.",
 
   "AUTO_TALK_TITLE": "คุยอัตโนมัติ",
-  "AUTO_TALK_DESCRIPTION": "ผ่านบทสนทนาโดยอัตโนมัติ หมายเหตุ: ไม่แนะนำให้ใช้ค่ามากกว่า 5.0 เพราะอาจทำให้กลไกของเกมเสียได้",
-  "AUTO_TALK_AUTO_CLICK_TITLE": "คลิกอัตโนมัติ",
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "ดำเนินบทสนทนาโดยอัตโนมัติโดยไม่ต้องคลิก",
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "ความเร็วในการสนทนา",
+  "AUTO_TALK_DESCRIPTION": "Automatically goes through the dialogues.\nMay break some game mechanics.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "เลือกคําตอบบทสนทนาอัตโนมัติ",
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "เลือกตัวเลือกบทสนทนาโดยอัตโนมัติ",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "ยกเว้น Katheryne/Tubby/Wagner",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "การเลือกอัตโนมัติจะไม่รวม Katheryne/Tubby/Wagner",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "ศัตรูที่โง่",
   "DUMB_ENEMIES_DESCRIPTION": "ศัตรูจะไม่โจมตีหรือใช้ความสามารถต่อผู้เล่น หมายเหตุ: อาจไม่ผลกับศัตรูบางตัวหรือความสามารถบางอย่างของศัตรู",
@@ -744,12 +719,6 @@
 
   "FREEZE_ENEMIES_TITLE": "แช่แข็งศัตรู",
   "FREEZE_ENEMIES_DESCRIPTION": "แช่แข็งความเร็วแอนิเมชันของศัตรูทั้งหมด",
-
-  "GAME_SPEED_TITLE": "ความเร็วของเกม",
-  "GAME_SPEED_DESCRIPTION": "ตั้งค่าความเร็วของเกม",
-  "MULTIPLIER_TITLE": "ตัวคูณค่า",
-  "MULTIPLIER_DESCRIPTION": "ตั้งค่าตัวคูณความเร็วของเกม",
-  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "ออร่าฆ่า",
   "KILL_AURA_DESCRIPTION": "ฆ่าศัตรูทั้งหมดในรัศมีที่กำหนด",

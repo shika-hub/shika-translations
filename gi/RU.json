@@ -347,11 +347,6 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Бесконечная выносливость Мавуики",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Делает выносливость Мавуики бесконечной.",
 
-  "MULTI_HIT_TITLE": "Множитель атак",
-  "MULTI_HIT_DESCRIPTION": "Включает множитель атак.",
-  "MULTI_HIT_AMOUNT_TITLE": "Удары",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "Множитель количества атак.",
-
   "NO_CLIP_TITLE": "No Clip",
   "NO_CLIP_DESCRIPTION": "Включает No Clip (высокая скорость + нет коллизии).\nДля передвижения, используйте WASD, Пробел (лететь вверх), и Shift (лететь вниз).",
   "NO_CLIP_ANIMATION_TITLE": "Без анимаций",
@@ -396,22 +391,14 @@
   "COOLDOWN_VEHICLE_TITLE": "Отключить перезарядку навыков транспорта",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Отключает перезарядку навыка у транспорта.",
 
-  "PLAYER_SPEED_TITLE": "Скорость игрока",
-  "PLAYER_SPEED_DESCRIPTION": "Включает скорость игрока.",
-  "PLAYER_SPEED_VALUE_TITLE": "Скорость",
-
   "MODULE_SETTINGS": "Настройки",
 
   "SETTINGS_LANGUAGE": "Настройки языка",
   "LANGUAGE_CURRENT": "Выберите язык",
   "SETTINGS_GENERAL": "Общие",
   "MENU_HOTKEY_TITLE": "Показать меню",
-  "INJECT_AFTER_LOGIN_TITLE": "Инъекция после входа",
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "Инъекция будет выполнена только после первого входа в игровой мир.\n(изменения начнут действовать после перезапуска игры).",
   "HOTKEYS_TITLE": "Горячие клавиши",
   "HOTKEYS_DESCRIPTION": "Включает использование горячих клавиш.",
-  "BYPASS_TITLE": "Обход",
-  "BYPASS_DESCRIPTION": "Включает обход загрузки при запуске игры.\n(изменения начнут действовать после перезапуска игры).",
   "SHOW_STATUS_WINDOW_TITLE": "Показать окно активности",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "Показывает окно с состоянием активных функций.",
   "MOVE_STATUS_TITLE": "Перемещение окна активности",
@@ -619,17 +606,6 @@
   "PROFILE_FRIENDSHIP_DESCRIPTION": "Визуально изменяет количество персонажей с максимальным уровнем дружбы.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "Значение персонажей с максимальным уровнем дружбы",
 
-  "INDICATORS_TITLE": "Показать индикаторы",
-  "INDICATORS_DESCRIPTION": "Показать сундуки и/или индикаторы точек телепортации, игровые механики.",
-  "INDICATORS_CHESTS_TITLE": "Показать индикаторы сундуков",
-  "INDICATORS_CHESTS_DESCRIPTION": "Показывает индикаторы сундуков.",
-  "INDICATORS_CHESTS_STATUS": "Сундуки",
-  "INDICATORS_WAYPOINTS_TITLE": "Показать индикаторы точек телепортации",
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "Показывает индикаторы точек телепортации.",
-  "INDICATORS_WAYPOINTS_STATUS": "Точки телепортации",
-  "INDICATORS_ALL_STATUS": "Все",
-  "INDICATORS_NONE_STATUS": "Никакие",
-
   "FPS_UNLOCK_TITLE": "Разблокировать FPS",
   "FPS_UNLOCK_DESCRIPTION": "Разрешает игре работать на частоте кадров выше 60-ти.",
   "FPS_VALUE_TITLE": "Значение FPS",
@@ -711,14 +687,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Поскольку запуск Электро феи вручную не требуется,\nона начинает движение автоматически при включении этой опции в радиусе 100 м.",
 
   "AUTO_TALK_TITLE": "Авто-пропуск диалогов",
-  "AUTO_TALK_DESCRIPTION": "Автоматически продолжает диалог.",
-  "AUTO_TALK_AUTO_CLICK_TITLE": "Авто нажатие",
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "Автоматическое продолжение диалога.",
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "Скорость диалога",
+  "AUTO_TALK_DESCRIPTION": "Автоматически проходит диалоги.\nMay break some game mechanics.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "Автовыбор диалога",
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Автоматически выбирать варианты диалогов.",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Исключить Катерину/Табби/Вагнера",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "Исключить Катерину/Табби/Вагнера из автовыбора.",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "Глупые враги",
   "DUMB_ENEMIES_DESCRIPTION": "Враги не атакуют или не используют их способности против персонажа.\nМожет не работать с некоторыми врагами или их способностями.",
@@ -745,12 +720,6 @@
 
   "FREEZE_ENEMIES_TITLE": "Заморозить врагов",
   "FREEZE_ENEMIES_DESCRIPTION": "Замораживает скорость анимации всех врагов.",
-
-  "GAME_SPEED_TITLE": "Скорость игры",
-  "GAME_SPEED_DESCRIPTION": "Ускоряет игру.",
-  "MULTIPLIER_TITLE": "Множитель",
-  "MULTIPLIER_DESCRIPTION": "Установить множитель скорости игры.",
-  "PRESETS_TITLE": "Предустановка",
 
   "KILL_AURA_TITLE": "Килл Аура",
   "KILL_AURA_DESCRIPTION": "Активирует килл ауру.",

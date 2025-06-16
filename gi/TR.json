@@ -347,11 +347,6 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Sınırsız Mavuika Staminası",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Mavuikanın element beceri staminasını sınırsız yapar.",
 
-  "MULTI_HIT_TITLE": "Çoklu Vuruş",
-  "MULTI_HIT_DESCRIPTION": "Oyuncu saldırılarını belirlenen miktarda arttırır.",
-  "MULTI_HIT_AMOUNT_TITLE": "Vurma Miktarı",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "Saldırı miktarınızı katlar.",
-
   "NO_CLIP_TITLE": "No Clip",
   "NO_CLIP_DESCRIPTION": "Duvarlardan geçmenizi ve hızlıca istediğiniz yöne uçmanızı sağlar.\nHaraket etmek için, WASD, Space (Yukarı gitme), and Shift (Aşağı inme) kullanın.",
   "NO_CLIP_ANIMATION_TITLE": "Animasyonları Engelle",
@@ -396,22 +391,14 @@
   "COOLDOWN_VEHICLE_TITLE": "Araç Yeteneklerinin Beklemesi Süresini Kapat",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Araç yeteneklerinin bekleme süresini kaldırır.",
 
-  "PLAYER_SPEED_TITLE": "Oyuncu Hızı",
-  "PLAYER_SPEED_DESCRIPTION": "Oyuncu hızını özelleştirmeyi sağlar.",
-  "PLAYER_SPEED_VALUE_TITLE": "Hız Değeri",
-
   "MODULE_SETTINGS": "Ayarlar",
 
   "SETTINGS_LANGUAGE": "Dil",
   "LANGUAGE_CURRENT": "Seçili Dil",
   "SETTINGS_GENERAL": "Genel",
   "MENU_HOTKEY_TITLE": "Menüyü Aç",
-  "INJECT_AFTER_LOGIN_TITLE": "Girdikten Sonra Enjekte Et",
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "Enjeksiyon yalnızca oyun dünyasına ilk giriş yapıldıktan sonra gerçekleştirilecektir..\n(Değişiklikler yeniden başlatıldıktan sonra geçerli olur.)",
   "HOTKEYS_TITLE": "Kısayollar",
   "HOTKEYS_DESCRIPTION": "Kısayol Tuşlarını ayarlamanıza yarar.",
-  "BYPASS_TITLE": "Bypass",
-  "BYPASS_DESCRIPTION": "Oyun başlarken bypass'ı açar.\n(Değişiklikler oyunu yeniden başlatınca etki eder.)",
   "SHOW_STATUS_WINDOW_TITLE": "Durum Penceresini Göster",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "Açık olan özelliklerin ifadeleriyle gözüktüğü bir pencere açar.",
   "MOVE_STATUS_TITLE": "Haraket Edilebilir Durum Penceresi",
@@ -619,17 +606,6 @@
   "PROFILE_FRIENDSHIP_DESCRIPTION": "Maximum arkadaşlık seviyesine ulaşılan karakter değerini değiştirir.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "Maximum arkadaşlık seviyesine ulaşılan karakter değeri",
 
-  "INDICATORS_TITLE": "Belirticileri Göster",
-  "INDICATORS_DESCRIPTION": "Oyun içi mekanikleri kullanarak ışınlanma yerlerini/sandıkların yerini belirtir.",
-  "INDICATORS_CHESTS_TITLE": "Sandık Belirticisini Göster",
-  "INDICATORS_CHESTS_DESCRIPTION": "Sandık belirteçini gösterir.",
-  "INDICATORS_CHESTS_STATUS": "Sandıklar",
-  "INDICATORS_WAYPOINTS_TITLE": "Işınlanma Yerlerinin Belirticisini Göster",
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "Işınlanma yerlerinin belirteçini gösterir.",
-  "INDICATORS_WAYPOINTS_STATUS": "Işınlanma Yerleri",
-  "INDICATORS_ALL_STATUS": "Hepsi",
-  "INDICATORS_NONE_STATUS": "Hiçbiri",
-
   "FPS_UNLOCK_TITLE": "FPS Kilidini Aç",
   "FPS_UNLOCK_DESCRIPTION": "Oyunun 60 FPS kilidini kaldırır.",
   "FPS_VALUE_TITLE": "FPS Değeri",
@@ -710,14 +686,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Elektrik perilerini manuel olarak başlatmanız gerekmediğinden,\nbu opsiyonla 100 m çevrede otomatikmen haraket etmeye başlarlar.",
 
   "AUTO_TALK_TITLE": "Otomatik Konuşma",
-  "AUTO_TALK_DESCRIPTION": "Diyalogları otomatikmen geçer.\nNote: Bazı oyun mekaniklerini bozabildiği için 5.0'dan yüksek değerler kullanmak önerilmez.",
-  "AUTO_TALK_AUTO_CLICK_TITLE": "Otomatik Tıklama",
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "Otomatikmen diyalogu devam ettirir.",
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "Diyalog Hızı",
+  "AUTO_TALK_DESCRIPTION": "Diyalogları otomatikmen geçer.\nMay break some game mechanics.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "Otomatikmen Diyalogu Seç",
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Otomatikmen diyalog seçeneklerini seçer.",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "Katheryne/Tubby/Wagner'ı Dışla",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "Otomatik diyalog seçme Katheryne/Tubby/Wagner'ı görmezden gelir.",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "Saf Düşmanlar",
   "DUMB_ENEMIES_DESCRIPTION": "Düşmanlar oyuncuya karşı yeteneklerini kullanmaz ve saldırmazlar.\nBazı düşmanlarda veya düşmanların yeteneklerinde çalışmayabilir.",
@@ -744,12 +719,6 @@
 
   "FREEZE_ENEMIES_TITLE": "Canavarları Dondur",
   "FREEZE_ENEMIES_DESCRIPTION": "Bütün canavarların animasyon hızını dondurur.",
-
-  "GAME_SPEED_TITLE": "Oyun Hızı",
-  "GAME_SPEED_DESCRIPTION": "Oyun hızının özelleştirilmesine izin verir.",
-  "MULTIPLIER_TITLE": "Çarpan",
-  "MULTIPLIER_DESCRIPTION": "Oyun hızının çarpanını ayarlar.",
-  "PRESETS_TITLE": "Presets",
 
   "KILL_AURA_TITLE": "Kill Aura",
   "KILL_AURA_DESCRIPTION": "Ayarlanmış uzaklıktaki bütün canavarları öldürür.",

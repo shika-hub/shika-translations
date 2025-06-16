@@ -347,11 +347,6 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "無限瑪薇卡體力",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "使瑪薇卡體力無限.",
 
-  "MULTI_HIT_TITLE": "多重攻擊",
-  "MULTI_HIT_DESCRIPTION": "啟用攻擊倍數.",
-  "MULTI_HIT_AMOUNT_TITLE": "傷害倍數",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "造成傷害段數.",
-
   "NO_CLIP_TITLE": "自由移動",
   "NO_CLIP_DESCRIPTION": "啟用自由移動(速度快+無碰撞).\n要移動,請使用 WASD、Space(向上)和 Shift(向下).",
   "NO_CLIP_ANIMATION_TITLE": "無動畫",
@@ -396,22 +391,14 @@
   "COOLDOWN_VEHICLE_TITLE": "浪船技能無冷卻",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "移除浪船技能冷卻時間.",
 
-  "PLAYER_SPEED_TITLE": "玩家速度",
-  "PLAYER_SPEED_DESCRIPTION": "啟用玩家速度.",
-  "PLAYER_SPEED_VALUE_TITLE": "速度",
-
   "MODULE_SETTINGS": "設置",
 
   "SETTINGS_LANGUAGE": "語言設置",
   "LANGUAGE_CURRENT": "選擇你的語言",
   "SETTINGS_GENERAL": "基礎",
   "MENU_HOTKEY_TITLE": "顯示 菜單",
-  "INJECT_AFTER_LOGIN_TITLE": "進門後註入",
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "僅在首次登錄進入遊戲世界後才會執行註入.\n(更改將在重新啟動後生效.)",
   "HOTKEYS_TITLE": "熱鍵",
   "HOTKEYS_DESCRIPTION": "允許使用熱鍵.",
-  "BYPASS_TITLE": "Bypass",
-  "BYPASS_DESCRIPTION": "遊戲開始時啟用繞過加載.\n(更改將在重新啟動後生效.)",
   "SHOW_STATUS_WINDOW_TITLE": "顯示狀態窗口",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "顯示一個窗口,其中包含已啟用功能的說明.",
   "MOVE_STATUS_TITLE": "移動狀態窗口",
@@ -619,17 +606,6 @@
   "PROFILE_FRIENDSHIP_DESCRIPTION": "在視覺上更改好感度已滿的角色.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "最高好感度已滿的角色",
 
-  "INDICATORS_TITLE": "顯示指示器",
-  "INDICATORS_DESCRIPTION": "顯示寶箱和/或傳送點指示器、遊戲機製.",
-  "INDICATORS_CHESTS_TITLE": "顯示寶箱指示器",
-  "INDICATORS_CHESTS_DESCRIPTION": "顯示寶箱指示器.",
-  "INDICATORS_CHESTS_STATUS": "寶箱",
-  "INDICATORS_WAYPOINTS_TITLE": "顯示傳送點指示器",
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "顯示傳送點指示器.",
-  "INDICATORS_WAYPOINTS_STATUS": "傳送點",
-  "INDICATORS_ALL_STATUS": "全部",
-  "INDICATORS_NONE_STATUS": "無",
-
   "FPS_UNLOCK_TITLE": "解鎖幀率",
   "FPS_UNLOCK_DESCRIPTION": "允許遊戲以高於 60 的幀速率運行.",
   "FPS_VALUE_TITLE": "幀率值",
@@ -711,14 +687,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "因為你不需要手動啟動雷靈,\n使用此選項,它們會在 100 米半徑範圍內自動移動.",
 
   "AUTO_TALK_TITLE": "自動對話",
-  "AUTO_TALK_DESCRIPTION": "自動進行對話.",
-  "AUTO_TALK_AUTO_CLICK_TITLE": "自動點擊對話",
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "自動點擊對話框.",
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "對話速度",
+  "AUTO_TALK_DESCRIPTION": "Automatically goes through the dialogues.\nMay break some game mechanics.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "自動選擇對話",
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "自動選擇對話選項.",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "排除 凱瑟琳/壺靈/鐵匠",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "從自動選擇中排除 凱瑟琳/壺靈/鐵匠.",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "愚蠢敵人",
   "DUMB_ENEMIES_DESCRIPTION": "敵人不會攻擊玩家或對玩家使用技能.\n可能不適用於某些敵人或敵人的技能.",
@@ -745,12 +720,6 @@
 
   "FREEZE_ENEMIES_TITLE": "凍結敵人",
   "FREEZE_ENEMIES_DESCRIPTION": "凍結所有敵人的動作.",
-
-  "GAME_SPEED_TITLE": "遊戲速度",
-  "GAME_SPEED_DESCRIPTION": "加快遊戲速度.",
-  "MULTIPLIER_TITLE": "倍數",
-  "MULTIPLIER_DESCRIPTION": "設置遊戲速度倍數.",
-  "PRESETS_TITLE": "預設",
 
   "KILL_AURA_TITLE": "殺戮光環",
   "KILL_AURA_DESCRIPTION": "啟動殺戮光環.",

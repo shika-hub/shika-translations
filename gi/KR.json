@@ -347,11 +347,6 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "마비카 스테미나 무한",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "마비카의 스태미나를 무한으로 만듭니다.",
 
-  "MULTI_HIT_TITLE": "다중 공격",
-  "MULTI_HIT_DESCRIPTION": "플레이어의 공격을 설정된 횟수만큼 반복합니다.",
-  "MULTI_HIT_AMOUNT_TITLE": "공격 횟수",
-  "MULTI_HIT_AMOUNT_DESCRIPTION": "공격 횟수 배율",
-
   "NO_CLIP_TITLE": "노클립",
   "NO_CLIP_DESCRIPTION": "어떤 물체든 통과하며 자유롭게 비행할 수 있습니다. WASD, 스페이스바, Shift 키를 이용하여 이동하세요.",
   "NO_CLIP_ANIMATION_TITLE": "애니메이션 끄기",
@@ -396,22 +391,14 @@
   "COOLDOWN_VEHICLE_TITLE": "탈것 스킬 쿨타임 제거",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "탈것 스킬의 쿨다운을 비활성화합니다.\n(파도 배,산룡,어룡,숲룡,명룡,깃룡,뿔룡등)",
 
-  "PLAYER_SPEED_TITLE": "플레이어 속도",
-  "PLAYER_SPEED_DESCRIPTION": "플레이어 이동 속도를 사용자 지정할 수 있습니다.",
-  "PLAYER_SPEED_VALUE_TITLE": "이동 속도",
-
   "MODULE_SETTINGS": "설정",
 
   "SETTINGS_LANGUAGE": "언어",
   "LANGUAGE_CURRENT": "선택된 언어",
   "SETTINGS_GENERAL": "일반",
   "MENU_HOTKEY_TITLE": "메뉴 토글",
-  "INJECT_AFTER_LOGIN_TITLE": "로그인 후 연결",
-  "INJECT_AFTER_LOGIN_DESCRIPTION": "게임 월드에 첫 로그인 후에만 실행됩니다.\n(변경사항은 재실행 후 적용됩니다.)",
   "HOTKEYS_TITLE": "단축키 설정",
   "HOTKEYS_DESCRIPTION": "단축키 사용을 활성화 합니다.",
-  "BYPASS_TITLE": "바이패스",
-  "BYPASS_DESCRIPTION": "게임 시작 시 추가적인 바이패스 기능을 활성화 합니다\n(변경사항은 재실행 후 적용됩니다.)",
   "SHOW_STATUS_WINDOW_TITLE": "상태 창 이동 가능",
   "SHOW_STATUS_WINDOW_DESCRIPTION": "활성화된 기능의 상태를 보여주는 창을 표시합니다.",
   "MOVE_STATUS_TITLE": "이동 가능한 상태 창",
@@ -619,17 +606,6 @@
   "PROFILE_FRIENDSHIP_DESCRIPTION": "프로필에 표기되는 호감도가 가득 찬 캐릭터 텍스트를 변경합니다.",
   "PROFILE_FRIENDSHIP_VALUE_TITLE": "호감도 수정",
 
-  "INDICATORS_TITLE": "인디케이터 표시",
-  "INDICATORS_DESCRIPTION": "게임 메커니즘을 이용하여 보물상자 및/또는 워프포인트 인디케이터를 표시합니다.",
-  "INDICATORS_CHESTS_TITLE": "보물상자 인디케이터",
-  "INDICATORS_CHESTS_DESCRIPTION": "보물상자 인디케이터를 표시합니다.",
-  "INDICATORS_CHESTS_STATUS": "보물상자",
-  "INDICATORS_WAYPOINTS_TITLE": "워프포인트 인디케이터",
-  "INDICATORS_WAYPOINTS_DESCRIPTION": "워프포인트 인디케이터를 표시합니다.",
-  "INDICATORS_WAYPOINTS_STATUS": "워프포인트",
-  "INDICATORS_ALL_STATUS": "모두",
-  "INDICATORS_NONE_STATUS": "없음",
-
   "FPS_UNLOCK_TITLE": "FPS 제한 해제",
   "FPS_UNLOCK_DESCRIPTION": "게임이 60 FPS 이상으로 실행되도록 합니다.",
   "FPS_VALUE_TITLE": "FPS 값",
@@ -710,14 +686,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "번개 선령을 직접 활성화할 필요 없이 \n이 기능을 켜면 100m 반경 내에서 자동으로 움직입니다.",
 
   "AUTO_TALK_TITLE": "자동 대화",
-  "AUTO_TALK_DESCRIPTION": "자동으로 대화를 진행합니다.\n참고: 5.0보다 큰 값을 사용하는 것은 일부 게임 시스템을 망가뜨릴 수 있으므로 권장하지 않습니다.",
-  "AUTO_TALK_AUTO_CLICK_TITLE": "자동 클릭",
-  "AUTO_TALK_AUTO_CLICK_DESCRIPTION": "자동으로 대화를 계속합니다.",
-  "AUTO_TALK_DIALOG_SPEED_TITLE": "대화 속도",
+  "AUTO_TALK_DESCRIPTION": "자동으로 대화를 진행합니다.\nMay break some game mechanics.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "자동 대화 선택",
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "자동으로 대화 선택지를 선택합니다.",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_TITLE": "캐서린/포롱이/바그너 제외",
-  "AUTO_TALK_SELECT_IMPORTANT_DIALOG_DESCRIPTION": "자동 선택이 캐서린/포롱이/바그너를 무시합니다.",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "적 무력화",
   "DUMB_ENEMIES_DESCRIPTION": "적들이 플레이어를 공격하거나 능력을 사용하지 않습니다.\n일부 적이나 적 능력에서는 작동하지 않을 수 있습니다.",
@@ -744,12 +719,6 @@
 
   "FREEZE_ENEMIES_TITLE": "적 얼리기",
   "FREEZE_ENEMIES_DESCRIPTION": "모든 적의 애니메이션 속도를 동결시킵니다.",
-
-  "GAME_SPEED_TITLE": "게임 속도",
-  "GAME_SPEED_DESCRIPTION": "게임 속도를 사용자 지정할 수 있습니다.",
-  "MULTIPLIER_TITLE": "게임 속도 조절",
-  "MULTIPLIER_DESCRIPTION": "게임 속도 배수를 설정합니다.",
-  "PRESETS_TITLE": "프리셋",
 
   "KILL_AURA_TITLE": "킬 아우라",
   "KILL_AURA_DESCRIPTION": "설정된 반경 내의 모든 적을 죽입니다.",
