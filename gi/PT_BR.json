@@ -686,13 +686,13 @@
   "AUTO_ELECTRO_SEELIE_DESCRIPTION": "Como não é necessário iniciar o Seelie Electro manualmente,\neles começam a se mover automaticamente com esta opção dentro de um raio de 100m.",
 
   "AUTO_TALK_TITLE": "Diálogo Automático",
-  "AUTO_TALK_DESCRIPTION": "Avança automaticamente pelos diálogos.\nMay break some game mechanics.",
-  "AUTO_TALK_SKIP_DIALOG_TITLE": "Skip Dialog",
-  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Automatically skips the dialog.",
+  "AUTO_TALK_DESCRIPTION": "Avança automaticamente pelos diálogos.\nPode quebrar algumas mecânicas do jogo.",
+  "AUTO_TALK_SKIP_DIALOG_TITLE": "Pular diálogo",
+  "AUTO_TALK_SKIP_DIALOG_DESCRIPTION": "Pula automaticamente as caixas de diálogo.",
   "AUTO_TALK_SELECT_DIALOG_TITLE": "Selecionar Diálogo Automaticamente",
   "AUTO_TALK_SELECT_DIALOG_DESCRIPTION": "Escolhe Automaticamente uma opção de Diálogo.",
-  "AUTO_TALK_IMPORTANT_TITLE": "Exclude important NPCs",
-  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignores Katheryne/Tubby/Wagner, etc.",
+  "AUTO_TALK_IMPORTANT_TITLE": "Exceção para NPCs importantes",
+  "AUTO_TALK_IMPORTANT_DESCRIPTION": "Ignora a Katheryne/Tubby/Wagner, etc.",
 
   "DUMB_ENEMIES_TITLE": "Inimigos Burros",
   "DUMB_ENEMIES_DESCRIPTION": "Os inimigos não vão atacar e nem usar suas habilidades contra o jogador.\nPode não funcionar com alguns inimigos ou habilidades específicas.",
