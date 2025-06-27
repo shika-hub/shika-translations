@@ -317,9 +317,9 @@
 
   "MODULE_MISC": "기타",
 
-  "GACHA_URL_FETCHER_TITLE": "가챠 URL 가져오기",
+  "GACHA_URL_FETCHER_TITLE": "기원 URL 가져오기",
   "GACHA_URL_FETCHER_DESCRIPTION": "기원 기록을 열 때 자동으로 링크를 가져옵니다.",
-  "URL_TITLE": "가챠 URL",
+  "URL_TITLE": "기원URL",
   "COPY_TITLE": "복사",
 
   "MODULE_PLAYER": "플레이어",
@@ -350,7 +350,7 @@
   "NO_CLIP_TITLE": "노클립",
   "NO_CLIP_DESCRIPTION": "어떤 물체든 통과하며 자유롭게 비행할 수 있습니다. WASD, 스페이스바, Shift 키를 이용하여 이동하세요.",
   "NO_CLIP_ANIMATION_TITLE": "애니메이션 끄기",
-  "NO_CLIP_ANIMATION_DESCRIPTION": "노클립 중 캐릭터 애니메이션이 재생되지 않습니다.",
+  "NO_CLIP_ANIMATION_DESCRIPTION": "노클립 중 캐릭터 대기 애니메이션이 재생되지 않습니다.",
   "NO_CLIP_SPEED_TITLE": "비행 속도",
   "NO_CLIP_SPEED_DESCRIPTION": "비행 속도를 조절합니다.\n25.0보다 큰 값은 권장하지 않습니다.",
   "NO_CLIP_CAMERA_RELATIVE_TITLE": "카메라 기준 이동",
@@ -481,12 +481,12 @@
   "MAP_TELEPORT_OVERRIDE_TITLE": "높이 조절 (m)",
   "MAP_TELEPORT_OVERRIDE_DESCRIPTION": "텔레포트가 목표 위치의 지면 높이를 가져올 수 없는 경우,\n여기에 지정된 높이로 텔레포트합니다.\n이 값을 산 높이만큼은 설정하는 것이 좋습니다.\n그렇지 않으면 지면을 통과할 수 있습니다.",
 
-  "OCULI_TELEPORT_TITLE": "신의 눈 순간이동",
+  "OCULI_TELEPORT_TITLE": "신의 눈동자 순간이동",
   "OCULI_TELEPORT_DESCRIPTION": "지역을 무관하고 가장 가까운 신의 눈동자로 즉시 이동합니다.",
   "OCULI_TELEPORT_INFO_DESCRIPTION": "가장 가까운 신의 눈동자에 대한 간략한 정보를 정보창에 표시합니다.",
 
   "QUEST_TELEPORT_TITLE": "퀘스트 텔레포트",
-  "QUEST_TELEPORT_DESCRIPTION": "퀘스트 지점으로 순간이동합니다.\n(일부 퀘스트 지역에서는 작동하지 않습니다)\n'V' 키를 눌러 퀘스트를 추적한 다음, 핫키를 눌러 순간이동하세요.",
+  "QUEST_TELEPORT_DESCRIPTION": "퀘스트 지점으로 순간이동합니다.\n(일부 퀘스트 지역에서는 작동하지 않습니다)\n'V' 키를 눌러 퀘스트를 추적한 다음, 단축키를 눌러 순간이동하세요.",
 
   "MODULE_VISUALS": "시각 효과",
 
@@ -635,17 +635,17 @@
   "AUTO_CHALLENGE_BOMB_TITLE": "폭탄 파괴",
   "AUTO_CHALLENGE_BOMB_DESCRIPTION": "폭발하는 통을 자동으로 파괴합니다.",
   "AUTO_CHALLENGE_RANGE_DESCRIPTION": "수집 범위",
-  "AUTO_CHALLENGE_DELAY_TITLE": "딜레이 (ms)",
+  "AUTO_CHALLENGE_DELAY_TITLE": "딜레이 (MS)",
   "AUTO_CHALLENGE_DELAY_DESCRIPTION": "수집 딜레이",
 
   "AUTO_FISH_TITLE": "자동 낚시",
   "AUTO_FISH_DESCRIPTION": "물고기를 자동으로 낚습니다.",
-  "AUTO_FISH_CATCH_DELAY_TITLE": "낚시 딜레이 (ms)",
-  "AUTO_FISH_CATCH_DELAY_DESCRIPTION": "이 딜레이 후에 물고기가 낚입니다. (in ms).",
+  "AUTO_FISH_CATCH_DELAY_TITLE": "낚시 딜레이 (MS)",
+  "AUTO_FISH_CATCH_DELAY_DESCRIPTION": "이 딜레이 후에 물고기가 낚입니다. (MS).",
 
   "AUTO_LOOT_TITLE": "자동 수집",
   "AUTO_LOOT_ITEMS_TITLE": "자동 수집",
-  "AUTO_LOOT_ITEMS_DESCRIPTION": "떨어진 아이템을 자동으로 줍습니다.\n참고: 사용자 지정 범위와 낮은 딜레이 시간으로 사용하는 것은 매우 위험합니다.\n남용하면 밴을 당할 수 있습니다.\n\n사용자 지정 범위와 함께 사용할 경우 이 옵션을 먼저 켜야 합니다.",
+  "AUTO_LOOT_ITEMS_DESCRIPTION": "떨어진 아이템을 자동으로 줍습니다.\n참고: 사용자 지정 범위와 낮은 딜레이 시간을 사용하는 것은 매우 위험합니다.\n남용하면 밴을 당할 수 있습니다.\n\n사용자 지정 범위와 함께 사용할 경우 이 옵션을 먼저 켜야 합니다.",
   "AUTO_LOOT_DISABLE_TITLE": "가방이 가득 차면 자동 비활성화",
   "AUTO_LOOT_DISABLE_DESCRIPTION": "가방이 가득 차면 자동 줍기를 비활성화합니다.",
   "AUTO_LOOT_CUSTOM_RANGE_TITLE": "픽업 범위",
@@ -776,17 +776,17 @@
   "MUSIC_GAME_AUTO_HIT_TITLE": "자동 타격",
   "MUSIC_GAME_AUTO_HIT_DESCRIPTION": "플레이어의 클릭을 자동으로 수행합니다.",
   "MUSIC_GAME_NO_MISS_TITLE": "미스 없음",
-  "MUSIC_GAME_NO_MISS_DESCRIPTION": "놓친 클릭을 카운트하지 않습니다.",
+  "MUSIC_GAME_NO_MISS_DESCRIPTION": "놓친 미스를 카운트하지 않습니다.",
   "MUSIC_GAME_HIT_TITLE": "점수",
-  "MUSIC_GAME_HIT_DESCRIPTION": "탭당 획득 점수입니다.",
+  "MUSIC_GAME_HIT_DESCRIPTION": "본인이 친 노트당 획득 점수입니다.",
   "MUSIC_GAME_COMBO_TITLE": "콤보",
   "MUSIC_GAME_COMBO_DESCRIPTION": "게임 상단에 있는 콤보를 설정합니다.",
 
   "OPEN_TEAM_IMMEDIATELY_TITLE": "즉시 파티 열기",
-  "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "카운트다운을 기다리지 않고 바로 파티 메뉴를 엽니다.",
+  "OPEN_TEAM_IMMEDIATELY_DESCRIPTION": "기다리지 않고 바로 파티 메뉴를 엽니다.",
 
   "SKIP_CUTSCENE_TITLE": "컷신 건너뛰기",
-  "SKIP_CUTSCENE_DESCRIPTION": "컷신을 건너뜁니다.\n일부 게임 메커닉을 망가뜨릴 수 있습니다.",
+  "SKIP_CUTSCENE_DESCRIPTION": "컷신을 건너뜁니다.\n일부 게임 메커니즘을 망가뜨릴 수 있습니다.",
 
   "ENABLED_TITLE": "활성화",
   "CONFIG_TITLE": "구성",
