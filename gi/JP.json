@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Infinite Mavuika Stamina",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Makes mavuika stamina infinite.",
 
+  "MULTI_HIT_TITLE": "マルチヒット",
+  "MULTI_HIT_DESCRIPTION": "マルチヒットモードを有効にします",
+  "MULTI_HIT_AMOUNT_TITLE": "倍率",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "（プログレスバーの数値を変更すれば倍率を変更できます）",
+
   "NO_CLIP_TITLE": "ノークリップ",
   "NO_CLIP_DESCRIPTION": "ノークリップを有効にする（高速移動＋当たり判定無効）移動にはWASD、スペース（上昇）、シフト（下降）を使用します",
   "NO_CLIP_ANIMATION_TITLE": "アニメーションなし",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "ダッシュ間の遅延を無効にする（2回以上連続でダッシュを入力してもクールタイムが発生しなくなります）",
   "COOLDOWN_VEHICLE_TITLE": "乗り物スキルクールタイム無効",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "乗り物スキルのクールタイムを無効にする",
+
+  "PLAYER_SPEED_TITLE": "ゲーム速度",
+  "PLAYER_SPEED_DESCRIPTION": "ゲーム速度の変更を有効にする",
+  "PLAYER_SPEED_VALUE_TITLE": "速度",
 
   "MODULE_SETTINGS": "設定",
 

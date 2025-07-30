@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Бесконечная выносливость Мавуики",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Делает выносливость Мавуики бесконечной.",
 
+  "MULTI_HIT_TITLE": "Множитель атак",
+  "MULTI_HIT_DESCRIPTION": "Включает множитель атак.",
+  "MULTI_HIT_AMOUNT_TITLE": "Удары",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "Множитель количества атак.",
+
   "NO_CLIP_TITLE": "No Clip",
   "NO_CLIP_DESCRIPTION": "Включает No Clip (высокая скорость + нет коллизии).\nДля передвижения, используйте WASD, Пробел (лететь вверх), и Shift (лететь вниз).",
   "NO_CLIP_ANIMATION_TITLE": "Без анимаций",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "Убирает перезарядку между рывками.",
   "COOLDOWN_VEHICLE_TITLE": "Отключить перезарядку навыков транспорта",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Отключает перезарядку навыка у транспорта.",
+
+  "PLAYER_SPEED_TITLE": "Скорость игрока",
+  "PLAYER_SPEED_DESCRIPTION": "Включает скорость игрока.",
+  "PLAYER_SPEED_VALUE_TITLE": "Скорость",
 
   "MODULE_SETTINGS": "Настройки",
 

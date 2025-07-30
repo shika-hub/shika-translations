@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Vigor Infinito pra Mavuika",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Faz o Vigor da Mavuika durar por tempo indefinido.",
 
+  "MULTI_HIT_TITLE": "Multiplicador de Ataque",
+  "MULTI_HIT_DESCRIPTION": "Faz com que o os ataques do personagem acerte pelo tanto de vezes que for definido.",
+  "MULTI_HIT_AMOUNT_TITLE": "Quantidade de Ataques",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "Multiplicador da quantidade de ataques do jogador.",
+
   "NO_CLIP_TITLE": "No Clip",
   "NO_CLIP_DESCRIPTION": "Desativa a colisão do jogador e permite voar rapidamente em qualquer direção.\nPara se mover, use WASD, Espaço (Subir) e Shift (Descer).",
   "NO_CLIP_ANIMATION_TITLE": "Prevenir Animações",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "Remove o atraso entre corridas.",
   "COOLDOWN_VEHICLE_TITLE": "Sem Recarga em Veículos",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Tira a recarga da Habilidade ou Ataque de um veículo.",
+
+  "PLAYER_SPEED_TITLE": "Velocidade do Jogador",
+  "PLAYER_SPEED_DESCRIPTION": "Faz com que seja possível mudar a velocidade das animações do jogador.",
+  "PLAYER_SPEED_VALUE_TITLE": "Velocidade",
 
   "MODULE_SETTINGS": "Configurações",
 

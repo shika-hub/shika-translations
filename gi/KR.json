@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "마비카 스테미나 무한",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "마비카의 스태미나를 무한으로 만듭니다.",
 
+  "MULTI_HIT_TITLE": "다중 공격",
+  "MULTI_HIT_DESCRIPTION": "플레이어의 공격을 설정된 횟수만큼 반복합니다.",
+  "MULTI_HIT_AMOUNT_TITLE": "공격 횟수",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "공격 횟수 배율",
+
   "NO_CLIP_TITLE": "노클립",
   "NO_CLIP_DESCRIPTION": "어떤 물체든 통과하며 자유롭게 비행할 수 있습니다. WASD, 스페이스바, Shift 키를 이용하여 이동하세요.",
   "NO_CLIP_ANIMATION_TITLE": "애니메이션 끄기",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "대쉬 사이의 지연을 제거합니다.",
   "COOLDOWN_VEHICLE_TITLE": "탈것 스킬 쿨타임 제거",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "탈것 스킬의 쿨다운을 비활성화합니다.\n(파도 배,산룡,어룡,숲룡,명룡,깃룡,뿔룡등)",
+
+  "PLAYER_SPEED_TITLE": "플레이어 속도",
+  "PLAYER_SPEED_DESCRIPTION": "플레이어 이동 속도를 사용자 지정할 수 있습니다.",
+  "PLAYER_SPEED_VALUE_TITLE": "이동 속도",
 
   "MODULE_SETTINGS": "설정",
 

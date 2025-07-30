@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Infinite Mavuika Stamina",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Makes mavuika stamina infinite.",
 
+  "MULTI_HIT_TITLE": "Multi Hit",
+  "MULTI_HIT_DESCRIPTION": "Mnozy twoje ataki o okreslona wartosc.",
+  "MULTI_HIT_AMOUNT_TITLE": "Hits Amount",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "Mnoznik liczby atakow",
+
   "NO_CLIP_TITLE": "No Clip",
   "NO_CLIP_DESCRIPTION": "Wylacza wszelkie kolizje i umozliwia szybki lot w dowolnym kierunku.\nWSAD - poruszanie sie, spacja - do gory, shift - w dol.",
   "NO_CLIP_ANIMATION_TITLE": "Prevent Animations",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "Usuwa delay miedzy sprintami.",
   "COOLDOWN_VEHICLE_TITLE": "No Vehicle Skill Cooldown",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Usuwa cooldown skilli lodek.",
+
+  "PLAYER_SPEED_TITLE": "Player Speed",
+  "PLAYER_SPEED_DESCRIPTION": "Pozwala na dostosowanie predkosci postaci.",
+  "PLAYER_SPEED_VALUE_TITLE": "Speed Value",
 
   "MODULE_SETTINGS": "Settings",
 

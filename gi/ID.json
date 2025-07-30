@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Infinite Mavuika Stamina",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Makes mavuika stamina infinite.",
 
+  "MULTI_HIT_TITLE": "Multi Hit",
+  "MULTI_HIT_DESCRIPTION": "Melipatgandakan serangan pemain sebanyak jumlah yang ditetapkan.",
+  "MULTI_HIT_AMOUNT_TITLE": "Banyaknya Serangan",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "Pengganda jumlah serangan pemain.",
+
   "NO_CLIP_TITLE": "No Clip alias Terbang",
   "NO_CLIP_DESCRIPTION": "Menonaktifkan tabrakan pemain, dan memungkinkan terbang ke segala arah dengan cepat.\nUntuk bergerak, gunakan WASD, Spasi (Naik), dan Shift (Turun).",
   "NO_CLIP_ANIMATION_TITLE": "Hindari Animasi",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "Menghilangkan jeda antar sprint.",
   "COOLDOWN_VEHICLE_TITLE": "No Vehicle Skill Cooldown",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Menghilangkan cooldown skill kendaraan.",
+
+  "PLAYER_SPEED_TITLE": "Laju Pemain",
+  "PLAYER_SPEED_DESCRIPTION": "Memungkinkan untuk menyesuaikan kecepatan gerakan pemain.",
+  "PLAYER_SPEED_VALUE_TITLE": "Nilai Laju",
 
   "MODULE_SETTINGS": "Pengaturan",
 
