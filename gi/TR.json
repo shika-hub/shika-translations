@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Sınırsız Mavuika Staminası",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Mavuikanın element beceri staminasını sınırsız yapar.",
 
+  "MULTI_HIT_TITLE": "Çoklu Vuruş",
+  "MULTI_HIT_DESCRIPTION": "Oyuncu saldırılarını belirlenen miktarda arttırır.",
+  "MULTI_HIT_AMOUNT_TITLE": "Vurma Miktarı",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "Saldırı miktarınızı katlar.",
+
   "NO_CLIP_TITLE": "No Clip",
   "NO_CLIP_DESCRIPTION": "Duvarlardan geçmenizi ve hızlıca istediğiniz yöne uçmanızı sağlar.\nHaraket etmek için, WASD, Space (Yukarı gitme), and Shift (Aşağı inme) kullanın.",
   "NO_CLIP_ANIMATION_TITLE": "Animasyonları Engelle",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "Koşmalar arasındaki gecikmeyi kaldırır.",
   "COOLDOWN_VEHICLE_TITLE": "Araç Yeteneklerinin Beklemesi Süresini Kapat",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Araç yeteneklerinin bekleme süresini kaldırır.",
+
+  "PLAYER_SPEED_TITLE": "Oyuncu Hızı",
+  "PLAYER_SPEED_DESCRIPTION": "Oyuncu hızını özelleştirmeyi sağlar.",
+  "PLAYER_SPEED_VALUE_TITLE": "Hız Değeri",
 
   "MODULE_SETTINGS": "Ayarlar",
 

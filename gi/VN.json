@@ -348,6 +348,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Vô Hạn thể lực Mavuika",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Làm cho mô tô vượt lửa của mavuika có thể lực vô hạn.",
 
+  "MULTI_HIT_TITLE": "Liên Kích",
+  "MULTI_HIT_DESCRIPTION": "Nhân số lượng đòn đánh theo giá trị cung cấp.",
+  "MULTI_HIT_AMOUNT_TITLE": "Số lượng đòn đánh",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "Nhân số lượng đòn đánh.",
+
   "NO_CLIP_TITLE": "Di Chuyển Xuyên Vật Thể",
   "NO_CLIP_DESCRIPTION": "Giúp bạn đi xuyên vật thể và bay theo mọi hướng.\nĐể di chuyển, dùng WASD, phím cách (Đi lên), và phím Shift (Đi xuống) (Đây là mặc định).",
   "NO_CLIP_ANIMATION_TITLE": "Xoá hoạt ảnh",
@@ -391,6 +396,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "Loại bỏ độ trễ giữa các lần lướt.",
   "COOLDOWN_VEHICLE_TITLE": "Không Hồi Chiêu Kỹ Năng Phương Tiện",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Loại bỏ thời gian hồi chiêu của kỹ năng phương tiện.",
+
+  "PLAYER_SPEED_TITLE": "Tốc Độ Nhân Vật",
+  "PLAYER_SPEED_DESCRIPTION": "Cho phép tùy chỉnh tốc độ di chuyển của nhân vật.",
+  "PLAYER_SPEED_VALUE_TITLE": "Giá Trị Tốc Độ",
   
   "MODULE_SETTINGS": "Cài Đặt",
   

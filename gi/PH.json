@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Infinite Mavuika Stamina",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Makes mavuika stamina infinite.",
 
+  "MULTI_HIT_TITLE": "Multi Hit",
+  "MULTI_HIT_DESCRIPTION": "Multiplies player attacks by the set amount.",
+  "MULTI_HIT_AMOUNT_TITLE": "Hits Amount",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "Player attack amount multiplier.",
+
   "NO_CLIP_TITLE": "No Clip",
   "NO_CLIP_DESCRIPTION": "Disables player collision, and allows to fly in any direction quickly.\nTo move, use WASD, Space (Go Up), and Shift (Go Down).",
   "NO_CLIP_ANIMATION_TITLE": "Prevent Animations",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "Removes delay in-between sprints.",
   "COOLDOWN_VEHICLE_TITLE": "No Vehicle Skill Cooldown",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "Disables cooldown of the vehicle skill.",
+
+  "PLAYER_SPEED_TITLE": "Player Speed",
+  "PLAYER_SPEED_DESCRIPTION": "Allows to customize player movement speed.",
+  "PLAYER_SPEED_VALUE_TITLE": "Speed Value",
 
   "MODULE_SETTINGS": "Settings",
 

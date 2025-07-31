@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "Infinite Mavuika Stamina",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "Makes mavuika stamina infinite.",
 
+  "MULTI_HIT_TITLE": "การสร้างความเสียหายหลายครั้ง",
+  "MULTI_HIT_DESCRIPTION": "คูณจำนวนการโจมตีของผู้เล่น",
+  "MULTI_HIT_AMOUNT_TITLE": "จำนวนการโจมตี",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "ตัวคูณการโจมตีของผู้เล่น",
+
   "NO_CLIP_TITLE": "โหมดทะลุผ่าน",
   "NO_CLIP_DESCRIPTION": "ปิดการชนของผู้เล่น และสามารถบินไปในทิศทางใดก็ได้อย่างรวดเร็ว การเคลื่อนที่ ใช้ปุ่ม WASD, Space (ขึ้น), และ Shift (ลง)",
   "NO_CLIP_ANIMATION_TITLE": "หยุดการเคลื่อนไหว",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "ฟีเจอร์นี้ช่วยให้ผู้ใช้สามารถวิ่งได้อย่างต่อเนื่องโดยไม่ต้องรอเวลาในระหว่างการวิ่ง",
   "COOLDOWN_VEHICLE_TITLE": "ไม่มีเวลาคูลดาวน์ของสกิลยานพาหนะ",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "ฟีเจอร์นี้ปิดการคูลดาวน์ของสกิลยานพาหนะ",
+
+  "PLAYER_SPEED_TITLE": "ความเร็วของผู้เล่น",
+  "PLAYER_SPEED_DESCRIPTION": "ฟีเจอร์นี้ช่วยให้ผู้ใช้สามารถปรับความเร็วในการเคลื่อนที่ของตัวละครผู้เล่นได้ตามต้องการ",
+  "PLAYER_SPEED_VALUE_TITLE": "ค่าความเร็ว",
 
   "MODULE_SETTINGS": "ตั้งค่า",
 

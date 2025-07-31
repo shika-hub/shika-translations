@@ -347,6 +347,11 @@
   "INFINITE_MAVUIKA_STAMINA_TITLE": "無限瑪薇卡體力",
   "INFINITE_MAVUIKA_STAMINA_DESCRIPTION": "使瑪薇卡體力無限.",
 
+  "MULTI_HIT_TITLE": "多重攻擊",
+  "MULTI_HIT_DESCRIPTION": "啟用攻擊倍數.",
+  "MULTI_HIT_AMOUNT_TITLE": "傷害倍數",
+  "MULTI_HIT_AMOUNT_DESCRIPTION": "造成傷害段數.",
+
   "NO_CLIP_TITLE": "自由移動",
   "NO_CLIP_DESCRIPTION": "啟用自由移動(速度快+無碰撞).\n要移動,請使用 WASD、Space(向上)和 Shift(向下).",
   "NO_CLIP_ANIMATION_TITLE": "無動畫",
@@ -390,6 +395,10 @@
   "COOLDOWN_SPRINT_DESCRIPTION": "消除沖刺之間的延遲.",
   "COOLDOWN_VEHICLE_TITLE": "浪船技能無冷卻",
   "COOLDOWN_VEHICLE_SKILL_DESCRIPTION": "移除浪船技能冷卻時間.",
+
+  "PLAYER_SPEED_TITLE": "玩家速度",
+  "PLAYER_SPEED_DESCRIPTION": "啟用玩家速度.",
+  "PLAYER_SPEED_VALUE_TITLE": "速度",
 
   "MODULE_SETTINGS": "設置",
 
