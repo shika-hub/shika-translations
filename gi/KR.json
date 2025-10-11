@@ -410,7 +410,7 @@
   "BLINK_HOTKEY_TITLE": "순간 이동 단축키",
   "BLINK_HOTKEY_DESCRIPTION": "설정 시, 플레이어가 단축키를 눌러 순간 이동을 할 수 있도록 허용합니다.",
   "BLINK_DISTANCE_TITLE": "순간 이동 거리",
-  "BLINK_DISTANCE_DESCRIPTION": "각 순간 이동 시 이동하는 거리."
+  "BLINK_DISTANCE_DESCRIPTION": "각 순간 이동 시 이동하는 거리.",
 
   "GOD_MODE_TITLE": "무적 모드",
   "GOD_MODE_DESCRIPTION": "모든 종류의 피해로부터 플레이어를 무적으로 만듭니다.",
