@@ -576,7 +576,7 @@
   "AUTO_TELEPORT_DESCRIPTION": "텔레포트 지점 사이를 자동으로 순서대로 이동합니다.",
   "DELAY_TIME_TITLE": "지연 시간 (초)",
   "DELAY_TIME_DESCRIPTION": "텔레포트 간 지연 시간 (초 단위)입니다.\n참고: 안정성이 완전히 검증되지 않은 기능입니다.\n낮은 값으로 설정하는 것을 권장하지 않습니다.",
-  "DELETE_CHECKED_TITLE": "	체크 항목 삭제",
+  "DELETE_CHECKED_TITLE": "체크 항목 삭제",
   "DELETE_CHECKED_DESCRIPTION": "경고: 이 작업은 폴더에서 파일을 삭제하고 목록에서 텔레포트 지점을 제거합니다. 데이터는 영구적으로 손실됩니다.",
   "TELEPORTS_TITLE": "텔레포트 목록",
   "SORT_BY_COORDS_TITLE": "좌표순 정렬",
