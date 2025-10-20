@@ -284,7 +284,8 @@
   "ESP_ELEMENTAL_MONUMENT_TITLE": "원소 비석",
   "ESP_ENERGY_TRANSFER_TERMINAL_TITLE": "전이 단말기",
   "ESP_EVERLIGHT_CELL_TITLE": "에버라이트 부품",
-  "ESP_FARRWICK_TITLE":   "크바레나 코어",
+  "ESP_FARRWICK_TITLE": "크바레나 코어",
+  "ESP_FLIGHTY_SIMULACRUM_TITLE": "Flighty Simulacrum",
   "ESP_FLOATING_ANEMO_SLIME_TITLE": "떠다니는 바람 슬라임",
   "ESP_FRAVASHI_TREE_TITLE": "영혼이 깃든 나무",
   "ESP_GEO_LAMP_TITLE": "바위 램프",
@@ -340,6 +341,7 @@
   "ESP_WARMING_SEELIE_TITLE": "따뜻한 선령",
   "ESP_WEATHERED_OBELISK_TITLE": "풍화된 비석",
   "ESP_WINDMILL_MECHANISM_TITLE": "풍차 장치",
+  "ESP_WRATHFUL_SIMULACRUM_TITLE": "Wrathful Simulacrum",
   "ESP_MONSTERS_TITLE": "몬스터",
 
   "EXECUTE_TITLE": "실행",
