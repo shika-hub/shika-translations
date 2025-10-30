@@ -57,6 +57,7 @@
   "ESP_PRECIOUS_CHEST_TITLE": "Rương siêu cấp",
   "ESP_LUXURIOUS_CHEST_TITLE": "Rương hiếm",
   "ESP_REMARKABLE_CHEST_TITLE": "Rương kì dị",
+  "ESP_BURIED_CHEST_TITLE": "Buried Chest",
   "ESP_SEARCH_POINT_TITLE": "Điểm khai quật",
   "ESP_CRUDE_CHEST_TITLE": "Rương thô sơ",
   "ESP_ANEMOCULUS_TITLE": "Phong thần đồng",
@@ -108,6 +109,8 @@
   "ESP_XENOCHROMATIC_JELLYFISH_TITLE": "Sứa Dị Sắc",
   "ESP_ALPACA_TITLE": "Lạc Đà Không Bướu",
   "ESP_ATAPETRA_CONCH_TITLE": "Atapetra Conch",
+  "ESP_AVATAR_OWN_TITLE": "Avatar Own",
+  "ESP_AVATAR_TEAMMATE_TITLE": "Avatar Teammate",
   "ESP_BAKE_DANUKI_TITLE": "Bake-Danuki",
   "ESP_BERYL_CONCH_TITLE": "Ốc Beryl",
   "ESP_BIRD_EGG_TITLE": "Trứng Chim",
@@ -680,7 +683,7 @@
   "NO_MAP_FOG_DESCRIPTION": "Loại bỏ sương mù trên bản đồ.",
   
   "PAIMON_FOLLOW_TITLE": "Paimon Theo Dõi",
-  "PAIMON_FOLLOW_DESCRIPTION": "Để hiển thị Paimon, bật tính năng này, mở menu Paimon (ESC) rồi đóng lại.\nNếu Paimon biến mất sau khi dịch chuyển, đừng tắt tính năng này, hãy mở và đóng hồ sơ của bạn.",
+  "PAIMON_FOLLOW_DESCRIPTION": "Now Paimon will always be with you.",
   
   "PROFILE_TITLE": "Tùy Chỉnh Hồ Sơ",
   "PROFILE_DESCRIPTION": "Thay đổi giao diện hồ sơ.",

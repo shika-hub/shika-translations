@@ -57,6 +57,7 @@
   "ESP_PRECIOUS_CHEST_TITLE": "หีบล้ำค่ามาก",
   "ESP_LUXURIOUS_CHEST_TITLE": "หีบหรูหรา",
   "ESP_REMARKABLE_CHEST_TITLE": "หีบโดดเด่น",
+  "ESP_BURIED_CHEST_TITLE": "Buried Chest",
   "ESP_SEARCH_POINT_TITLE": "จุดค้นหา",
   "ESP_CRUDE_CHEST_TITLE": "หีบหยาบ",
   "ESP_ANEMOCULUS_TITLE": "แอนิโมคิวลัส",
@@ -108,6 +109,8 @@
   "ESP_XENOCHROMATIC_JELLYFISH_TITLE": "Xenochromatic Jellyfish",
   "ESP_ALPACA_TITLE": "Alpaca",
   "ESP_ATAPETRA_CONCH_TITLE": "Atapetra Conch",
+  "ESP_AVATAR_OWN_TITLE": "Avatar Own",
+  "ESP_AVATAR_TEAMMATE_TITLE": "Avatar Teammate",
   "ESP_BAKE_DANUKI_TITLE": "Bake Danuki",
   "ESP_BERYL_CONCH_TITLE": "BerylConch",
   "ESP_BIRD_EGG_TITLE": "BirdEgg",
@@ -680,7 +683,7 @@
   "NO_MAP_FOG_DESCRIPTION": "ฟีเจอร์นี้ช่วยให้ผู้เล่นสามารถปิดการแสดงผลของหมอกในแผนที่เกมได้",
 
   "PAIMON_FOLLOW_TITLE": "การติดตามของ Paimon",
-  "PAIMON_FOLLOW_DESCRIPTION": "ในการแสดง Paimon ให้เปิดใช้งานฟังก์ชันนี้ แล้วเปิดเมนู Paimon (กด ESC) จากนั้นปิดเมนู หาก Paimon หายไปหลังจากการวาร์ป อย่าปิดฟังก์ชันนี้ แต่ให้เปิดและปิดโปรไฟล์แทน",
+  "PAIMON_FOLLOW_DESCRIPTION": "Now Paimon will always be with you.",
 
   "PROFILE_TITLE": "เปลี่ยนโปรไฟล์",
   "PROFILE_DESCRIPTION": "ฟีเจอร์นี้ช่วยให้ผู้เล่นสามารถปรับเปลี่ยนการแสดงผลของโปรไฟล์ในเกมได้ตามต้องการ",

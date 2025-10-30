@@ -57,6 +57,7 @@
   "ESP_PRECIOUS_CHEST_TITLE": "귀중한 상자",
   "ESP_LUXURIOUS_CHEST_TITLE": "화려한 상자",
   "ESP_REMARKABLE_CHEST_TITLE": "신묘한 상자",
+  "ESP_BURIED_CHEST_TITLE": "Buried Chest",
   "ESP_SEARCH_POINT_TITLE": "워프 포인트",
   "ESP_CRUDE_CHEST_TITLE": "조잡한 상자",
   "ESP_ANEMOCULUS_TITLE": "바람 신의 눈",
@@ -108,6 +109,8 @@
   "ESP_XENOCHROMATIC_JELLYFISH_TITLE": "이색 해파리",
   "ESP_ALPACA_TITLE": "알파카",
   "ESP_ATAPETRA_CONCH_TITLE": "고대 돌소라",
+  "ESP_AVATAR_OWN_TITLE": "Avatar Own",
+  "ESP_AVATAR_TEAMMATE_TITLE": "Avatar Teammate",
   "ESP_BAKE_DANUKI_TITLE": "너구리 요괴",
   "ESP_BERYL_CONCH_TITLE": "푸른 수정 소라",
   "ESP_BIRD_EGG_TITLE": "새알",
@@ -680,7 +683,7 @@
   "NO_MAP_FOG_DESCRIPTION": "지도의 안개를 제거합니다.",
 
   "PAIMON_FOLLOW_TITLE": "페이몬 따라다님",
-  "PAIMON_FOLLOW_DESCRIPTION": "페이몬을 표시하려면 기능을 켜고 페이몬 메뉴(ESC)를 열었다 닫으세요.\n순간이동 후 페이몬이 사라지면 기능을 끄지 말고 프로필을 열었다 닫으세요.",
+  "PAIMON_FOLLOW_DESCRIPTION": "Now Paimon will always be with you.",
 
   "PROFILE_TITLE": "프로필 변경",
   "PROFILE_DESCRIPTION": "프로필에 표시되는 값들을 변경합니다.\nUID,이름,레벨,생일,서명,경험치등",
