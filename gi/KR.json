@@ -366,7 +366,7 @@
   "DAMAGE_TITLE": "피해량",
   "DAMAGE_DESCRIPTION": "추가 타격 발동 시 가하는 피해량.",
   "CUSTOM_ELEMENT_TITLE": "원소 타입 지정",
-  "CUSTOM_ELEMENT_DESCRIPTION": "피해의 원소 타입을 지정할 수 있습니다.\n일부 캐릭터에게는 적용되지 않을 수 있습니다.\n(이 기능을 완전히 비활성화하려면 씬 재접속이 필요합니다. 예: 던전 진입 또는 게임 재접속)",
+  "CUSTOM_ELEMENT_DESCRIPTION": "원소 피해 유형을 사용자가 지정할 수 있습니다.\n일부 캐릭터에서는 작동하지 않을 수 있습니다.\n(이 기능을 완전히 해제하려면 비경에 진입하거나 게임을 재접속하는 등 지역을 이동해야 합니다)",
   "RANDOM_ELEMENT_TITLE": "무작위 원소 타입",
   "RANDOM_ELEMENT_DESCRIPTION": "타격 시 무작위 원소 타입 적용.",
   "ELEMENT_TITLE": "원소",
@@ -878,7 +878,7 @@
   "INSTANT_DEATH_MODE_DESCRIPTION": "킬 아우라가 인식하는 모든 유효한 대상을 즉시 처치합니다.\n일부 몬스터에게는 오류(버그)가 발생할 수 있습니다.",
 
   "MOB_VACUUM_TITLE": "몹 끌어오기",
-  "MOB_VACUUM_DESCRIPTION": "범위 내의 모든 적을 플레이어 앞의 지정된 지점으로 끌어당깁니다.",
+  "MOB_VACUUM_DESCRIPTION": "범위 내의 모든 적을 플레이어 앞으로 끌어당깁니다.",
   "MOB_VACUUM_INCLUDE_MONSTERS_TITLE": "몬스터 포함",
   "MOB_VACUUM_INCLUDE_MONSTERS_DESCRIPTION": "끌어올 몬스터의 종류를 선택합니다.",
   "MOB_VACUUM_COMMON_TITLE": "일반",
